@@ -32,6 +32,7 @@
 - 站点内聚合：选定某站点后按分区（`source`）分组展示，避免同分区被打散
 - 全量视图：支持“去重开/关”开关；开启时按“原文标题 + 链接”做随机去重（仅全量生效）
 - 双语显示：英文原生标题优先补中文译文（缓存到 `data/title-zh-cache.json`）
+- 可选 RSS：支持从 OPML 批量导入 RSS，并输出失败源/零更新源告警
 
 ## 站点规则
 
@@ -52,6 +53,8 @@ python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 python scripts/update_news.py --output-dir data --window-hours 24
+# 叠加 OPML RSS（例如 Follow 导出的 follow.opml）
+python scripts/update_news.py --output-dir data --window-hours 24 --rss-opml /Users/carl/Downloads/follow.opml
 ```
 
 启动本地预览：

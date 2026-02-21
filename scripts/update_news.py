@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import argparse
+from concurrent.futures import ThreadPoolExecutor, as_completed
 import hashlib
 import json
 import random
@@ -1431,6 +1432,165 @@ def collect_all(session: requests.Session, now: datetime) -> tuple[list[RawItem]
     return raw_items, statuses
 
 
+def parse_opml_subscriptions(opml_path: Path) -> list[dict[str, str]]:
+    root = ET.parse(opml_path).getroot()
+    out: list[dict[str, str]] = []
+    seen: set[str] = set()
+
+    for outline in root.findall(".//outline"):
+        xml_url = str(outline.attrib.get("xmlUrl") or "").strip()
+        if not xml_url:
+            continue
+        if xml_url in seen:
+            continue
+        seen.add(xml_url)
+        title = first_non_empty(
+            outline.attrib.get("title"),
+            outline.attrib.get("text"),
+            host_of_url(xml_url),
+            xml_url,
+        )
+        html_url = str(outline.attrib.get("htmlUrl") or "").strip()
+        out.append(
+            {
+                "title": title,
+                "xml_url": xml_url,
+                "html_url": html_url,
+            }
+        )
+    return out
+
+
+def fetch_opml_rss(
+    now: datetime,
+    opml_path: Path,
+    max_feeds: int = 0,
+) -> tuple[list[RawItem], dict[str, Any], list[dict[str, Any]]]:
+    feeds = parse_opml_subscriptions(opml_path)
+    if max_feeds > 0:
+        feeds = feeds[:max_feeds]
+
+    out: list[RawItem] = []
+    feed_statuses: list[dict[str, Any]] = []
+
+    def fetch_single_feed(feed: dict[str, str]) -> tuple[list[RawItem], dict[str, Any]]:
+        feed_url = feed["xml_url"]
+        feed_title = feed["title"]
+        feed_id = hashlib.sha1(feed_url.encode("utf-8")).hexdigest()[:10]
+        start = time.perf_counter()
+        error = None
+        local_items: list[RawItem] = []
+
+        try:
+            resp = requests.get(
+                feed_url,
+                timeout=12,
+                headers={
+                    "User-Agent": BROWSER_UA,
+                    "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+                },
+            )
+            resp.raise_for_status()
+
+            if feedparser is not None:
+                parsed = feedparser.parse(resp.content)
+                source_name = first_non_empty(
+                    feed_title,
+                    getattr(parsed, "feed", {}).get("title"),
+                    host_of_url(feed_url),
+                )
+                entries = parsed.entries
+                for entry in entries:
+                    title = str(entry.get("title", "")).strip()
+                    link = str(entry.get("link", "")).strip()
+                    if not title or not link:
+                        continue
+                    published = (
+                        parse_date_any(entry.get("published"), now)
+                        or parse_date_any(entry.get("updated"), now)
+                        or parse_date_any(entry.get("pubDate"), now)
+                    )
+                    if not published:
+                        continue
+                    local_items.append(
+                        RawItem(
+                            site_id="opmlrss",
+                            site_name="OPML RSS",
+                            source=source_name,
+                            title=title,
+                            url=link,
+                            published_at=published,
+                            meta={
+                                "feed_url": feed_url,
+                                "feed_home": feed.get("html_url") or "",
+                            },
+                        )
+                    )
+            else:
+                source_name = first_non_empty(feed_title, host_of_url(feed_url))
+                entries = parse_feed_entries_via_xml(resp.content)
+                for entry in entries:
+                    published = parse_date_any(entry.get("published"), now)
+                    if not published:
+                        continue
+                    local_items.append(
+                        RawItem(
+                            site_id="opmlrss",
+                            site_name="OPML RSS",
+                            source=source_name,
+                            title=entry.get("title", ""),
+                            url=entry.get("link", ""),
+                            published_at=published,
+                            meta={
+                                "feed_url": feed_url,
+                                "feed_home": feed.get("html_url") or "",
+                            },
+                        )
+                    )
+        except Exception as exc:
+            error = str(exc)
+
+        duration_ms = int((time.perf_counter() - start) * 1000)
+        status = {
+            "site_id": f"opmlrss:{feed_id}",
+            "site_name": "OPML RSS",
+            "feed_title": feed_title,
+            "feed_url": feed_url,
+            "ok": error is None,
+            "item_count": len(local_items),
+            "duration_ms": duration_ms,
+            "error": error,
+        }
+        return local_items, status
+
+    worker_count = min(20, max(4, len(feeds)))
+    with ThreadPoolExecutor(max_workers=worker_count) as executor:
+        futures = [executor.submit(fetch_single_feed, feed) for feed in feeds]
+        for future in as_completed(futures):
+            items, status = future.result()
+            out.extend(items)
+            feed_statuses.append(status)
+
+    feed_statuses.sort(key=lambda x: str(x.get("feed_title") or x.get("feed_url") or ""))
+    total_duration_ms = sum(int(s.get("duration_ms") or 0) for s in feed_statuses)
+    ok_feeds = sum(1 for s in feed_statuses if s["ok"])
+    failed_feeds = sum(1 for s in feed_statuses if not s["ok"])
+
+    summary_status = {
+        "site_id": "opmlrss",
+        "site_name": "OPML RSS",
+        "ok": ok_feeds > 0,
+        "partial_failures": failed_feeds,
+        "item_count": len(out),
+        "duration_ms": total_duration_ms,
+        "error": None if failed_feeds == 0 else f"{failed_feeds} feeds failed",
+        "feed_count": len(feeds),
+        "ok_feed_count": ok_feeds,
+        "failed_feed_count": failed_feeds,
+    }
+    return out, summary_status, feed_statuses
+
+
 def load_archive(path: Path) -> dict[str, dict[str, Any]]:
     if not path.exists():
         return {}
@@ -1770,6 +1930,8 @@ def main() -> int:
     parser.add_argument("--window-hours", type=int, default=24, help="24h window size")
     parser.add_argument("--archive-days", type=int, default=45, help="Keep archive for N days")
     parser.add_argument("--translate-max-new", type=int, default=80, help="Max new EN->ZH title translations per run")
+    parser.add_argument("--rss-opml", default="", help="Optional OPML file path to include RSS sources")
+    parser.add_argument("--rss-max-feeds", type=int, default=0, help="Optional max OPML RSS feeds to fetch (0 means all)")
     args = parser.parse_args()
 
     now = utc_now()
@@ -1786,6 +1948,32 @@ def main() -> int:
 
     session = create_session()
     raw_items, statuses = collect_all(session, now)
+    rss_feed_statuses: list[dict[str, Any]] = []
+
+    if args.rss_opml:
+        opml_path = Path(args.rss_opml).expanduser()
+        if opml_path.exists():
+            rss_items, rss_summary_status, rss_feed_statuses = fetch_opml_rss(
+                now,
+                opml_path,
+                max_feeds=max(0, int(args.rss_max_feeds)),
+            )
+            raw_items.extend(rss_items)
+            statuses.append(rss_summary_status)
+        else:
+            statuses.append(
+                {
+                    "site_id": "opmlrss",
+                    "site_name": "OPML RSS",
+                    "ok": False,
+                    "item_count": 0,
+                    "duration_ms": 0,
+                    "error": f"OPML not found: {opml_path}",
+                    "feed_count": 0,
+                    "ok_feed_count": 0,
+                    "failed_feed_count": 0,
+                }
+            )
 
     seen_this_run: set[str] = set()
 
@@ -1942,9 +2130,19 @@ def main() -> int:
         "sites": statuses,
         "successful_sites": sum(1 for s in statuses if s["ok"]),
         "failed_sites": [s["site_id"] for s in statuses if not s["ok"]],
+        "zero_item_sites": [s["site_id"] for s in statuses if s.get("ok") and int(s.get("item_count") or 0) == 0],
         "fetched_raw_items": len(raw_items),
         "items_before_topic_filter": len(latest_items_all),
         "items_in_24h": len(latest_items_ai_dedup),
+        "rss_opml": {
+            "enabled": bool(args.rss_opml),
+            "path": str(Path(args.rss_opml).expanduser()) if args.rss_opml else None,
+            "feed_total": len(rss_feed_statuses),
+            "ok_feeds": sum(1 for s in rss_feed_statuses if s["ok"]),
+            "failed_feeds": [s["feed_url"] for s in rss_feed_statuses if not s["ok"]],
+            "zero_item_feeds": [s["feed_url"] for s in rss_feed_statuses if s["ok"] and int(s.get("item_count") or 0) == 0],
+            "feeds": rss_feed_statuses,
+        },
     }
 
     try:
