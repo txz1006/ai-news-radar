@@ -1,32 +1,4 @@
 {
-  "generated_at": "2026-08-03T00:20:18.145277Z",
-  "model": "deepseek-v4-flash",
-  "personas": [
-    {
-      "id": "cynic",
-      "name": "毒舌评论员"
-    },
-    {
-      "id": "paper-police",
-      "name": "较真党"
-    },
-    {
-      "id": "pragmatic",
-      "name": "实用派"
-    }
-  ],
-  "items": [
-    {
-      "story_id": "story_cd21c6fddb56",
-      "title": "瓦解诈骗犯罪行动 / Disrupting a Criminal Scam Operation",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "rank": 1,
-      "reviews": {
-        "pragmatic": {
-          "score": 40,
-          "review": "安全行动新闻，对开发者无直接工具价值，了解即可。"
-        }
-      }
-    }
-  ]
+  "generated_at": "2026-08-03T06:33:29.014658Z",
+  "items": []
 }
