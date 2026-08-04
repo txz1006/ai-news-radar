@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T18:49:29.538676Z",
+  "generated_at": "2026-08-04T20:41:28.039313Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-08-04",
-  "count_today": 5,
+  "count_today": 6,
   "updates_today": [
     {
       "date": "2026-08-04",
@@ -27,6 +27,12 @@
     },
     {
       "date": "2026-08-04",
+      "title": "前端开发与UI设计师必备的Skill",
+      "summary": "这是一个面向设计师与前端工程师的技能库。它们来自作者在Vercel、Linear等公司的多年工作经验。对于持续学习Vibe Coding、产品设计的用户来说，都非常有价值。",
+      "url": "https://waytoagi.feishu.cn/wiki/Ik51wQZrCixtPeky8ZrcTPIAnCd?from=from_copylink"
+    },
+    {
+      "date": "2026-08-04",
       "title": "乔木开源了一个元Skill：可以一句话生成可发布的 Skill",
       "summary": "乔木开源的这个 元Skill 可以让你一句话生成真正能被发现、能稳定触发、能通过验证、还能一键开源的Skill。你把提示词、SOP、聊天记录、旧Skill或者一个模糊想法交给它，它会自动完成需求收敛、同类检索、取舍设计、触发评测、格式校验、README、密钥泄露检查、PR、Release和npx安装验证。快来试试看！",
       "url": "https://waytoagi.feishu.cn/wiki/NkzEw5Fo9igpZhk9W89c0dzynTg?from=from_copylink"
@@ -38,7 +44,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/XBlhwhR6RimU4ukhIzfcJb4OnTh?from=from_copylink"
     }
   ],
-  "count_7d": 38,
+  "count_7d": 39,
   "updates_7d": [
     {
       "date": "2026-08-04",
@@ -57,6 +63,12 @@
       "title": "海螺 MiniMax H3 开源，我用它做了7条广告、9段大片和4场戏（附提示词）",
       "summary": "海螺 MiniMax H3 正式开源，小歪跑了一大批案例，测试了产品广告、饮品广告、越野车、探店、美妆带货、餐饮广告，也试了文字渲染、多视角同步、灾难片、二次元变身、情感短剧、动作片、魔法特效、打斗和国风演唱。还给出了完整的提示词，快来一起试试效果如何！",
       "url": "https://waytoagi.feishu.cn/wiki/P1YkwgeQGi6KMekyl3Fc2dbGnee?from=from_copylink"
+    },
+    {
+      "date": "2026-08-04",
+      "title": "前端开发与UI设计师必备的Skill",
+      "summary": "这是一个面向设计师与前端工程师的技能库。它们来自作者在Vercel、Linear等公司的多年工作经验。对于持续学习Vibe Coding、产品设计的用户来说，都非常有价值。",
+      "url": "https://waytoagi.feishu.cn/wiki/Ik51wQZrCixtPeky8ZrcTPIAnCd?from=from_copylink"
     },
     {
       "date": "2026-08-04",
