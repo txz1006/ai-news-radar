@@ -1,8 +1,121 @@
 {
-  "generated_at": "2026-08-04T20:41:28.039313Z",
+  "generated_at": "2026-08-04T22:20:43.362896Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_0e23ce0343ea",
+      "title": "涉及 OpenAI 模型的第三方网络评估 / Third-party cyber evaluations involving OpenAI models",
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "primary_url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "56547598ec4d3c59330bc56ab8fade3ecbd44a26",
+          "title": "涉及 OpenAI 模型的第三方网络评估 / Third-party cyber evaluations involving OpenAI models",
+          "title_zh": "涉及 OpenAI 模型的第三方网络评估",
+          "title_en": "Third-party cyber evaluations involving OpenAI models",
+          "title_original": "Third-party cyber evaluations involving OpenAI models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-04T19:00:00Z"
+        },
+        {
+          "id": "bf5b333699fa8cee02a68c8fe27dd01158d97587",
+          "title": "涉及 OpenAI 模型的第三方网络评估 / Third-party cyber evaluations involving OpenAI models",
+          "title_zh": "涉及 OpenAI 模型的第三方网络评估",
+          "title_en": "Third-party cyber evaluations involving OpenAI models",
+          "title_original": "Third-party cyber evaluations involving OpenAI models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49175248",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-04T22:08:40.883000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "56547598ec4d3c59330bc56ab8fade3ecbd44a26",
+          "title": "涉及 OpenAI 模型的第三方网络评估 / Third-party cyber evaluations involving OpenAI models",
+          "title_zh": "涉及 OpenAI 模型的第三方网络评估",
+          "title_en": "Third-party cyber evaluations involving OpenAI models",
+          "title_original": "Third-party cyber evaluations involving OpenAI models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-04T19:00:00Z"
+        },
+        {
+          "id": "bf5b333699fa8cee02a68c8fe27dd01158d97587",
+          "title": "涉及 OpenAI 模型的第三方网络评估 / Third-party cyber evaluations involving OpenAI models",
+          "title_zh": "涉及 OpenAI 模型的第三方网络评估",
+          "title_en": "Third-party cyber evaluations involving OpenAI models",
+          "title_original": "Third-party cyber evaluations involving OpenAI models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49175248",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-04T22:08:40.883000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8805,
+      "importance": 0.8805,
+      "importance_score": 0.8805,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.97,
+        "recency": 0.9528,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T19:00:00Z",
+      "latest_at": "2026-08-04T22:08:40.883000Z",
+      "primary_item": {
+        "id": "56547598ec4d3c59330bc56ab8fade3ecbd44a26",
+        "title": "涉及 OpenAI 模型的第三方网络评估 / Third-party cyber evaluations involving OpenAI models",
+        "title_zh": "涉及 OpenAI 模型的第三方网络评估",
+        "title_en": "Third-party cyber evaluations involving OpenAI models",
+        "title_original": "Third-party cyber evaluations involving OpenAI models",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-04T22:21:24.306222Z"
+      }
+    },
     {
       "story_id": "story_48546ed95685",
       "title": "停用 Copilot Billing Preview 应用程序 / Retiring the Copilot Billing Preview app",
@@ -48,15 +161,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8481,
-      "importance": 0.8481,
-      "importance_score": 0.8481,
+      "score": 0.8439,
+      "importance": 0.8439,
+      "importance_score": 0.8439,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9781,
+        "recency": 0.955,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +196,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T20:42:20.485609Z"
+        "scored_at": "2026-08-04T22:21:24.306222Z"
       }
     },
     {
@@ -131,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8478,
-      "importance": 0.8478,
-      "importance_score": 0.8478,
+      "score": 0.8436,
+      "importance": 0.8436,
+      "importance_score": 0.8436,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9765,
+        "recency": 0.9534,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +279,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T20:42:20.485609Z"
+        "scored_at": "2026-08-04T22:21:24.306222Z"
       }
     },
     {
@@ -214,15 +327,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8434,
-      "importance": 0.8434,
-      "importance_score": 0.8434,
+      "score": 0.8395,
+      "importance": 0.8395,
+      "importance_score": 0.8395,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9076,
+        "recency": 0.8861,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,120 +362,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T20:42:20.485609Z"
-      }
-    },
-    {
-      "story_id": "story_579f66b7beb0",
-      "title": "苹果在这件事上搞错了 / Apple is getting this wrong",
-      "url": "https://openai.com/index/apple-is-getting-this-wrong",
-      "primary_url": "https://openai.com/index/apple-is-getting-this-wrong",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ce0656b6b37df08856d608cf2a3be369847eee00",
-          "title": "苹果在这件事上搞错了 / Apple is getting this wrong",
-          "title_zh": "苹果在这件事上搞错了",
-          "title_en": "Apple is getting this wrong",
-          "title_original": "Apple is getting this wrong",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/apple-is-getting-this-wrong",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-03T22:00:00Z"
-        },
-        {
-          "id": "a833a6eb0db2cced4af45800a3813f6fb7acdd2c",
-          "title": "苹果在这件事上搞错了",
-          "title_zh": "苹果在这件事上搞错了",
-          "title_en": null,
-          "title_original": "苹果在这件事上搞错了",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/apple-is-getting-this-wrong",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-04T07:20:54.985000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "ce0656b6b37df08856d608cf2a3be369847eee00",
-          "title": "苹果在这件事上搞错了 / Apple is getting this wrong",
-          "title_zh": "苹果在这件事上搞错了",
-          "title_en": "Apple is getting this wrong",
-          "title_original": "Apple is getting this wrong",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/apple-is-getting-this-wrong",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-03T22:00:00Z"
-        },
-        {
-          "id": "a833a6eb0db2cced4af45800a3813f6fb7acdd2c",
-          "title": "苹果在这件事上搞错了",
-          "title_zh": "苹果在这件事上搞错了",
-          "title_en": null,
-          "title_original": "苹果在这件事上搞错了",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/apple-is-getting-this-wrong",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-04T07:20:54.985000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8267,
-      "importance": 0.8267,
-      "importance_score": 0.8267,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7206,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-03T22:00:00Z",
-      "latest_at": "2026-08-04T07:20:54.985000Z",
-      "primary_item": {
-        "id": "ce0656b6b37df08856d608cf2a3be369847eee00",
-        "title": "苹果在这件事上搞错了 / Apple is getting this wrong",
-        "title_zh": "苹果在这件事上搞错了",
-        "title_en": "Apple is getting this wrong",
-        "title_original": "Apple is getting this wrong",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/apple-is-getting-this-wrong",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-04T20:42:20.485609Z"
+        "scored_at": "2026-08-04T22:21:24.306222Z"
       }
     },
     {
@@ -410,15 +410,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8251,
-      "importance": 0.8251,
-      "importance_score": 0.8251,
+      "score": 0.8213,
+      "importance": 0.8213,
+      "importance_score": 0.8213,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8949,
+        "recency": 0.8738,
         "story_heat": 0.0
       },
       "category": "official",
@@ -445,7 +445,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T20:42:20.485609Z"
+        "scored_at": "2026-08-04T22:21:24.306222Z"
       }
     },
     {
@@ -551,15 +551,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8106,
-      "importance": 0.8106,
-      "importance_score": 0.8106,
+      "score": 0.8068,
+      "importance": 0.8068,
+      "importance_score": 0.8068,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8942,
+        "recency": 0.8731,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -586,7 +586,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T20:42:20.485609Z"
+        "scored_at": "2026-08-04T22:21:24.306222Z"
       }
     },
     {
@@ -634,15 +634,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8403,
-      "importance": 0.8403,
-      "importance_score": 0.8403,
+      "score": 0.8361,
+      "importance": 0.8361,
+      "importance_score": 0.8361,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9795,
+        "recency": 0.9564,
         "story_heat": 0.0
       },
       "category": "official",
@@ -669,7 +669,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T20:42:20.485609Z"
+        "scored_at": "2026-08-04T22:21:24.306222Z"
       }
     },
     {
@@ -717,15 +717,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8215,
-      "importance": 0.8215,
-      "importance_score": 0.8215,
+      "score": 0.8184,
+      "importance": 0.8184,
+      "importance_score": 0.8184,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7417,
+        "recency": 0.7242,
         "story_heat": 0.0
       },
       "category": "official",
@@ -752,89 +752,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T20:42:20.485609Z"
-      }
-    },
-    {
-      "story_id": "story_b2c075d30098",
-      "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT / A unified API for AI model routing",
-      "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
-      "primary_url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
-      "source": "Google Developers Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "88f7a6b44ec2956b56cca1c1ef06c438d6bbbc57",
-          "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT / A unified API for AI model routing",
-          "title_zh": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT",
-          "title_en": "A unified API for AI model routing",
-          "title_original": "A unified API for AI model routing",
-          "summary": "Google Cloud API Gateway 新增模型路由功能（Public Preview），开发者可在 OpenAPI 3.x 规范中配置虚拟模型名到后端目标的映射，无需硬编码端点或管理开源代理。网关作为无服务器入口层，接受标准 OpenAI 兼容请求，自动将负载转码为目标模型的原生格式并动态路由流量。",
-          "recommend_reason_zh": null,
-          "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T16:45:02.138000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google Developers Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "88f7a6b44ec2956b56cca1c1ef06c438d6bbbc57",
-          "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT / A unified API for AI model routing",
-          "title_zh": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT",
-          "title_en": "A unified API for AI model routing",
-          "title_original": "A unified API for AI model routing",
-          "summary": "Google Cloud API Gateway 新增模型路由功能（Public Preview），开发者可在 OpenAPI 3.x 规范中配置虚拟模型名到后端目标的映射，无需硬编码端点或管理开源代理。网关作为无服务器入口层，接受标准 OpenAI 兼容请求，自动将负载转码为目标模型的原生格式并动态路由流量。",
-          "recommend_reason_zh": null,
-          "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T16:45:02.138000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.773,
-      "importance": 0.773,
-      "importance_score": 0.773,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.61,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.9447,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-04T16:45:02.138000Z",
-      "latest_at": "2026-08-04T16:45:02.138000Z",
-      "primary_item": {
-        "id": "88f7a6b44ec2956b56cca1c1ef06c438d6bbbc57",
-        "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT / A unified API for AI model routing",
-        "title_zh": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT",
-        "title_en": "A unified API for AI model routing",
-        "title_original": "A unified API for AI model routing",
-        "summary": "Google Cloud API Gateway 新增模型路由功能（Public Preview），开发者可在 OpenAPI 3.x 规范中配置虚拟模型名到后端目标的映射，无需硬编码端点或管理开源代理。网关作为无服务器入口层，接受标准 OpenAI 兼容请求，自动将负载转码为目标模型的原生格式并动态路由流量。",
-        "recommend_reason_zh": null,
-        "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
-        "source": "Google Developers Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-04T20:42:20.485609Z"
+        "scored_at": "2026-08-04T22:21:24.306222Z"
       }
     },
     {
@@ -911,15 +829,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7727,
-      "importance": 0.7727,
-      "importance_score": 0.7727,
+      "score": 0.7694,
+      "importance": 0.7694,
+      "importance_score": 0.7694,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7897,
+        "recency": 0.7711,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -946,7 +864,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T20:42:20.485609Z"
+        "scored_at": "2026-08-04T22:21:24.306222Z"
+      }
+    },
+    {
+      "story_id": "story_b2c075d30098",
+      "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT / A unified API for AI model routing",
+      "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
+      "primary_url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
+      "source": "Google Developers Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "88f7a6b44ec2956b56cca1c1ef06c438d6bbbc57",
+          "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT / A unified API for AI model routing",
+          "title_zh": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT",
+          "title_en": "A unified API for AI model routing",
+          "title_original": "A unified API for AI model routing",
+          "summary": "Google Cloud API Gateway 新增模型路由功能（Public Preview），开发者可在 OpenAPI 3.x 规范中配置虚拟模型名到后端目标的映射，无需硬编码端点或管理开源代理。网关作为无服务器入口层，接受标准 OpenAI 兼容请求，自动将负载转码为目标模型的原生格式并动态路由流量。",
+          "recommend_reason_zh": null,
+          "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
+          "source": "Google Developers Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T16:45:02.138000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google Developers Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "88f7a6b44ec2956b56cca1c1ef06c438d6bbbc57",
+          "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT / A unified API for AI model routing",
+          "title_zh": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT",
+          "title_en": "A unified API for AI model routing",
+          "title_original": "A unified API for AI model routing",
+          "summary": "Google Cloud API Gateway 新增模型路由功能（Public Preview），开发者可在 OpenAPI 3.x 规范中配置虚拟模型名到后端目标的映射，无需硬编码端点或管理开源代理。网关作为无服务器入口层，接受标准 OpenAI 兼容请求，自动将负载转码为目标模型的原生格式并动态路由流量。",
+          "recommend_reason_zh": null,
+          "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
+          "source": "Google Developers Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T16:45:02.138000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.769,
+      "importance": 0.769,
+      "importance_score": 0.769,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.61,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.9224,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T16:45:02.138000Z",
+      "latest_at": "2026-08-04T16:45:02.138000Z",
+      "primary_item": {
+        "id": "88f7a6b44ec2956b56cca1c1ef06c438d6bbbc57",
+        "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT / A unified API for AI model routing",
+        "title_zh": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT",
+        "title_en": "A unified API for AI model routing",
+        "title_original": "A unified API for AI model routing",
+        "summary": "Google Cloud API Gateway 新增模型路由功能（Public Preview），开发者可在 OpenAPI 3.x 规范中配置虚拟模型名到后端目标的映射，无需硬编码端点或管理开源代理。网关作为无服务器入口层，接受标准 OpenAI 兼容请求，自动将负载转码为目标模型的原生格式并动态路由流量。",
+        "recommend_reason_zh": null,
+        "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
+        "source": "Google Developers Blog（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-04T22:21:24.306222Z"
       }
     },
     {
@@ -994,15 +994,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.832,
-      "importance": 0.832,
-      "importance_score": 0.832,
+      "score": 0.828,
+      "importance": 0.828,
+      "importance_score": 0.828,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9333,
+        "recency": 0.9113,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1029,7 +1029,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T20:42:20.485609Z"
+        "scored_at": "2026-08-04T22:21:24.306222Z"
       }
     },
     {
@@ -1077,15 +1077,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7713,
-      "importance": 0.7713,
-      "importance_score": 0.7713,
+      "score": 0.7674,
+      "importance": 0.7674,
+      "importance_score": 0.7674,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9208,
+        "recency": 0.8991,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1111,7 +1111,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T20:42:20.485609Z"
+        "scored_at": "2026-08-04T22:21:24.306222Z"
       }
     },
     {
@@ -1159,15 +1159,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7697,
-      "importance": 0.7697,
-      "importance_score": 0.7697,
+      "score": 0.7655,
+      "importance": 0.7655,
+      "importance_score": 0.7655,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9783,
+        "recency": 0.9552,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1193,7 +1193,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T20:42:20.485609Z"
+        "scored_at": "2026-08-04T22:21:24.306222Z"
+      }
+    },
+    {
+      "story_id": "story_48187a538519",
+      "title": "Replit 环境智能：免提示词自动生成设计 / You don't need to prompt. You don't need design language. Ambient Intelligence surfaces suggestion …",
+      "url": "https://x.com/Replit/status/2084761337570144424",
+      "primary_url": "https://x.com/Replit/status/2084761337570144424",
+      "source": "X：Replit (@Replit)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "bb9042948d345786f700efe61ab211a4b2f753a8",
+          "title": "Replit 环境智能：免提示词自动生成设计 / You don't need to prompt. You don't need design language. Ambient Intelligence surfaces suggestion …",
+          "title_zh": "Replit 环境智能：免提示词自动生成设计",
+          "title_en": "You don't need to prompt. You don't need design language. Ambient Intelligence surfaces suggestion …",
+          "title_original": "You don't need to prompt. You don't need design language. Ambient Intelligence surfaces suggestion …",
+          "summary": "你无需提示词，也无需设计语言。\n\n环境智能（Ambient Intelligence）会在每个画面旁显示建议卡片，每张卡片都指向你的设计的一个不同方向。点击你喜欢的那张，即可看到它生成一个新的画面。\n\n你再也不必纠结下一步该做什么。\n\n立即在 http://replit.com/design 体验。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Replit/status/2084761337570144424",
+          "source": "X：Replit (@Replit)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T22:00:10Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Replit (@Replit)"
+      ],
+      "items": [
+        {
+          "id": "bb9042948d345786f700efe61ab211a4b2f753a8",
+          "title": "Replit 环境智能：免提示词自动生成设计 / You don't need to prompt. You don't need design language. Ambient Intelligence surfaces suggestion …",
+          "title_zh": "Replit 环境智能：免提示词自动生成设计",
+          "title_en": "You don't need to prompt. You don't need design language. Ambient Intelligence surfaces suggestion …",
+          "title_original": "You don't need to prompt. You don't need design language. Ambient Intelligence surfaces suggestion …",
+          "summary": "你无需提示词，也无需设计语言。\n\n环境智能（Ambient Intelligence）会在每个画面旁显示建议卡片，每张卡片都指向你的设计的一个不同方向。点击你喜欢的那张，即可看到它生成一个新的画面。\n\n你再也不必纠结下一步该做什么。\n\n立即在 http://replit.com/design 体验。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Replit/status/2084761337570144424",
+          "source": "X：Replit (@Replit)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T22:00:10Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7577,
+      "importance": 0.7577,
+      "importance_score": 0.7577,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9951,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T22:00:10Z",
+      "latest_at": "2026-08-04T22:00:10Z",
+      "primary_item": {
+        "id": "bb9042948d345786f700efe61ab211a4b2f753a8",
+        "title": "Replit 环境智能：免提示词自动生成设计 / You don't need to prompt. You don't need design language. Ambient Intelligence surfaces suggestion …",
+        "title_zh": "Replit 环境智能：免提示词自动生成设计",
+        "title_en": "You don't need to prompt. You don't need design language. Ambient Intelligence surfaces suggestion …",
+        "title_original": "You don't need to prompt. You don't need design language. Ambient Intelligence surfaces suggestion …",
+        "summary": "你无需提示词，也无需设计语言。\n\n环境智能（Ambient Intelligence）会在每个画面旁显示建议卡片，每张卡片都指向你的设计的一个不同方向。点击你喜欢的那张，即可看到它生成一个新的画面。\n\n你再也不必纠结下一步该做什么。\n\n立即在 http://replit.com/design 体验。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/Replit/status/2084761337570144424",
+        "source": "X：Replit (@Replit)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-04T22:21:24.306222Z"
       }
     },
     {
@@ -1241,15 +1323,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7606,
-      "importance": 0.7606,
-      "importance_score": 0.7606,
+      "score": 0.757,
+      "importance": 0.757,
+      "importance_score": 0.757,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8442,
+        "recency": 0.8243,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1275,7 +1357,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T20:42:20.485609Z"
+        "scored_at": "2026-08-04T22:21:24.306222Z"
       }
     },
     {
@@ -1323,15 +1405,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7604,
-      "importance": 0.7604,
-      "importance_score": 0.7604,
+      "score": 0.7563,
+      "importance": 0.7563,
+      "importance_score": 0.7563,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9598,
+        "recency": 0.9372,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1357,7 +1439,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T20:42:20.485609Z"
+        "scored_at": "2026-08-04T22:21:24.306222Z"
       }
     },
     {
@@ -1434,15 +1516,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7895,
-      "importance": 0.7895,
-      "importance_score": 0.7895,
+      "score": 0.7854,
+      "importance": 0.7854,
+      "importance_score": 0.7854,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9659,
+        "recency": 0.9431,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1469,7 +1551,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T20:42:20.485609Z"
+        "scored_at": "2026-08-04T22:21:24.306222Z"
       }
     },
     {
@@ -1517,15 +1599,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.747,
-      "importance": 0.747,
-      "importance_score": 0.747,
+      "score": 0.7433,
+      "importance": 0.7433,
+      "importance_score": 0.7433,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8857,
+        "recency": 0.8648,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1550,7 +1632,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T20:42:20.485609Z"
+        "scored_at": "2026-08-04T22:21:24.306222Z"
       }
     },
     {
@@ -1598,15 +1680,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8055,
-      "importance": 0.8055,
-      "importance_score": 0.8055,
+      "score": 0.8024,
+      "importance": 0.8024,
+      "importance_score": 0.8024,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7417,
+        "recency": 0.7242,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1633,7 +1715,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T20:42:20.485609Z"
+        "scored_at": "2026-08-04T22:21:24.306222Z"
       }
     },
     {
@@ -1681,15 +1763,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7427,
-      "importance": 0.7427,
-      "importance_score": 0.7427,
+      "score": 0.7387,
+      "importance": 0.7387,
+      "importance_score": 0.7387,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9452,
+        "recency": 0.9229,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1714,88 +1796,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T20:42:20.485609Z"
-      }
-    },
-    {
-      "story_id": "story_9cb1dda99735",
-      "title": "OpenRouter 上线 FLUX 3 Video 统一多模态模型 / FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…",
-      "url": "https://x.com/OpenRouter/status/2084699413898027064",
-      "primary_url": "https://x.com/OpenRouter/status/2084699413898027064",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2809224f4448239865410581bb52afce9bd9196f",
-          "title": "OpenRouter 上线 FLUX 3 Video 统一多模态模型 / FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…",
-          "title_zh": "OpenRouter 上线 FLUX 3 Video 统一多模态模型",
-          "title_en": "FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…",
-          "title_original": "FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…",
-          "summary": "@bfl_ai 的 FLUX 3 Video 现已在 OpenRouter 上向所有人开放。\n\n一个统一的视频、音频、图像和动作预测多模态模型家族。严肃、有趣、创意、真实、电影感，随你所需。基于统一架构联合训练。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenRouter/status/2084699413898027064",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T17:54:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenRouter (@OpenRouter)"
-      ],
-      "items": [
-        {
-          "id": "2809224f4448239865410581bb52afce9bd9196f",
-          "title": "OpenRouter 上线 FLUX 3 Video 统一多模态模型 / FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…",
-          "title_zh": "OpenRouter 上线 FLUX 3 Video 统一多模态模型",
-          "title_en": "FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…",
-          "title_original": "FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…",
-          "summary": "@bfl_ai 的 FLUX 3 Video 现已在 OpenRouter 上向所有人开放。\n\n一个统一的视频、音频、图像和动作预测多模态模型家族。严肃、有趣、创意、真实、电影感，随你所需。基于统一架构联合训练。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenRouter/status/2084699413898027064",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T17:54:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7425,
-      "importance": 0.7425,
-      "importance_score": 0.7425,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9605,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-04T17:54:06Z",
-      "latest_at": "2026-08-04T17:54:06Z",
-      "primary_item": {
-        "id": "2809224f4448239865410581bb52afce9bd9196f",
-        "title": "OpenRouter 上线 FLUX 3 Video 统一多模态模型 / FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…",
-        "title_zh": "OpenRouter 上线 FLUX 3 Video 统一多模态模型",
-        "title_en": "FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…",
-        "title_original": "FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…",
-        "summary": "@bfl_ai 的 FLUX 3 Video 现已在 OpenRouter 上向所有人开放。\n\n一个统一的视频、音频、图像和动作预测多模态模型家族。严肃、有趣、创意、真实、电影感，随你所需。基于统一架构联合训练。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/OpenRouter/status/2084699413898027064",
-        "source": "X：OpenRouter (@OpenRouter)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-04T20:42:20.485609Z"
+        "scored_at": "2026-08-04T22:21:24.306222Z"
       }
     }
   ]
