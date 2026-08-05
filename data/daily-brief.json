@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T00:13:56.160428Z",
+  "generated_at": "2026-08-05T03:31:15.375593Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8759,
-      "importance": 0.8759,
-      "importance_score": 0.8759,
+      "score": 0.8682,
+      "importance": 0.8682,
+      "importance_score": 0.8682,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.97,
-        "recency": 0.9272,
+        "recency": 0.8842,
         "story_heat": 0.25
       },
       "category": "official",
@@ -113,7 +113,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T00:14:43.783302Z"
+        "scored_at": "2026-08-05T03:32:00.202521Z"
       }
     },
     {
@@ -161,15 +161,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8393,
-      "importance": 0.8393,
-      "importance_score": 0.8393,
+      "score": 0.8315,
+      "importance": 0.8315,
+      "importance_score": 0.8315,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9294,
+        "recency": 0.8863,
         "story_heat": 0.0
       },
       "category": "official",
@@ -196,7 +196,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T00:14:43.783302Z"
+        "scored_at": "2026-08-05T03:32:00.202521Z"
       }
     },
     {
@@ -244,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.839,
-      "importance": 0.839,
-      "importance_score": 0.839,
+      "score": 0.8313,
+      "importance": 0.8313,
+      "importance_score": 0.8313,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9278,
+        "recency": 0.8848,
         "story_heat": 0.0
       },
       "category": "official",
@@ -279,7 +279,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T00:14:43.783302Z"
+        "scored_at": "2026-08-05T03:32:00.202521Z"
       }
     },
     {
@@ -327,15 +327,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8352,
-      "importance": 0.8352,
-      "importance_score": 0.8352,
+      "score": 0.828,
+      "importance": 0.828,
+      "importance_score": 0.828,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8623,
+        "recency": 0.8223,
         "story_heat": 0.0
       },
       "category": "official",
@@ -362,7 +362,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T00:14:43.783302Z"
+        "scored_at": "2026-08-05T03:32:00.202521Z"
       }
     },
     {
@@ -410,15 +410,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.817,
-      "importance": 0.817,
-      "importance_score": 0.817,
+      "score": 0.81,
+      "importance": 0.81,
+      "importance_score": 0.81,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8503,
+        "recency": 0.8108,
         "story_heat": 0.0
       },
       "category": "official",
@@ -445,7 +445,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T00:14:43.783302Z"
+        "scored_at": "2026-08-05T03:32:00.202521Z"
       }
     },
     {
@@ -551,15 +551,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8025,
-      "importance": 0.8025,
-      "importance_score": 0.8025,
+      "score": 0.7954,
+      "importance": 0.7954,
+      "importance_score": 0.7954,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8496,
+        "recency": 0.8102,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -586,7 +586,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T00:14:43.783302Z"
+        "scored_at": "2026-08-05T03:32:00.202521Z"
       }
     },
     {
@@ -634,15 +634,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8315,
-      "importance": 0.8315,
-      "importance_score": 0.8315,
+      "score": 0.8238,
+      "importance": 0.8238,
+      "importance_score": 0.8238,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9307,
+        "recency": 0.8875,
         "story_heat": 0.0
       },
       "category": "official",
@@ -669,7 +669,253 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T00:14:43.783302Z"
+        "scored_at": "2026-08-05T03:32:00.202521Z"
+      }
+    },
+    {
+      "story_id": "story_20b80d150b2a",
+      "title": "LLM 0.32 发布：新增推理轨迹、OpenAI Responses、服务端工具与更智能的日志 / New release of LLM adds support for reasoning traces， OpenAI Responses， server-side tools， and smarter logging",
+      "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm",
+      "primary_url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm",
+      "source": "Simon Willison 博客",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5497c271baa91c9758e84f8bb4bf2363b088ac43",
+          "title": "LLM 0.32 发布：新增推理轨迹、OpenAI Responses、服务端工具与更智能的日志 / New release of LLM adds support for reasoning traces， OpenAI Responses， server-side tools， and smarter logging",
+          "title_zh": "LLM 0.32 发布：新增推理轨迹、OpenAI Responses、服务端工具与更智能的日志",
+          "title_en": "New release of LLM adds support for reasoning traces， OpenAI Responses， server-side tools， and smarter logging",
+          "title_original": "New release of LLM adds support for reasoning traces， OpenAI Responses， server-side tools， and smarter logging",
+          "summary": "Simon Willison 发布 LLM 0.32，这是该项目自启动以来最重要的新版本。新版本支持显示推理轨迹、服务端工具、OpenAI Responses API，并默认使用 GPT-5.6 Luna 模型。",
+          "recommend_reason_zh": null,
+          "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm",
+          "source": "Simon Willison 博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T23:58:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Simon Willison 博客"
+      ],
+      "items": [
+        {
+          "id": "5497c271baa91c9758e84f8bb4bf2363b088ac43",
+          "title": "LLM 0.32 发布：新增推理轨迹、OpenAI Responses、服务端工具与更智能的日志 / New release of LLM adds support for reasoning traces， OpenAI Responses， server-side tools， and smarter logging",
+          "title_zh": "LLM 0.32 发布：新增推理轨迹、OpenAI Responses、服务端工具与更智能的日志",
+          "title_en": "New release of LLM adds support for reasoning traces， OpenAI Responses， server-side tools， and smarter logging",
+          "title_original": "New release of LLM adds support for reasoning traces， OpenAI Responses， server-side tools， and smarter logging",
+          "summary": "Simon Willison 发布 LLM 0.32，这是该项目自启动以来最重要的新版本。新版本支持显示推理轨迹、服务端工具、OpenAI Responses API，并默认使用 GPT-5.6 Luna 模型。",
+          "recommend_reason_zh": null,
+          "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm",
+          "source": "Simon Willison 博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T23:58:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7796,
+      "importance": 0.7796,
+      "importance_score": 0.7796,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9501,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T23:58:24Z",
+      "latest_at": "2026-08-04T23:58:24Z",
+      "primary_item": {
+        "id": "5497c271baa91c9758e84f8bb4bf2363b088ac43",
+        "title": "LLM 0.32 发布：新增推理轨迹、OpenAI Responses、服务端工具与更智能的日志 / New release of LLM adds support for reasoning traces， OpenAI Responses， server-side tools， and smarter logging",
+        "title_zh": "LLM 0.32 发布：新增推理轨迹、OpenAI Responses、服务端工具与更智能的日志",
+        "title_en": "New release of LLM adds support for reasoning traces， OpenAI Responses， server-side tools， and smarter logging",
+        "title_original": "New release of LLM adds support for reasoning traces， OpenAI Responses， server-side tools， and smarter logging",
+        "summary": "Simon Willison 发布 LLM 0.32，这是该项目自启动以来最重要的新版本。新版本支持显示推理轨迹、服务端工具、OpenAI Responses API，并默认使用 GPT-5.6 Luna 模型。",
+        "recommend_reason_zh": null,
+        "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm",
+        "source": "Simon Willison 博客",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-05T03:32:00.202521Z"
+      }
+    },
+    {
+      "story_id": "story_3739c8d6bfe4",
+      "title": "开源「活人感写作.skill」：一个帮你写出没有AI味的文字的通用写作技能",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684946&idx=1&sn=ae7edcc572b998dc4e1ac3591977aa85",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684946&idx=1&sn=ae7edcc572b998dc4e1ac3591977aa85",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "aaf57dd20e5fea65099cec92429bf3759b4b25d2",
+          "title": "开源「活人感写作.skill」：一个帮你写出没有AI味的文字的通用写作技能",
+          "title_zh": "开源「活人感写作.skill」：一个帮你写出没有AI味的文字的通用写作技能",
+          "title_en": null,
+          "title_original": "开源「活人感写作.skill」：一个帮你写出没有AI味的文字的通用写作技能",
+          "summary": "数字生命卡兹克开源「活人感写作.skill」（英文名 human Writing.skill），旨在去除AI味、帮用户写出有真实生活感的文字。该Skill鼓励用户提供真实案例与情感，并针对辞章端禁用AI常用口癖和黑话，同时适配Qwen 3.8 Max、DeepSeek V4 Pro、Kimi K3等模型，可直接用于WorkBuddy、千问办公等产品。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684946&idx=1&sn=ae7edcc572b998dc4e1ac3591977aa85",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T01:35:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "aaf57dd20e5fea65099cec92429bf3759b4b25d2",
+          "title": "开源「活人感写作.skill」：一个帮你写出没有AI味的文字的通用写作技能",
+          "title_zh": "开源「活人感写作.skill」：一个帮你写出没有AI味的文字的通用写作技能",
+          "title_en": null,
+          "title_original": "开源「活人感写作.skill」：一个帮你写出没有AI味的文字的通用写作技能",
+          "summary": "数字生命卡兹克开源「活人感写作.skill」（英文名 human Writing.skill），旨在去除AI味、帮用户写出有真实生活感的文字。该Skill鼓励用户提供真实案例与情感，并针对辞章端禁用AI常用口癖和黑话，同时适配Qwen 3.8 Max、DeepSeek V4 Pro、Kimi K3等模型，可直接用于WorkBuddy、千问办公等产品。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684946&idx=1&sn=ae7edcc572b998dc4e1ac3591977aa85",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T01:35:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7747,
+      "importance": 0.7747,
+      "importance_score": 0.7747,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9726,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-05T01:35:42Z",
+      "latest_at": "2026-08-05T01:35:42Z",
+      "primary_item": {
+        "id": "aaf57dd20e5fea65099cec92429bf3759b4b25d2",
+        "title": "开源「活人感写作.skill」：一个帮你写出没有AI味的文字的通用写作技能",
+        "title_zh": "开源「活人感写作.skill」：一个帮你写出没有AI味的文字的通用写作技能",
+        "title_en": null,
+        "title_original": "开源「活人感写作.skill」：一个帮你写出没有AI味的文字的通用写作技能",
+        "summary": "数字生命卡兹克开源「活人感写作.skill」（英文名 human Writing.skill），旨在去除AI味、帮用户写出有真实生活感的文字。该Skill鼓励用户提供真实案例与情感，并针对辞章端禁用AI常用口癖和黑话，同时适配Qwen 3.8 Max、DeepSeek V4 Pro、Kimi K3等模型，可直接用于WorkBuddy、千问办公等产品。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684946&idx=1&sn=ae7edcc572b998dc4e1ac3591977aa85",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-05T03:32:00.202521Z"
+      }
+    },
+    {
+      "story_id": "story_3417e12d2058",
+      "title": "Anthropic 百亿算力大单砸向不知名新兵 Volta：买的是时间表，赌的是对手方不暴雷",
+      "url": "https://www.aibase.com/news/30120",
+      "primary_url": "https://www.aibase.com/news/30120",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e2dc30fd6ebd5ee1c4782c813d85ef579c54f62f",
+          "title": "Anthropic 百亿算力大单砸向不知名新兵 Volta：买的是时间表，赌的是对手方不暴雷",
+          "title_zh": "Anthropic 百亿算力大单砸向不知名新兵 Volta：买的是时间表，赌的是对手方不暴雷",
+          "title_en": null,
+          "title_original": "Anthropic 百亿算力大单砸向不知名新兵 Volta：买的是时间表，赌的是对手方不暴雷",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30120",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-05T03:31:15.375593Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "e2dc30fd6ebd5ee1c4782c813d85ef579c54f62f",
+          "title": "Anthropic 百亿算力大单砸向不知名新兵 Volta：买的是时间表，赌的是对手方不暴雷",
+          "title_zh": "Anthropic 百亿算力大单砸向不知名新兵 Volta：买的是时间表，赌的是对手方不暴雷",
+          "title_en": null,
+          "title_original": "Anthropic 百亿算力大单砸向不知名新兵 Volta：买的是时间表，赌的是对手方不暴雷",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30120",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-05T03:31:15.375593Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-05T03:31:15.375593Z",
+      "latest_at": "2026-08-05T03:31:15.375593Z",
+      "primary_item": {
+        "id": "e2dc30fd6ebd5ee1c4782c813d85ef579c54f62f",
+        "title": "Anthropic 百亿算力大单砸向不知名新兵 Volta：买的是时间表，赌的是对手方不暴雷",
+        "title_zh": "Anthropic 百亿算力大单砸向不知名新兵 Volta：买的是时间表，赌的是对手方不暴雷",
+        "title_en": null,
+        "title_original": "Anthropic 百亿算力大单砸向不知名新兵 Volta：买的是时间表，赌的是对手方不暴雷",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30120",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-05T03:32:00.202521Z"
       }
     },
     {
@@ -746,15 +992,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7657,
-      "importance": 0.7657,
-      "importance_score": 0.7657,
+      "score": 0.7594,
+      "importance": 0.7594,
+      "importance_score": 0.7594,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7503,
+        "recency": 0.7155,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -781,7 +1027,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T00:14:43.783302Z"
+        "scored_at": "2026-08-05T03:32:00.202521Z"
       }
     },
     {
@@ -829,15 +1075,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7646,
-      "importance": 0.7646,
-      "importance_score": 0.7646,
+      "score": 0.7571,
+      "importance": 0.7571,
+      "importance_score": 0.7571,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8976,
+        "recency": 0.856,
         "story_heat": 0.0
       },
       "category": "official",
@@ -863,7 +1109,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T00:14:43.783302Z"
+        "scored_at": "2026-08-05T03:32:00.202521Z"
       }
     },
     {
@@ -911,15 +1157,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8236,
-      "importance": 0.8236,
-      "importance_score": 0.8236,
+      "score": 0.8162,
+      "importance": 0.8162,
+      "importance_score": 0.8162,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8868,
+        "recency": 0.8457,
         "story_heat": 0.0
       },
       "category": "official",
@@ -946,7 +1192,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T00:14:43.783302Z"
+        "scored_at": "2026-08-05T03:32:00.202521Z"
       }
     },
     {
@@ -994,15 +1240,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
+      "score": 0.7558,
+      "importance": 0.7558,
+      "importance_score": 0.7558,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8749,
+        "recency": 0.8343,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1028,63 +1274,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T00:14:43.783302Z"
+        "scored_at": "2026-08-05T03:32:00.202521Z"
       }
     },
     {
-      "story_id": "story_6ca45c4a72d9",
-      "title": "MiniMax-H3 通过 MLX 移植可在 Apple Silicon 上运行 / PipeNetwork/minimax-h3-mlx",
-      "url": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx",
-      "primary_url": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx",
-      "source": "Simon Willison 博客",
+      "story_id": "story_62f2df441b10",
+      "title": "Qwen-Image-3.0-Pro 上线 Qwen Cloud / Qwen-Image-3.0-Pro is live on Qwen Cloud now！ Try it out👇 https://www.qwencloud.com/models/qwen-im...",
+      "url": "https://x.com/Alibaba_Qwen/status/2084831888729072121",
+      "primary_url": "https://x.com/Alibaba_Qwen/status/2084831888729072121",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "c75bf49805b56e7bf9b19e9f534894d6a1304dbc",
-          "title": "MiniMax-H3 通过 MLX 移植可在 Apple Silicon 上运行 / PipeNetwork/minimax-h3-mlx",
-          "title_zh": "MiniMax-H3 通过 MLX 移植可在 Apple Silicon 上运行",
-          "title_en": "PipeNetwork/minimax-h3-mlx",
-          "title_original": "PipeNetwork/minimax-h3-mlx",
-          "summary": "MiniMax 发布 MiniMax-H3，一个可接受文本、图像、音频和视频并生成最长 15 秒带音频视频片段的通用全模态生成系统。Python 包 PipeNetwork/minimax-h3-mlx 将其移植到 MLX，支持 Apple Silicon 运行。作者在 M5 Max MacBook Pro 上实测，下载约 115 GB 模型文件，视频生成耗时不到 45 分钟。",
+          "id": "e1c6ac51de4c8996e5652c93be537ba12ee88ba4",
+          "title": "Qwen-Image-3.0-Pro 上线 Qwen Cloud / Qwen-Image-3.0-Pro is live on Qwen Cloud now！ Try it out👇 https://www.qwencloud.com/models/qwen-im...",
+          "title_zh": "Qwen-Image-3.0-Pro 上线 Qwen Cloud",
+          "title_en": "Qwen-Image-3.0-Pro is live on Qwen Cloud now！ Try it out👇 https://www.qwencloud.com/models/qwen-im...",
+          "title_original": "Qwen-Image-3.0-Pro is live on Qwen Cloud now！ Try it out👇 https://www.qwencloud.com/models/qwen-im...",
+          "summary": "阿里通义千问发布 Qwen-Image-3.0-Pro 与 Standard，现已在 Qwen Cloud 上线。该模型在 Arena 文生图榜单中位列中国模型第一、主流模型第二，支持 4.5k-token 提示词、10px 级文字渲染及 12 种语言。Pro 版起价 $0.04/张，Standard 版起价 $0.03/张。",
           "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx",
-          "source": "Simon Willison 博客",
+          "url": "https://x.com/Alibaba_Qwen/status/2084831888729072121",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-04T19:10:09Z"
+          "published_at": "2026-08-05T02:40:31Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Simon Willison 博客"
+        "X：通义千问 / Qwen (@Alibaba_Qwen)"
       ],
       "items": [
         {
-          "id": "c75bf49805b56e7bf9b19e9f534894d6a1304dbc",
-          "title": "MiniMax-H3 通过 MLX 移植可在 Apple Silicon 上运行 / PipeNetwork/minimax-h3-mlx",
-          "title_zh": "MiniMax-H3 通过 MLX 移植可在 Apple Silicon 上运行",
-          "title_en": "PipeNetwork/minimax-h3-mlx",
-          "title_original": "PipeNetwork/minimax-h3-mlx",
-          "summary": "MiniMax 发布 MiniMax-H3，一个可接受文本、图像、音频和视频并生成最长 15 秒带音频视频片段的通用全模态生成系统。Python 包 PipeNetwork/minimax-h3-mlx 将其移植到 MLX，支持 Apple Silicon 运行。作者在 M5 Max MacBook Pro 上实测，下载约 115 GB 模型文件，视频生成耗时不到 45 分钟。",
+          "id": "e1c6ac51de4c8996e5652c93be537ba12ee88ba4",
+          "title": "Qwen-Image-3.0-Pro 上线 Qwen Cloud / Qwen-Image-3.0-Pro is live on Qwen Cloud now！ Try it out👇 https://www.qwencloud.com/models/qwen-im...",
+          "title_zh": "Qwen-Image-3.0-Pro 上线 Qwen Cloud",
+          "title_en": "Qwen-Image-3.0-Pro is live on Qwen Cloud now！ Try it out👇 https://www.qwencloud.com/models/qwen-im...",
+          "title_original": "Qwen-Image-3.0-Pro is live on Qwen Cloud now！ Try it out👇 https://www.qwencloud.com/models/qwen-im...",
+          "summary": "阿里通义千问发布 Qwen-Image-3.0-Pro 与 Standard，现已在 Qwen Cloud 上线。该模型在 Arena 文生图榜单中位列中国模型第一、主流模型第二，支持 4.5k-token 提示词、10px 级文字渲染及 12 种语言。Pro 版起价 $0.04/张，Standard 版起价 $0.03/张。",
           "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx",
-          "source": "Simon Willison 博客",
+          "url": "https://x.com/Alibaba_Qwen/status/2084831888729072121",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-04T19:10:09Z"
+          "published_at": "2026-08-05T02:40:31Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7609,
-      "importance": 0.7609,
-      "importance_score": 0.7609,
+      "score": 0.7534,
+      "importance": 0.7534,
+      "importance_score": 0.7534,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.74,
+        "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9295,
+        "recency": 0.9879,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1092,25 +1338,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-04T19:10:09Z",
-      "latest_at": "2026-08-04T19:10:09Z",
+      "earliest_at": "2026-08-05T02:40:31Z",
+      "latest_at": "2026-08-05T02:40:31Z",
       "primary_item": {
-        "id": "c75bf49805b56e7bf9b19e9f534894d6a1304dbc",
-        "title": "MiniMax-H3 通过 MLX 移植可在 Apple Silicon 上运行 / PipeNetwork/minimax-h3-mlx",
-        "title_zh": "MiniMax-H3 通过 MLX 移植可在 Apple Silicon 上运行",
-        "title_en": "PipeNetwork/minimax-h3-mlx",
-        "title_original": "PipeNetwork/minimax-h3-mlx",
-        "summary": "MiniMax 发布 MiniMax-H3，一个可接受文本、图像、音频和视频并生成最长 15 秒带音频视频片段的通用全模态生成系统。Python 包 PipeNetwork/minimax-h3-mlx 将其移植到 MLX，支持 Apple Silicon 运行。作者在 M5 Max MacBook Pro 上实测，下载约 115 GB 模型文件，视频生成耗时不到 45 分钟。",
+        "id": "e1c6ac51de4c8996e5652c93be537ba12ee88ba4",
+        "title": "Qwen-Image-3.0-Pro 上线 Qwen Cloud / Qwen-Image-3.0-Pro is live on Qwen Cloud now！ Try it out👇 https://www.qwencloud.com/models/qwen-im...",
+        "title_zh": "Qwen-Image-3.0-Pro 上线 Qwen Cloud",
+        "title_en": "Qwen-Image-3.0-Pro is live on Qwen Cloud now！ Try it out👇 https://www.qwencloud.com/models/qwen-im...",
+        "title_original": "Qwen-Image-3.0-Pro is live on Qwen Cloud now！ Try it out👇 https://www.qwencloud.com/models/qwen-im...",
+        "summary": "阿里通义千问发布 Qwen-Image-3.0-Pro 与 Standard，现已在 Qwen Cloud 上线。该模型在 Arena 文生图榜单中位列中国模型第一、主流模型第二，支持 4.5k-token 提示词、10px 级文字渲染及 12 种语言。Pro 版起价 $0.04/张，Standard 版起价 $0.03/张。",
         "recommend_reason_zh": null,
-        "url": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx",
-        "source": "Simon Willison 博客",
+        "url": "https://x.com/Alibaba_Qwen/status/2084831888729072121",
+        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T00:14:43.783302Z"
+        "scored_at": "2026-08-05T03:32:00.202521Z"
       }
     },
     {
@@ -1158,21 +1404,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.753,
-      "importance": 0.753,
-      "importance_score": 0.753,
+      "score": 0.7463,
+      "importance": 0.7463,
+      "importance_score": 0.7463,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8021,
+        "recency": 0.7649,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-04T08:57:47Z",
       "latest_at": "2026-08-04T08:57:47Z",
@@ -1192,7 +1437,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T00:14:43.783302Z"
+        "scored_at": "2026-08-05T03:32:00.202521Z"
       }
     },
     {
@@ -1240,21 +1485,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7529,
-      "importance": 0.7529,
-      "importance_score": 0.7529,
+      "score": 0.7448,
+      "importance": 0.7448,
+      "importance_score": 0.7448,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9683,
+        "recency": 0.9234,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-04T22:00:10Z",
       "latest_at": "2026-08-04T22:00:10Z",
@@ -1274,7 +1518,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T00:14:43.783302Z"
+        "scored_at": "2026-08-05T03:32:00.202521Z"
       }
     },
     {
@@ -1322,21 +1566,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7518,
-      "importance": 0.7518,
-      "importance_score": 0.7518,
+      "score": 0.7441,
+      "importance": 0.7441,
+      "importance_score": 0.7441,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.912,
+        "recency": 0.8697,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-04T17:51:09.590000Z",
       "latest_at": "2026-08-04T17:51:09.590000Z",
@@ -1356,7 +1599,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T00:14:43.783302Z"
+        "scored_at": "2026-08-05T03:32:00.202521Z"
       }
     },
     {
@@ -1433,15 +1676,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7808,
-      "importance": 0.7808,
-      "importance_score": 0.7808,
+      "score": 0.7731,
+      "importance": 0.7731,
+      "importance_score": 0.7731,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9178,
+        "recency": 0.8752,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1468,30 +1711,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T00:14:43.783302Z"
+        "scored_at": "2026-08-05T03:32:00.202521Z"
       }
     },
     {
-      "story_id": "story_5c511a0625e6",
-      "title": "腾讯混元发布 Hy ASR 3.0 preview：语音识别不再逐字硬转，而是真的听懂了语境",
-      "url": "https://www.aibase.com/news/30110",
-      "primary_url": "https://www.aibase.com/news/30110",
+      "story_id": "story_ac7986b4a1bc",
+      "title": "Anthropic 豪掷 100 亿美元锁定算力：牵手新生创业公司 Volta，挪威数据中心成新支点",
+      "url": "https://www.aibase.com/news/30113",
+      "primary_url": "https://www.aibase.com/news/30113",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "7b90a7e0736812f02651e3d1875d0b7ab21ab912",
-          "title": "腾讯混元发布 Hy ASR 3.0 preview：语音识别不再逐字硬转，而是真的听懂了语境",
-          "title_zh": "腾讯混元发布 Hy ASR 3.0 preview：语音识别不再逐字硬转，而是真的听懂了语境",
+          "id": "5fcca43fe7c1fcce780bd2417ca2d1060d121d99",
+          "title": "Anthropic 豪掷 100 亿美元锁定算力：牵手新生创业公司 Volta，挪威数据中心成新支点",
+          "title_zh": "Anthropic 豪掷 100 亿美元锁定算力：牵手新生创业公司 Volta，挪威数据中心成新支点",
           "title_en": null,
-          "title_original": "腾讯混元发布 Hy ASR 3.0 preview：语音识别不再逐字硬转，而是真的听懂了语境",
+          "title_original": "Anthropic 豪掷 100 亿美元锁定算力：牵手新生创业公司 Volta，挪威数据中心成新支点",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30110",
+          "url": "https://www.aibase.com/news/30113",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-04T12:17:09.779427Z"
+          "published_at": "2026-08-05T03:31:15.375593Z"
         }
       ],
       "source_count": 1,
@@ -1500,48 +1743,49 @@
       ],
       "items": [
         {
-          "id": "7b90a7e0736812f02651e3d1875d0b7ab21ab912",
-          "title": "腾讯混元发布 Hy ASR 3.0 preview：语音识别不再逐字硬转，而是真的听懂了语境",
-          "title_zh": "腾讯混元发布 Hy ASR 3.0 preview：语音识别不再逐字硬转，而是真的听懂了语境",
+          "id": "5fcca43fe7c1fcce780bd2417ca2d1060d121d99",
+          "title": "Anthropic 豪掷 100 亿美元锁定算力：牵手新生创业公司 Volta，挪威数据中心成新支点",
+          "title_zh": "Anthropic 豪掷 100 亿美元锁定算力：牵手新生创业公司 Volta，挪威数据中心成新支点",
           "title_en": null,
-          "title_original": "腾讯混元发布 Hy ASR 3.0 preview：语音识别不再逐字硬转，而是真的听懂了语境",
+          "title_original": "Anthropic 豪掷 100 亿美元锁定算力：牵手新生创业公司 Volta，挪威数据中心成新支点",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30110",
+          "url": "https://www.aibase.com/news/30113",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-04T12:17:09.779427Z"
+          "published_at": "2026-08-05T03:31:15.375593Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7391,
-      "importance": 0.7391,
-      "importance_score": 0.7391,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8415,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-04T12:17:09.779427Z",
-      "latest_at": "2026-08-04T12:17:09.779427Z",
+      "earliest_at": "2026-08-05T03:31:15.375593Z",
+      "latest_at": "2026-08-05T03:31:15.375593Z",
       "primary_item": {
-        "id": "7b90a7e0736812f02651e3d1875d0b7ab21ab912",
-        "title": "腾讯混元发布 Hy ASR 3.0 preview：语音识别不再逐字硬转，而是真的听懂了语境",
-        "title_zh": "腾讯混元发布 Hy ASR 3.0 preview：语音识别不再逐字硬转，而是真的听懂了语境",
+        "id": "5fcca43fe7c1fcce780bd2417ca2d1060d121d99",
+        "title": "Anthropic 豪掷 100 亿美元锁定算力：牵手新生创业公司 Volta，挪威数据中心成新支点",
+        "title_zh": "Anthropic 豪掷 100 亿美元锁定算力：牵手新生创业公司 Volta，挪威数据中心成新支点",
         "title_en": null,
-        "title_original": "腾讯混元发布 Hy ASR 3.0 preview：语音识别不再逐字硬转，而是真的听懂了语境",
+        "title_original": "Anthropic 豪掷 100 亿美元锁定算力：牵手新生创业公司 Volta，挪威数据中心成新支点",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30110",
+        "url": "https://www.aibase.com/news/30113",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1549,250 +1793,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T00:14:43.783302Z"
-      }
-    },
-    {
-      "story_id": "story_47a4968ace58",
-      "title": "GitHub 如何用堆叠式 Pull Request 拆解 AI 生成的巨型代码 / Turn one giant AI-generated pull request to a reviewable stack",
-      "url": "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack",
-      "primary_url": "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack",
-      "source": "GitHub Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5bbd704c039678235c03af8acfb0faaede3289c0",
-          "title": "GitHub 如何用堆叠式 Pull Request 拆解 AI 生成的巨型代码 / Turn one giant AI-generated pull request to a reviewable stack",
-          "title_zh": "GitHub 如何用堆叠式 Pull Request 拆解 AI 生成的巨型代码",
-          "title_en": "Turn one giant AI-generated pull request to a reviewable stack",
-          "title_original": "Turn one giant AI-generated pull request to a reviewable stack",
-          "summary": "GitHub 介绍用堆叠式 Pull Request（stacked PR）解决 AI 编码智能体生成巨型代码难以审查的问题。通过将 1，000+ 行的大 diff 按数据、API、接线、UI 拆成 L1-L4 四个独立分层，每层可分配不同审查者。",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T16:47:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Blog"
-      ],
-      "items": [
-        {
-          "id": "5bbd704c039678235c03af8acfb0faaede3289c0",
-          "title": "GitHub 如何用堆叠式 Pull Request 拆解 AI 生成的巨型代码 / Turn one giant AI-generated pull request to a reviewable stack",
-          "title_zh": "GitHub 如何用堆叠式 Pull Request 拆解 AI 生成的巨型代码",
-          "title_en": "Turn one giant AI-generated pull request to a reviewable stack",
-          "title_original": "Turn one giant AI-generated pull request to a reviewable stack",
-          "summary": "GitHub 介绍用堆叠式 Pull Request（stacked PR）解决 AI 编码智能体生成巨型代码难以审查的问题。通过将 1，000+ 行的大 diff 按数据、API、接线、UI 拆成 L1-L4 四个独立分层，每层可分配不同审查者。",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T16:47:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7343,
-      "importance": 0.7343,
-      "importance_score": 0.7343,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8981,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-04T16:47:18Z",
-      "latest_at": "2026-08-04T16:47:18Z",
-      "primary_item": {
-        "id": "5bbd704c039678235c03af8acfb0faaede3289c0",
-        "title": "GitHub 如何用堆叠式 Pull Request 拆解 AI 生成的巨型代码 / Turn one giant AI-generated pull request to a reviewable stack",
-        "title_zh": "GitHub 如何用堆叠式 Pull Request 拆解 AI 生成的巨型代码",
-        "title_en": "Turn one giant AI-generated pull request to a reviewable stack",
-        "title_original": "Turn one giant AI-generated pull request to a reviewable stack",
-        "summary": "GitHub 介绍用堆叠式 Pull Request（stacked PR）解决 AI 编码智能体生成巨型代码难以审查的问题。通过将 1，000+ 行的大 diff 按数据、API、接线、UI 拆成 L1-L4 四个独立分层，每层可分配不同审查者。",
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack",
-        "source": "GitHub Blog",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-05T00:14:43.783302Z"
-      }
-    },
-    {
-      "story_id": "story_9cb1dda99735",
-      "title": "OpenRouter 上线 FLUX 3 Video 统一多模态模型 / FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…",
-      "url": "https://x.com/OpenRouter/status/2084699413898027064",
-      "primary_url": "https://x.com/OpenRouter/status/2084699413898027064",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2809224f4448239865410581bb52afce9bd9196f",
-          "title": "OpenRouter 上线 FLUX 3 Video 统一多模态模型 / FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…",
-          "title_zh": "OpenRouter 上线 FLUX 3 Video 统一多模态模型",
-          "title_en": "FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…",
-          "title_original": "FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…",
-          "summary": "@bfl_ai 的 FLUX 3 Video 现已在 OpenRouter 上向所有人开放。\n\n一个统一的视频、音频、图像和动作预测多模态模型家族。严肃、有趣、创意、真实、电影感，随你所需。基于统一架构联合训练。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenRouter/status/2084699413898027064",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T17:54:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenRouter (@OpenRouter)"
-      ],
-      "items": [
-        {
-          "id": "2809224f4448239865410581bb52afce9bd9196f",
-          "title": "OpenRouter 上线 FLUX 3 Video 统一多模态模型 / FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…",
-          "title_zh": "OpenRouter 上线 FLUX 3 Video 统一多模态模型",
-          "title_en": "FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…",
-          "title_original": "FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…",
-          "summary": "@bfl_ai 的 FLUX 3 Video 现已在 OpenRouter 上向所有人开放。\n\n一个统一的视频、音频、图像和动作预测多模态模型家族。严肃、有趣、创意、真实、电影感，随你所需。基于统一架构联合训练。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenRouter/status/2084699413898027064",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T17:54:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7339,
-      "importance": 0.7339,
-      "importance_score": 0.7339,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9126,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-04T17:54:06Z",
-      "latest_at": "2026-08-04T17:54:06Z",
-      "primary_item": {
-        "id": "2809224f4448239865410581bb52afce9bd9196f",
-        "title": "OpenRouter 上线 FLUX 3 Video 统一多模态模型 / FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…",
-        "title_zh": "OpenRouter 上线 FLUX 3 Video 统一多模态模型",
-        "title_en": "FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…",
-        "title_original": "FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…",
-        "summary": "@bfl_ai 的 FLUX 3 Video 现已在 OpenRouter 上向所有人开放。\n\n一个统一的视频、音频、图像和动作预测多模态模型家族。严肃、有趣、创意、真实、电影感，随你所需。基于统一架构联合训练。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/OpenRouter/status/2084699413898027064",
-        "source": "X：OpenRouter (@OpenRouter)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-05T00:14:43.783302Z"
-      }
-    },
-    {
-      "story_id": "story_417741cd5bf0",
-      "title": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
-      "url": "https://www.ithome.com/0/985/665.htm",
-      "primary_url": "https://www.ithome.com/0/985/665.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e9c6277573d84eeafc0a317644599f8aff60a459",
-          "title": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
-          "title_zh": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
-          "title_en": null,
-          "title_original": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
-          "summary": "工信部组织制定的《智能网联汽车 自动驾驶系统安全要求》（GB 44721-2026）强制性国家标准获批发布，拟于2027年7月1日起实施。这是我国首部针对L3级有条件自动驾驶和L4级高度自动驾驶系统的强制性国标，由2024年推荐性国标GB/T 44721-2024升级而来，为自动驾驶产品明确了统一的安全准入基线。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/985/665.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T11:06:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "e9c6277573d84eeafc0a317644599f8aff60a459",
-          "title": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
-          "title_zh": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
-          "title_en": null,
-          "title_original": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
-          "summary": "工信部组织制定的《智能网联汽车 自动驾驶系统安全要求》（GB 44721-2026）强制性国家标准获批发布，拟于2027年7月1日起实施。这是我国首部针对L3级有条件自动驾驶和L4级高度自动驾驶系统的强制性国标，由2024年推荐性国标GB/T 44721-2024升级而来，为自动驾驶产品明确了统一的安全准入基线。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/985/665.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T11:06:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7335,
-      "importance": 0.7335,
-      "importance_score": 0.7335,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8274,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-04T11:06:29Z",
-      "latest_at": "2026-08-04T11:06:29Z",
-      "primary_item": {
-        "id": "e9c6277573d84eeafc0a317644599f8aff60a459",
-        "title": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
-        "title_zh": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
-        "title_en": null,
-        "title_original": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
-        "summary": "工信部组织制定的《智能网联汽车 自动驾驶系统安全要求》（GB 44721-2026）强制性国家标准获批发布，拟于2027年7月1日起实施。这是我国首部针对L3级有条件自动驾驶和L4级高度自动驾驶系统的强制性国标，由2024年推荐性国标GB/T 44721-2024升级而来，为自动驾驶产品明确了统一的安全准入基线。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/985/665.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-05T00:14:43.783302Z"
+        "scored_at": "2026-08-05T03:32:00.202521Z"
       }
     }
   ]
