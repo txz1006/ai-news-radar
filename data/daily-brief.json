@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T13:36:16.848612Z",
+  "generated_at": "2026-08-07T15:07:36.987374Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8404,
-      "importance": 0.8404,
-      "importance_score": 0.8404,
+      "score": 0.8368,
+      "importance": 0.8368,
+      "importance_score": 0.8368,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9357,
+        "recency": 0.9153,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T13:36:57.750195Z"
+        "scored_at": "2026-08-07T15:08:38.119709Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8339,
-      "importance": 0.8339,
-      "importance_score": 0.8339,
+      "score": 0.8307,
+      "importance": 0.8307,
+      "importance_score": 0.8307,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8216,
+        "recency": 0.8038,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T13:36:57.750195Z"
+        "scored_at": "2026-08-07T15:08:38.119709Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8187,
-      "importance": 0.8187,
-      "importance_score": 0.8187,
+      "score": 0.8149,
+      "importance": 0.8149,
+      "importance_score": 0.8149,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.965,
+        "recency": 0.9441,
         "story_heat": 0.0
       },
       "category": "official",
@@ -248,7 +248,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T13:36:57.750195Z"
+        "scored_at": "2026-08-07T15:08:38.119709Z"
       }
     },
     {
@@ -296,15 +296,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8112,
-      "importance": 0.8112,
-      "importance_score": 0.8112,
+      "score": 0.8082,
+      "importance": 0.8082,
+      "importance_score": 0.8082,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7736,
+        "recency": 0.7568,
         "story_heat": 0.0
       },
       "category": "official",
@@ -331,7 +331,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T13:36:57.750195Z"
+        "scored_at": "2026-08-07T15:08:38.119709Z"
       }
     },
     {
@@ -379,15 +379,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8066,
-      "importance": 0.8066,
-      "importance_score": 0.8066,
+      "score": 0.8036,
+      "importance": 0.8036,
+      "importance_score": 0.8036,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7476,
+        "recency": 0.7313,
         "story_heat": 0.0
       },
       "category": "official",
@@ -414,90 +414,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T13:36:57.750195Z"
-      }
-    },
-    {
-      "story_id": "story_dd46f65cd54a",
-      "title": "WeatherNext：人工智能模型在预测气旋方面取得突破 / WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones",
-      "primary_url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "73293ce8911f57401ccc4ac460cfd9ffb8c040ed",
-          "title": "WeatherNext：人工智能模型在预测气旋方面取得突破 / WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-          "title_zh": "WeatherNext：人工智能模型在预测气旋方面取得突破",
-          "title_en": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-          "title_original": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-06T15:06:15Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "73293ce8911f57401ccc4ac460cfd9ffb8c040ed",
-          "title": "WeatherNext：人工智能模型在预测气旋方面取得突破 / WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-          "title_zh": "WeatherNext：人工智能模型在预测气旋方面取得突破",
-          "title_en": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-          "title_original": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-06T15:06:15Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7941,
-      "importance": 0.7941,
-      "importance_score": 0.7941,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7226,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-06T15:06:15Z",
-      "latest_at": "2026-08-06T15:06:15Z",
-      "primary_item": {
-        "id": "73293ce8911f57401ccc4ac460cfd9ffb8c040ed",
-        "title": "WeatherNext：人工智能模型在预测气旋方面取得突破 / WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-        "title_zh": "WeatherNext：人工智能模型在预测气旋方面取得突破",
-        "title_en": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-        "title_original": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-07T13:36:57.750195Z"
+        "scored_at": "2026-08-07T15:08:38.119709Z"
       }
     },
     {
@@ -603,15 +520,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7894,
-      "importance": 0.7894,
-      "importance_score": 0.7894,
+      "score": 0.7863,
+      "importance": 0.7863,
+      "importance_score": 0.7863,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8101,
+        "recency": 0.7925,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -638,7 +555,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T13:36:57.750195Z"
+        "scored_at": "2026-08-07T15:08:38.119709Z"
       }
     },
     {
@@ -686,15 +603,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7785,
-      "importance": 0.7785,
-      "importance_score": 0.7785,
+      "score": 0.7756,
+      "importance": 0.7756,
+      "importance_score": 0.7756,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7414,
+        "recency": 0.7253,
         "story_heat": 0.0
       },
       "category": "official",
@@ -720,7 +637,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T13:36:57.750195Z"
+        "scored_at": "2026-08-07T15:08:38.119709Z"
       }
     },
     {
@@ -768,15 +685,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7759,
-      "importance": 0.7759,
-      "importance_score": 0.7759,
+      "score": 0.7724,
+      "importance": 0.7724,
+      "importance_score": 0.7724,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8964,
+        "recency": 0.8769,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -802,7 +719,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T13:36:57.750195Z"
+        "scored_at": "2026-08-07T15:08:38.119709Z"
       }
     },
     {
@@ -850,15 +767,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7726,
-      "importance": 0.7726,
-      "importance_score": 0.7726,
+      "score": 0.7687,
+      "importance": 0.7687,
+      "importance_score": 0.7687,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9776,
+        "recency": 0.9564,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -884,7 +801,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T13:36:57.750195Z"
+        "scored_at": "2026-08-07T15:08:38.119709Z"
       }
     },
     {
@@ -932,15 +849,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7718,
-      "importance": 0.7718,
-      "importance_score": 0.7718,
+      "score": 0.7684,
+      "importance": 0.7684,
+      "importance_score": 0.7684,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8543,
+        "recency": 0.8357,
         "story_heat": 0.0
       },
       "category": "official",
@@ -966,7 +883,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T13:36:57.750195Z"
+        "scored_at": "2026-08-07T15:08:38.119709Z"
       }
     },
     {
@@ -1014,15 +931,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7656,
-      "importance": 0.7656,
-      "importance_score": 0.7656,
+      "score": 0.7618,
+      "importance": 0.7618,
+      "importance_score": 0.7618,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9891,
+        "recency": 0.9676,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1048,7 +965,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T13:36:57.750195Z"
+        "scored_at": "2026-08-07T15:08:38.119709Z"
       }
     },
     {
@@ -1096,15 +1013,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7589,
-      "importance": 0.7589,
-      "importance_score": 0.7589,
+      "score": 0.7552,
+      "importance": 0.7552,
+      "importance_score": 0.7552,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9515,
+        "recency": 0.9309,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1130,7 +1047,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T13:36:57.750195Z"
+        "scored_at": "2026-08-07T15:08:38.119709Z"
       }
     },
     {
@@ -1178,21 +1095,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7524,
-      "importance": 0.7524,
-      "importance_score": 0.7524,
+      "score": 0.7488,
+      "importance": 0.7488,
+      "importance_score": 0.7488,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9156,
+        "recency": 0.8957,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-07T07:30:06Z",
       "latest_at": "2026-08-07T07:30:06Z",
@@ -1212,7 +1128,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T13:36:57.750195Z"
+        "scored_at": "2026-08-07T15:08:38.119709Z"
+      }
+    },
+    {
+      "story_id": "story_167ce8dd0aba",
+      "title": "Suno移动端上线Voices功能 / Voices is officially live on the Suno mobile app for iOS and Android！ 📱✨ Now you can record your v…",
+      "url": "https://x.com/suno/status/2085731234970227145",
+      "primary_url": "https://x.com/suno/status/2085731234970227145",
+      "source": "X：Suno (@suno)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "207616256ade5b4fff07f9b51ba6522a4f3ae84d",
+          "title": "Suno移动端上线Voices功能 / Voices is officially live on the Suno mobile app for iOS and Android！ 📱✨ Now you can record your v…",
+          "title_zh": "Suno移动端上线Voices功能",
+          "title_en": "Voices is officially live on the Suno mobile app for iOS and Android！ 📱✨ Now you can record your v…",
+          "title_original": "Voices is officially live on the Suno mobile app for iOS and Android！ 📱✨ Now you can record your v…",
+          "summary": "Voices 功能已在 Suno 移动应用 iOS 和 Android 版正式上线！📱✨\n\n现在你可以直接在手机上录制人声，并将其用于你的歌曲中。只需在创作界面点击\"+ Voice\"按钮，录制至少一分钟，然后让音乐流淌起来。（Pro 和 Premier 套餐可无限使用，免费套餐可体验有限版本！）\n\n打开应用，录制你的声音，并在评论区告诉我们你的使用体验！",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/suno/status/2085731234970227145",
+          "source": "X：Suno (@suno)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T14:14:12Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Suno (@suno)"
+      ],
+      "items": [
+        {
+          "id": "207616256ade5b4fff07f9b51ba6522a4f3ae84d",
+          "title": "Suno移动端上线Voices功能 / Voices is officially live on the Suno mobile app for iOS and Android！ 📱✨ Now you can record your v…",
+          "title_zh": "Suno移动端上线Voices功能",
+          "title_en": "Voices is officially live on the Suno mobile app for iOS and Android！ 📱✨ Now you can record your v…",
+          "title_original": "Voices is officially live on the Suno mobile app for iOS and Android！ 📱✨ Now you can record your v…",
+          "summary": "Voices 功能已在 Suno 移动应用 iOS 和 Android 版正式上线！📱✨\n\n现在你可以直接在手机上录制人声，并将其用于你的歌曲中。只需在创作界面点击\"+ Voice\"按钮，录制至少一分钟，然后让音乐流淌起来。（Pro 和 Premier 套餐可无限使用，免费套餐可体验有限版本！）\n\n打开应用，录制你的声音，并在评论区告诉我们你的使用体验！",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/suno/status/2085731234970227145",
+          "source": "X：Suno (@suno)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T14:14:12Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7443,
+      "importance": 0.7443,
+      "importance_score": 0.7443,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9872,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-07T14:14:12Z",
+      "latest_at": "2026-08-07T14:14:12Z",
+      "primary_item": {
+        "id": "207616256ade5b4fff07f9b51ba6522a4f3ae84d",
+        "title": "Suno移动端上线Voices功能 / Voices is officially live on the Suno mobile app for iOS and Android！ 📱✨ Now you can record your v…",
+        "title_zh": "Suno移动端上线Voices功能",
+        "title_en": "Voices is officially live on the Suno mobile app for iOS and Android！ 📱✨ Now you can record your v…",
+        "title_original": "Voices is officially live on the Suno mobile app for iOS and Android！ 📱✨ Now you can record your v…",
+        "summary": "Voices 功能已在 Suno 移动应用 iOS 和 Android 版正式上线！📱✨\n\n现在你可以直接在手机上录制人声，并将其用于你的歌曲中。只需在创作界面点击\"+ Voice\"按钮，录制至少一分钟，然后让音乐流淌起来。（Pro 和 Premier 套餐可无限使用，免费套餐可体验有限版本！）\n\n打开应用，录制你的声音，并在评论区告诉我们你的使用体验！",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/suno/status/2085731234970227145",
+        "source": "X：Suno (@suno)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-07T15:08:38.119709Z"
       }
     },
     {
@@ -1260,15 +1257,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7463,
-      "importance": 0.7463,
-      "importance_score": 0.7463,
+      "score": 0.7428,
+      "importance": 0.7428,
+      "importance_score": 0.7428,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8984,
+        "recency": 0.8788,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1293,7 +1290,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T13:36:57.750195Z"
+        "scored_at": "2026-08-07T15:08:38.119709Z"
       }
     },
     {
@@ -1341,15 +1338,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7381,
-      "importance": 0.7381,
-      "importance_score": 0.7381,
+      "score": 0.7351,
+      "importance": 0.7351,
+      "importance_score": 0.7351,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7695,
+        "recency": 0.7528,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1374,88 +1371,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T13:36:57.750195Z"
-      }
-    },
-    {
-      "story_id": "story_260b0bc7cb8e",
-      "title": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496008&idx=1&sn=08f2ce717483f63bc00a2181e59e3f40",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496008&idx=1&sn=08f2ce717483f63bc00a2181e59e3f40",
-      "source": "公众号：小红书技术（dots.llm）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c2e0ad32857b9ad4cff6e70f1c62a42bd11ea88a",
-          "title": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
-          "title_zh": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
-          "title_en": null,
-          "title_original": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
-          "summary": "小红书联合浙江大学、复旦大学提出 CULTURE-MT，这是首个面向中英社媒笔记翻译、兼顾文化符号传递与情感共鸣的评测基准，并首次提出「文化有效性」评估标准与自动评估模型 JUDGER（准确率 86.03%）。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496008&idx=1&sn=08f2ce717483f63bc00a2181e59e3f40",
-          "source": "公众号：小红书技术（dots.llm）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T09:59:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：小红书技术（dots.llm）"
-      ],
-      "items": [
-        {
-          "id": "c2e0ad32857b9ad4cff6e70f1c62a42bd11ea88a",
-          "title": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
-          "title_zh": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
-          "title_en": null,
-          "title_original": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
-          "summary": "小红书联合浙江大学、复旦大学提出 CULTURE-MT，这是首个面向中英社媒笔记翻译、兼顾文化符号传递与情感共鸣的评测基准，并首次提出「文化有效性」评估标准与自动评估模型 JUDGER（准确率 86.03%）。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496008&idx=1&sn=08f2ce717483f63bc00a2181e59e3f40",
-          "source": "公众号：小红书技术（dots.llm）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T09:59:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7374,
-      "importance": 0.7374,
-      "importance_score": 0.7374,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.949,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-07T09:59:00Z",
-      "latest_at": "2026-08-07T09:59:00Z",
-      "primary_item": {
-        "id": "c2e0ad32857b9ad4cff6e70f1c62a42bd11ea88a",
-        "title": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
-        "title_zh": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
-        "title_en": null,
-        "title_original": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
-        "summary": "小红书联合浙江大学、复旦大学提出 CULTURE-MT，这是首个面向中英社媒笔记翻译、兼顾文化符号传递与情感共鸣的评测基准，并首次提出「文化有效性」评估标准与自动评估模型 JUDGER（准确率 86.03%）。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496008&idx=1&sn=08f2ce717483f63bc00a2181e59e3f40",
-        "source": "公众号：小红书技术（dots.llm）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-07T13:36:57.750195Z"
+        "scored_at": "2026-08-07T15:08:38.119709Z"
       }
     },
     {
@@ -1532,15 +1448,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7368,
-      "importance": 0.7368,
-      "importance_score": 0.7368,
+      "score": 0.734,
+      "importance": 0.734,
+      "importance_score": 0.734,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7233,
+        "recency": 0.7076,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1566,88 +1482,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T13:36:57.750195Z"
+        "scored_at": "2026-08-07T15:08:38.119709Z"
       }
     },
     {
-      "story_id": "story_1ca7c864082b",
-      "title": "微软首次披露OpenAI贡献七成AI收入 / Microsoft just disclosed for the first time taht OpenAI supplied ~70% of Microsoft's AI revenue， per…",
-      "url": "https://x.com/rohanpaul_ai/status/2085368375816163423",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2085368375816163423",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "story_id": "story_260b0bc7cb8e",
+      "title": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496008&idx=1&sn=08f2ce717483f63bc00a2181e59e3f40",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496008&idx=1&sn=08f2ce717483f63bc00a2181e59e3f40",
+      "source": "公众号：小红书技术（dots.llm）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "d55f0933f44c18ce01f98eb0c92b2de2444a1ebb",
-          "title": "微软首次披露OpenAI贡献七成AI收入 / Microsoft just disclosed for the first time taht OpenAI supplied ~70% of Microsoft's AI revenue， per…",
-          "title_zh": "微软首次披露OpenAI贡献七成AI收入",
-          "title_en": "Microsoft just disclosed for the first time taht OpenAI supplied ~70% of Microsoft's AI revenue， per…",
-          "title_original": "Microsoft just disclosed for the first time taht OpenAI supplied ~70% of Microsoft's AI revenue， per…",
-          "summary": "微软刚刚首次披露，OpenAI 贡献了微软约 70% 的 AI 收入，依据最新文件。\n\n这一数据基于预期增长及此前与 OpenAI 相关收入的披露。\n\n241 亿美元中的大部分是 OpenAI 在微软数据中心训练和运行 ChatGPT 的云账单，再加上模型开发成本和 OpenAI 自身销售的分成，全部由微软合并计入收入。微软同时还向 OpenAI 投入了 119 亿美元。",
+          "id": "c2e0ad32857b9ad4cff6e70f1c62a42bd11ea88a",
+          "title": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
+          "title_zh": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
+          "title_en": null,
+          "title_original": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
+          "summary": "小红书联合浙江大学、复旦大学提出 CULTURE-MT，这是首个面向中英社媒笔记翻译、兼顾文化符号传递与情感共鸣的评测基准，并首次提出「文化有效性」评估标准与自动评估模型 JUDGER（准确率 86.03%）。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2085368375816163423",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496008&idx=1&sn=08f2ce717483f63bc00a2181e59e3f40",
+          "source": "公众号：小红书技术（dots.llm）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-06T14:12:19Z"
+          "published_at": "2026-08-07T09:59:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
+        "公众号：小红书技术（dots.llm）"
       ],
       "items": [
         {
-          "id": "d55f0933f44c18ce01f98eb0c92b2de2444a1ebb",
-          "title": "微软首次披露OpenAI贡献七成AI收入 / Microsoft just disclosed for the first time taht OpenAI supplied ~70% of Microsoft's AI revenue， per…",
-          "title_zh": "微软首次披露OpenAI贡献七成AI收入",
-          "title_en": "Microsoft just disclosed for the first time taht OpenAI supplied ~70% of Microsoft's AI revenue， per…",
-          "title_original": "Microsoft just disclosed for the first time taht OpenAI supplied ~70% of Microsoft's AI revenue， per…",
-          "summary": "微软刚刚首次披露，OpenAI 贡献了微软约 70% 的 AI 收入，依据最新文件。\n\n这一数据基于预期增长及此前与 OpenAI 相关收入的披露。\n\n241 亿美元中的大部分是 OpenAI 在微软数据中心训练和运行 ChatGPT 的云账单，再加上模型开发成本和 OpenAI 自身销售的分成，全部由微软合并计入收入。微软同时还向 OpenAI 投入了 119 亿美元。",
+          "id": "c2e0ad32857b9ad4cff6e70f1c62a42bd11ea88a",
+          "title": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
+          "title_zh": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
+          "title_en": null,
+          "title_original": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
+          "summary": "小红书联合浙江大学、复旦大学提出 CULTURE-MT，这是首个面向中英社媒笔记翻译、兼顾文化符号传递与情感共鸣的评测基准，并首次提出「文化有效性」评估标准与自动评估模型 JUDGER（准确率 86.03%）。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2085368375816163423",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496008&idx=1&sn=08f2ce717483f63bc00a2181e59e3f40",
+          "source": "公众号：小红书技术（dots.llm）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-06T14:12:19Z"
+          "published_at": "2026-08-07T09:59:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.731,
-      "importance": 0.731,
-      "importance_score": 0.731,
+      "score": 0.7337,
+      "importance": 0.7337,
+      "importance_score": 0.7337,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.77,
+        "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7133,
+        "recency": 0.9284,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-06T14:12:19Z",
-      "latest_at": "2026-08-06T14:12:19Z",
+      "earliest_at": "2026-08-07T09:59:00Z",
+      "latest_at": "2026-08-07T09:59:00Z",
       "primary_item": {
-        "id": "d55f0933f44c18ce01f98eb0c92b2de2444a1ebb",
-        "title": "微软首次披露OpenAI贡献七成AI收入 / Microsoft just disclosed for the first time taht OpenAI supplied ~70% of Microsoft's AI revenue， per…",
-        "title_zh": "微软首次披露OpenAI贡献七成AI收入",
-        "title_en": "Microsoft just disclosed for the first time taht OpenAI supplied ~70% of Microsoft's AI revenue， per…",
-        "title_original": "Microsoft just disclosed for the first time taht OpenAI supplied ~70% of Microsoft's AI revenue， per…",
-        "summary": "微软刚刚首次披露，OpenAI 贡献了微软约 70% 的 AI 收入，依据最新文件。\n\n这一数据基于预期增长及此前与 OpenAI 相关收入的披露。\n\n241 亿美元中的大部分是 OpenAI 在微软数据中心训练和运行 ChatGPT 的云账单，再加上模型开发成本和 OpenAI 自身销售的分成，全部由微软合并计入收入。微软同时还向 OpenAI 投入了 119 亿美元。",
+        "id": "c2e0ad32857b9ad4cff6e70f1c62a42bd11ea88a",
+        "title": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
+        "title_zh": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
+        "title_en": null,
+        "title_original": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
+        "summary": "小红书联合浙江大学、复旦大学提出 CULTURE-MT，这是首个面向中英社媒笔记翻译、兼顾文化符号传递与情感共鸣的评测基准，并首次提出「文化有效性」评估标准与自动评估模型 JUDGER（准确率 86.03%）。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/rohanpaul_ai/status/2085368375816163423",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496008&idx=1&sn=08f2ce717483f63bc00a2181e59e3f40",
+        "source": "公众号：小红书技术（dots.llm）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T13:36:57.750195Z"
+        "scored_at": "2026-08-07T15:08:38.119709Z"
       }
     },
     {
@@ -1695,15 +1611,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7295,
-      "importance": 0.7295,
-      "importance_score": 0.7295,
+      "score": 0.726,
+      "importance": 0.726,
+      "importance_score": 0.726,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.905,
+        "recency": 0.8853,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1728,7 +1644,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T13:36:57.750195Z"
+        "scored_at": "2026-08-07T15:08:38.119709Z"
+      }
+    },
+    {
+      "story_id": "story_ef262694eaa4",
+      "title": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
+      "url": "https://www.aibase.com/news/30197",
+      "primary_url": "https://www.aibase.com/news/30197",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f67ac4ad10b07048c0e2b1beb1c90cada5355657",
+          "title": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
+          "title_zh": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
+          "title_en": null,
+          "title_original": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30197",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T09:14:15.878474Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f67ac4ad10b07048c0e2b1beb1c90cada5355657",
+          "title": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
+          "title_zh": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
+          "title_en": null,
+          "title_original": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30197",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T09:14:15.878474Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7529,
+      "importance": 0.7529,
+      "importance_score": 0.7529,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9185,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T09:14:15.878474Z",
+      "latest_at": "2026-08-07T09:14:15.878474Z",
+      "primary_item": {
+        "id": "f67ac4ad10b07048c0e2b1beb1c90cada5355657",
+        "title": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
+        "title_zh": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
+        "title_en": null,
+        "title_original": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30197",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-07T15:08:38.119709Z"
       }
     }
   ]
