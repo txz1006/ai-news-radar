@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T00:44:30.334923Z",
+  "generated_at": "2026-08-07T04:03:13.020114Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.9005,
-      "importance": 0.9005,
-      "importance_score": 0.9005,
+      "score": 0.8937,
+      "importance": 0.8937,
+      "importance_score": 0.8937,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8083,
+        "recency": 0.7705,
         "story_heat": 0.75
       },
       "category": "official",
@@ -171,7 +171,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T00:45:18.644965Z"
+        "scored_at": "2026-08-07T04:03:47.207793Z"
+      }
+    },
+    {
+      "story_id": "story_5e12dcba5aeb",
+      "title": "Codex CLI 0.147.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b3ad943613d971383ab781d0f38a0b1ca858303e",
+          "title": "Codex CLI 0.147.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.147.0",
+          "title_original": "Codex CLI 0.147.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "b3ad943613d971383ab781d0f38a0b1ca858303e",
+          "title": "Codex CLI 0.147.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.147.0",
+          "title_original": "Codex CLI 0.147.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8558,
+      "importance": 0.8558,
+      "importance_score": 0.8558,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.9431,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T00:00:00Z",
+      "latest_at": "2026-08-07T00:00:00Z",
+      "primary_item": {
+        "id": "b3ad943613d971383ab781d0f38a0b1ca858303e",
+        "title": "Codex CLI 0.147.0",
+        "title_zh": null,
+        "title_en": "Codex CLI 0.147.0",
+        "title_original": "Codex CLI 0.147.0",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-07T04:03:47.207793Z"
       }
     },
     {
@@ -219,15 +302,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8397,
-      "importance": 0.8397,
-      "importance_score": 0.8397,
+      "score": 0.8318,
+      "importance": 0.8318,
+      "importance_score": 0.8318,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9315,
+        "recency": 0.888,
         "story_heat": 0.0
       },
       "category": "official",
@@ -254,7 +337,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T00:45:18.644965Z"
+        "scored_at": "2026-08-07T04:03:47.207793Z"
       }
     },
     {
@@ -302,15 +385,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.834,
-      "importance": 0.834,
-      "importance_score": 0.834,
+      "score": 0.8265,
+      "importance": 0.8265,
+      "importance_score": 0.8265,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9001,
+        "recency": 0.8581,
         "story_heat": 0.0
       },
       "category": "official",
@@ -337,7 +420,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T00:45:18.644965Z"
+        "scored_at": "2026-08-07T04:03:47.207793Z"
       }
     },
     {
@@ -385,15 +468,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8206,
-      "importance": 0.8206,
-      "importance_score": 0.8206,
+      "score": 0.8133,
+      "importance": 0.8133,
+      "importance_score": 0.8133,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8701,
+        "recency": 0.8294,
         "story_heat": 0.0
       },
       "category": "official",
@@ -420,7 +503,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T00:45:18.644965Z"
+        "scored_at": "2026-08-07T04:03:47.207793Z"
       }
     },
     {
@@ -468,15 +551,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8057,
-      "importance": 0.8057,
-      "importance_score": 0.8057,
+      "score": 0.7982,
+      "importance": 0.7982,
+      "importance_score": 0.7982,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8928,
+        "recency": 0.8511,
         "story_heat": 0.0
       },
       "category": "official",
@@ -502,7 +585,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T00:45:18.644965Z"
+        "scored_at": "2026-08-07T04:03:47.207793Z"
+      }
+    },
+    {
+      "story_id": "story_9590ce88d571",
+      "title": "Anthropic 更新 Claude Fable 5 生物安全防护，误报率大幅降低 / Improving Fable 5's biology safeguards",
+      "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+      "primary_url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+      "source": "Anthropic：Newsroom（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "bf6cd922a6edf0b91ad01230ec14fd770b9ea656",
+          "title": "Anthropic 更新 Claude Fable 5 生物安全防护，误报率大幅降低 / Improving Fable 5's biology safeguards",
+          "title_zh": "Anthropic 更新 Claude Fable 5 生物安全防护，误报率大幅降低",
+          "title_en": "Improving Fable 5's biology safeguards",
+          "title_original": "Improving Fable 5's biology safeguards",
+          "summary": "Anthropic 更新了 Claude Fable 5 的生物安全防护机制，将生物相关查询的\"回退\"次数减少约 85%，用户在日常健康与教育问题上将更少遇到系统切换至较弱模型的情况。此次更新扩大了模型可协助的生物任务范围，但涉及双重用途的病毒学、毒理学和分子设计请求仍会回退至 Opus 5。Anthropic 表示正通过可信访问途径，致力于缩小专业生物研究与药物开发领域的差距。",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T02:41:46.636000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Newsroom（网页）"
+      ],
+      "items": [
+        {
+          "id": "bf6cd922a6edf0b91ad01230ec14fd770b9ea656",
+          "title": "Anthropic 更新 Claude Fable 5 生物安全防护，误报率大幅降低 / Improving Fable 5's biology safeguards",
+          "title_zh": "Anthropic 更新 Claude Fable 5 生物安全防护，误报率大幅降低",
+          "title_en": "Improving Fable 5's biology safeguards",
+          "title_original": "Improving Fable 5's biology safeguards",
+          "summary": "Anthropic 更新了 Claude Fable 5 的生物安全防护机制，将生物相关查询的\"回退\"次数减少约 85%，用户在日常健康与教育问题上将更少遇到系统切换至较弱模型的情况。此次更新扩大了模型可协助的生物任务范围，但涉及双重用途的病毒学、毒理学和分子设计请求仍会回退至 Opus 5。Anthropic 表示正通过可信访问途径，致力于缩小专业生物研究与药物开发领域的差距。",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T02:41:46.636000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7945,
+      "importance": 0.7945,
+      "importance_score": 0.7945,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.9806,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T02:41:46.636000Z",
+      "latest_at": "2026-08-07T02:41:46.636000Z",
+      "primary_item": {
+        "id": "bf6cd922a6edf0b91ad01230ec14fd770b9ea656",
+        "title": "Anthropic 更新 Claude Fable 5 生物安全防护，误报率大幅降低 / Improving Fable 5's biology safeguards",
+        "title_zh": "Anthropic 更新 Claude Fable 5 生物安全防护，误报率大幅降低",
+        "title_en": "Improving Fable 5's biology safeguards",
+        "title_original": "Improving Fable 5's biology safeguards",
+        "summary": "Anthropic 更新了 Claude Fable 5 的生物安全防护机制，将生物相关查询的\"回退\"次数减少约 85%，用户在日常健康与教育问题上将更少遇到系统切换至较弱模型的情况。此次更新扩大了模型可协助的生物任务范围，但涉及双重用途的病毒学、毒理学和分子设计请求仍会回退至 Opus 5。Anthropic 表示正通过可信访问途径，致力于缩小专业生物研究与药物开发领域的差距。",
+        "recommend_reason_zh": null,
+        "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+        "source": "Anthropic：Newsroom（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-07T04:03:47.207793Z"
       }
     },
     {
@@ -550,15 +715,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8007,
-      "importance": 0.8007,
-      "importance_score": 0.8007,
+      "score": 0.7943,
+      "importance": 0.7943,
+      "importance_score": 0.7943,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7652,
+        "recency": 0.7295,
         "story_heat": 0.0
       },
       "category": "official",
@@ -584,7 +749,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T00:45:18.644965Z"
+        "scored_at": "2026-08-07T04:03:47.207793Z"
       }
     },
     {
@@ -632,15 +797,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8093,
-      "importance": 0.8093,
-      "importance_score": 0.8093,
+      "score": 0.8029,
+      "importance": 0.8029,
+      "importance_score": 0.8029,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7629,
+        "recency": 0.7273,
         "story_heat": 0.0
       },
       "category": "official",
@@ -667,7 +832,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T00:45:18.644965Z"
+        "scored_at": "2026-08-07T04:03:47.207793Z"
+      }
+    },
+    {
+      "story_id": "story_b72b947b1616",
+      "title": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
+      "url": "https://www.aibase.com/news/30180",
+      "primary_url": "https://www.aibase.com/news/30180",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "79186ad6f93f38e10ee07e8d71918f5e41e95fb2",
+          "title": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
+          "title_zh": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
+          "title_en": null,
+          "title_original": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30180",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T04:03:13.020114Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "79186ad6f93f38e10ee07e8d71918f5e41e95fb2",
+          "title": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
+          "title_zh": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
+          "title_en": null,
+          "title_original": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30180",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T04:03:13.020114Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T04:03:13.020114Z",
+      "latest_at": "2026-08-07T04:03:13.020114Z",
+      "primary_item": {
+        "id": "79186ad6f93f38e10ee07e8d71918f5e41e95fb2",
+        "title": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
+        "title_zh": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
+        "title_en": null,
+        "title_original": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30180",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-07T04:03:47.207793Z"
       }
     },
     {
@@ -744,15 +991,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7745,
-      "importance": 0.7745,
-      "importance_score": 0.7745,
+      "score": 0.7674,
+      "importance": 0.7674,
+      "importance_score": 0.7674,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8495,
+        "recency": 0.8098,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -779,7 +1026,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T00:45:18.644965Z"
+        "scored_at": "2026-08-07T04:03:47.207793Z"
       }
     },
     {
@@ -856,15 +1103,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7705,
-      "importance": 0.7705,
-      "importance_score": 0.7705,
+      "score": 0.7634,
+      "importance": 0.7634,
+      "importance_score": 0.7634,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.844,
+        "recency": 0.8046,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -891,7 +1138,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T00:45:18.644965Z"
+        "scored_at": "2026-08-07T04:03:47.207793Z"
       }
     },
     {
@@ -939,15 +1186,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7664,
-      "importance": 0.7664,
-      "importance_score": 0.7664,
+      "score": 0.7586,
+      "importance": 0.7586,
+      "importance_score": 0.7586,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9266,
+        "recency": 0.8833,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -973,7 +1220,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T00:45:18.644965Z"
+        "scored_at": "2026-08-07T04:03:47.207793Z"
       }
     },
     {
@@ -1050,15 +1297,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7634,
-      "importance": 0.7634,
-      "importance_score": 0.7634,
+      "score": 0.7561,
+      "importance": 0.7561,
+      "importance_score": 0.7561,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.871,
+        "recency": 0.8303,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1085,7 +1332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T00:45:18.644965Z"
+        "scored_at": "2026-08-07T04:03:47.207793Z"
       }
     },
     {
@@ -1133,15 +1380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7572,
-      "importance": 0.7572,
-      "importance_score": 0.7572,
+      "score": 0.75,
+      "importance": 0.75,
+      "importance_score": 0.75,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8589,
+        "recency": 0.8187,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1167,7 +1414,170 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T00:45:18.644965Z"
+        "scored_at": "2026-08-07T04:03:47.207793Z"
+      }
+    },
+    {
+      "story_id": "story_2e63b996319c",
+      "title": "千问功能上新：推出思考研究、定时任务、办公助理、语音通话等多项新功能，并支持 Qwen3.8-MAX",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488266&idx=1&sn=3a1988ba0710abcefba9c9dd282b464e",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488266&idx=1&sn=3a1988ba0710abcefba9c9dd282b464e",
+      "source": "公众号：千问APP（阿里）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2d73ce4a13ace600c29323dbd667f512dcec622e",
+          "title": "千问功能上新：推出思考研究、定时任务、办公助理、语音通话等多项新功能，并支持 Qwen3.8-MAX",
+          "title_zh": "千问功能上新：推出思考研究、定时任务、办公助理、语音通话等多项新功能，并支持 Qwen3.8-MAX",
+          "title_en": null,
+          "title_original": "千问功能上新：推出思考研究、定时任务、办公助理、语音通话等多项新功能，并支持 Qwen3.8-MAX",
+          "summary": "千问今日上线多项新功能，并支持最新旗舰模型 Qwen3.8-MAX。其中\"思考研究\"在原\"深度思考\"基础上升级，强化复杂推理与工具调用；\"定时任务\"可预设执行时间自动完成行业简报梳理等周期工作；\"办公助理\"能连接备忘录、日历等应用并操作电脑浏览器，直接输出可用的 Office 文档。语音通话支持 7x24 小时多场景，智能体广场首批覆盖物流、房产等十多个领域。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488266&idx=1&sn=3a1988ba0710abcefba9c9dd282b464e",
+          "source": "公众号：千问APP（阿里）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T02:04:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：千问APP（阿里）"
+      ],
+      "items": [
+        {
+          "id": "2d73ce4a13ace600c29323dbd667f512dcec622e",
+          "title": "千问功能上新：推出思考研究、定时任务、办公助理、语音通话等多项新功能，并支持 Qwen3.8-MAX",
+          "title_zh": "千问功能上新：推出思考研究、定时任务、办公助理、语音通话等多项新功能，并支持 Qwen3.8-MAX",
+          "title_en": null,
+          "title_original": "千问功能上新：推出思考研究、定时任务、办公助理、语音通话等多项新功能，并支持 Qwen3.8-MAX",
+          "summary": "千问今日上线多项新功能，并支持最新旗舰模型 Qwen3.8-MAX。其中\"思考研究\"在原\"深度思考\"基础上升级，强化复杂推理与工具调用；\"定时任务\"可预设执行时间自动完成行业简报梳理等周期工作；\"办公助理\"能连接备忘录、日历等应用并操作电脑浏览器，直接输出可用的 Office 文档。语音通话支持 7x24 小时多场景，智能体广场首批覆盖物流、房产等十多个领域。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488266&idx=1&sn=3a1988ba0710abcefba9c9dd282b464e",
+          "source": "公众号：千问APP（阿里）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T02:04:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7475,
+      "importance": 0.7475,
+      "importance_score": 0.7475,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9719,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-07T02:04:51Z",
+      "latest_at": "2026-08-07T02:04:51Z",
+      "primary_item": {
+        "id": "2d73ce4a13ace600c29323dbd667f512dcec622e",
+        "title": "千问功能上新：推出思考研究、定时任务、办公助理、语音通话等多项新功能，并支持 Qwen3.8-MAX",
+        "title_zh": "千问功能上新：推出思考研究、定时任务、办公助理、语音通话等多项新功能，并支持 Qwen3.8-MAX",
+        "title_en": null,
+        "title_original": "千问功能上新：推出思考研究、定时任务、办公助理、语音通话等多项新功能，并支持 Qwen3.8-MAX",
+        "summary": "千问今日上线多项新功能，并支持最新旗舰模型 Qwen3.8-MAX。其中\"思考研究\"在原\"深度思考\"基础上升级，强化复杂推理与工具调用；\"定时任务\"可预设执行时间自动完成行业简报梳理等周期工作；\"办公助理\"能连接备忘录、日历等应用并操作电脑浏览器，直接输出可用的 Office 文档。语音通话支持 7x24 小时多场景，智能体广场首批覆盖物流、房产等十多个领域。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488266&idx=1&sn=3a1988ba0710abcefba9c9dd282b464e",
+        "source": "公众号：千问APP（阿里）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-07T04:03:47.207793Z"
+      }
+    },
+    {
+      "story_id": "story_185ce5e58586",
+      "title": "ChatGPT 大更新：免费用户升级 GPT-5.6 Luna 并将开放无限畅聊，付费用户获思考深度调节",
+      "url": "https://www.aibase.com/news/30179",
+      "primary_url": "https://www.aibase.com/news/30179",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ab35fc0f41df5525e287bd5e933496841ae1ac7c",
+          "title": "ChatGPT 大更新：免费用户升级 GPT-5.6 Luna 并将开放无限畅聊，付费用户获思考深度调节",
+          "title_zh": "ChatGPT 大更新：免费用户升级 GPT-5.6 Luna 并将开放无限畅聊，付费用户获思考深度调节",
+          "title_en": null,
+          "title_original": "ChatGPT 大更新：免费用户升级 GPT-5.6 Luna 并将开放无限畅聊，付费用户获思考深度调节",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30179",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T04:03:13.020114Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "ab35fc0f41df5525e287bd5e933496841ae1ac7c",
+          "title": "ChatGPT 大更新：免费用户升级 GPT-5.6 Luna 并将开放无限畅聊，付费用户获思考深度调节",
+          "title_zh": "ChatGPT 大更新：免费用户升级 GPT-5.6 Luna 并将开放无限畅聊，付费用户获思考深度调节",
+          "title_en": null,
+          "title_original": "ChatGPT 大更新：免费用户升级 GPT-5.6 Luna 并将开放无限畅聊，付费用户获思考深度调节",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30179",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T04:03:13.020114Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T04:03:13.020114Z",
+      "latest_at": "2026-08-07T04:03:13.020114Z",
+      "primary_item": {
+        "id": "ab35fc0f41df5525e287bd5e933496841ae1ac7c",
+        "title": "ChatGPT 大更新：免费用户升级 GPT-5.6 Luna 并将开放无限畅聊，付费用户获思考深度调节",
+        "title_zh": "ChatGPT 大更新：免费用户升级 GPT-5.6 Luna 并将开放无限畅聊，付费用户获思考深度调节",
+        "title_en": null,
+        "title_original": "ChatGPT 大更新：免费用户升级 GPT-5.6 Luna 并将开放无限畅聊，付费用户获思考深度调节",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30179",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-07T04:03:47.207793Z"
       }
     },
     {
@@ -1215,15 +1625,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.742,
-      "importance": 0.742,
-      "importance_score": 0.742,
+      "score": 0.7355,
+      "importance": 0.7355,
+      "importance_score": 0.7355,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7747,
+        "recency": 0.7385,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1248,88 +1658,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T00:45:18.644965Z"
-      }
-    },
-    {
-      "story_id": "story_365bb32d4726",
-      "title": "OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684990&idx=1&sn=86a6d71b133589916b49a9d57046c127",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684990&idx=1&sn=86a6d71b133589916b49a9d57046c127",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d2e64c07e89b4d5a04a3101508e075bf9a91c098",
-          "title": "OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件",
-          "title_zh": "OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件",
-          "title_en": null,
-          "title_original": "OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件",
-          "summary": "OpenAI 将安全插件 Codex Security 开源，外部 Agent 均可调用，并已支持通过 OpenRouter 和 Fireworks 接入第三方模型。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684990&idx=1&sn=86a6d71b133589916b49a9d57046c127",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T01:15:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "d2e64c07e89b4d5a04a3101508e075bf9a91c098",
-          "title": "OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件",
-          "title_zh": "OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件",
-          "title_en": null,
-          "title_original": "OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件",
-          "summary": "OpenAI 将安全插件 Codex Security 开源，外部 Agent 均可调用，并已支持通过 OpenRouter 和 Fireworks 接入第三方模型。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684990&idx=1&sn=86a6d71b133589916b49a9d57046c127",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T01:15:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7398,
-      "importance": 0.7398,
-      "importance_score": 0.7398,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7124,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-06T01:15:29Z",
-      "latest_at": "2026-08-06T01:15:29Z",
-      "primary_item": {
-        "id": "d2e64c07e89b4d5a04a3101508e075bf9a91c098",
-        "title": "OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件",
-        "title_zh": "OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件",
-        "title_en": null,
-        "title_original": "OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件",
-        "summary": "OpenAI 将安全插件 Codex Security 开源，外部 Agent 均可调用，并已支持通过 OpenRouter 和 Fireworks 接入第三方模型。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684990&idx=1&sn=86a6d71b133589916b49a9d57046c127",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-07T00:45:18.644965Z"
+        "scored_at": "2026-08-07T04:03:47.207793Z"
       }
     },
     {
@@ -1406,15 +1735,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7675,
-      "importance": 0.7675,
-      "importance_score": 0.7675,
+      "score": 0.7604,
+      "importance": 0.7604,
+      "importance_score": 0.7604,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.844,
+        "recency": 0.8046,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1441,7 +1770,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T00:45:18.644965Z"
+        "scored_at": "2026-08-07T04:03:47.207793Z"
       }
     },
     {
@@ -1489,15 +1818,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7365,
-      "importance": 0.7365,
-      "importance_score": 0.7365,
+      "score": 0.7294,
+      "importance": 0.7294,
+      "importance_score": 0.7294,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.844,
+        "recency": 0.8046,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1522,332 +1851,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T00:45:18.644965Z"
-      }
-    },
-    {
-      "story_id": "story_cb44ad7f2ed9",
-      "title": "谷歌地图 Ask Maps 智能体升级：可对话订餐、找酒店并接入 Gemini Personal Intelligence",
-      "url": "https://www.ithome.com/0/986/729.htm",
-      "primary_url": "https://www.ithome.com/0/986/729.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b7ed4aea7864403ee8647c28d367e9bc05306de5",
-          "title": "谷歌地图 Ask Maps 智能体升级：可对话订餐、找酒店并接入 Gemini Personal Intelligence",
-          "title_zh": "谷歌地图 Ask Maps 智能体升级：可对话订餐、找酒店并接入 Gemini Personal Intelligence",
-          "title_en": null,
-          "title_original": "谷歌地图 Ask Maps 智能体升级：可对话订餐、找酒店并接入 Gemini Personal Intelligence",
-          "summary": "谷歌地图宣布 Ask Maps 迎来新一轮升级，新增智能体功能，可替用户执行订餐操作，并综合考虑饮食要求、当前位置和收藏地点等信息；用户还可通过对话指定装修风格、环境氛围等条件查找酒店和当地活动。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/986/729.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T12:49:13Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "b7ed4aea7864403ee8647c28d367e9bc05306de5",
-          "title": "谷歌地图 Ask Maps 智能体升级：可对话订餐、找酒店并接入 Gemini Personal Intelligence",
-          "title_zh": "谷歌地图 Ask Maps 智能体升级：可对话订餐、找酒店并接入 Gemini Personal Intelligence",
-          "title_en": null,
-          "title_original": "谷歌地图 Ask Maps 智能体升级：可对话订餐、找酒店并接入 Gemini Personal Intelligence",
-          "summary": "谷歌地图宣布 Ask Maps 迎来新一轮升级，新增智能体功能，可替用户执行订餐操作，并综合考虑饮食要求、当前位置和收藏地点等信息；用户还可通过对话指定装修风格、环境氛围等条件查找酒店和当地活动。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/986/729.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T12:49:13Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7361,
-      "importance": 0.7361,
-      "importance_score": 0.7361,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8419,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-06T12:49:13Z",
-      "latest_at": "2026-08-06T12:49:13Z",
-      "primary_item": {
-        "id": "b7ed4aea7864403ee8647c28d367e9bc05306de5",
-        "title": "谷歌地图 Ask Maps 智能体升级：可对话订餐、找酒店并接入 Gemini Personal Intelligence",
-        "title_zh": "谷歌地图 Ask Maps 智能体升级：可对话订餐、找酒店并接入 Gemini Personal Intelligence",
-        "title_en": null,
-        "title_original": "谷歌地图 Ask Maps 智能体升级：可对话订餐、找酒店并接入 Gemini Personal Intelligence",
-        "summary": "谷歌地图宣布 Ask Maps 迎来新一轮升级，新增智能体功能，可替用户执行订餐操作，并综合考虑饮食要求、当前位置和收藏地点等信息；用户还可通过对话指定装修风格、环境氛围等条件查找酒店和当地活动。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/986/729.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-07T00:45:18.644965Z"
-      }
-    },
-    {
-      "story_id": "story_51f2c00be5de",
-      "title": "AISI测试发现AI代理出现欺骗行为，Anthropic Mythos5与GPT-5.6-Sol被曝模拟攻击",
-      "url": "https://www.aibase.com/news/30164",
-      "primary_url": "https://www.aibase.com/news/30164",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c38cac768143efbb1830b44b1c51124177ba1a03",
-          "title": "AISI测试发现AI代理出现欺骗行为，Anthropic Mythos5与GPT-5.6-Sol被曝模拟攻击",
-          "title_zh": "AISI测试发现AI代理出现欺骗行为，Anthropic Mythos5与GPT-5.6-Sol被曝模拟攻击",
-          "title_en": null,
-          "title_original": "AISI测试发现AI代理出现欺骗行为，Anthropic Mythos5与GPT-5.6-Sol被曝模拟攻击",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30164",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-06T09:49:27.424085Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c38cac768143efbb1830b44b1c51124177ba1a03",
-          "title": "AISI测试发现AI代理出现欺骗行为，Anthropic Mythos5与GPT-5.6-Sol被曝模拟攻击",
-          "title_zh": "AISI测试发现AI代理出现欺骗行为，Anthropic Mythos5与GPT-5.6-Sol被曝模拟攻击",
-          "title_en": null,
-          "title_original": "AISI测试发现AI代理出现欺骗行为，Anthropic Mythos5与GPT-5.6-Sol被曝模拟攻击",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30164",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-06T09:49:27.424085Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7327,
-      "importance": 0.7327,
-      "importance_score": 0.7327,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8062,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-06T09:49:27.424085Z",
-      "latest_at": "2026-08-06T09:49:27.424085Z",
-      "primary_item": {
-        "id": "c38cac768143efbb1830b44b1c51124177ba1a03",
-        "title": "AISI测试发现AI代理出现欺骗行为，Anthropic Mythos5与GPT-5.6-Sol被曝模拟攻击",
-        "title_zh": "AISI测试发现AI代理出现欺骗行为，Anthropic Mythos5与GPT-5.6-Sol被曝模拟攻击",
-        "title_en": null,
-        "title_original": "AISI测试发现AI代理出现欺骗行为，Anthropic Mythos5与GPT-5.6-Sol被曝模拟攻击",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30164",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-07T00:45:18.644965Z"
-      }
-    },
-    {
-      "story_id": "story_8293b902ad1e",
-      "title": "Cloudflare 推出 WebMCP 开发者预览版，一键为任意网站添加智能体接口 / Give any website a WebMCP interface",
-      "url": "https://blog.cloudflare.com/webmcp",
-      "primary_url": "https://blog.cloudflare.com/webmcp",
-      "source": "Cloudflare Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e969f9da17d7f005e81debfc8ba9fe5e34a48ba4",
-          "title": "Cloudflare 推出 WebMCP 开发者预览版，一键为任意网站添加智能体接口 / Give any website a WebMCP interface",
-          "title_zh": "Cloudflare 推出 WebMCP 开发者预览版，一键为任意网站添加智能体接口",
-          "title_en": "Give any website a WebMCP interface",
-          "title_original": "Give any website a WebMCP interface",
-          "summary": "Cloudflare 推出 WebMCP 开发者预览版，用户只需在 Dashboard 开启开关，无需改动代码即可为网站添加浏览器智能体工具接口。该实现基于 Chrome 146 实验性标准，通过边缘注入和桥接脚本将工具注册到 document.modelContext，所有工具均在访客浏览器内运行。",
-          "recommend_reason_zh": null,
-          "url": "https://blog.cloudflare.com/webmcp",
-          "source": "Cloudflare Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T13:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Cloudflare Blog"
-      ],
-      "items": [
-        {
-          "id": "e969f9da17d7f005e81debfc8ba9fe5e34a48ba4",
-          "title": "Cloudflare 推出 WebMCP 开发者预览版，一键为任意网站添加智能体接口 / Give any website a WebMCP interface",
-          "title_zh": "Cloudflare 推出 WebMCP 开发者预览版，一键为任意网站添加智能体接口",
-          "title_en": "Give any website a WebMCP interface",
-          "title_original": "Give any website a WebMCP interface",
-          "summary": "Cloudflare 推出 WebMCP 开发者预览版，用户只需在 Dashboard 开启开关，无需改动代码即可为网站添加浏览器智能体工具接口。该实现基于 Chrome 146 实验性标准，通过边缘注入和桥接脚本将工具注册到 document.modelContext，所有工具均在访客浏览器内运行。",
-          "recommend_reason_zh": null,
-          "url": "https://blog.cloudflare.com/webmcp",
-          "source": "Cloudflare Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7605,
-      "importance": 0.7605,
-      "importance_score": 0.7605,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.844,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-06T13:00:00Z",
-      "latest_at": "2026-08-06T13:00:00Z",
-      "primary_item": {
-        "id": "e969f9da17d7f005e81debfc8ba9fe5e34a48ba4",
-        "title": "Cloudflare 推出 WebMCP 开发者预览版，一键为任意网站添加智能体接口 / Give any website a WebMCP interface",
-        "title_zh": "Cloudflare 推出 WebMCP 开发者预览版，一键为任意网站添加智能体接口",
-        "title_en": "Give any website a WebMCP interface",
-        "title_original": "Give any website a WebMCP interface",
-        "summary": "Cloudflare 推出 WebMCP 开发者预览版，用户只需在 Dashboard 开启开关，无需改动代码即可为网站添加浏览器智能体工具接口。该实现基于 Chrome 146 实验性标准，通过边缘注入和桥接脚本将工具注册到 document.modelContext，所有工具均在访客浏览器内运行。",
-        "recommend_reason_zh": null,
-        "url": "https://blog.cloudflare.com/webmcp",
-        "source": "Cloudflare Blog",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-07T00:45:18.644965Z"
-      }
-    },
-    {
-      "story_id": "story_432a238f42d9",
-      "title": "宇树科技科创板发行价定为 150.8 元/股，市盈率 219.23 倍高于行业平均",
-      "url": "https://www.ithome.com/0/986/699.htm",
-      "primary_url": "https://www.ithome.com/0/986/699.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d8100231e5e416a02676229f6754c9a1648c75c4",
-          "title": "宇树科技科创板发行价定为 150.8 元/股，市盈率 219.23 倍高于行业平均",
-          "title_zh": "宇树科技科创板发行价定为 150.8 元/股，市盈率 219.23 倍高于行业平均",
-          "title_en": null,
-          "title_original": "宇树科技科创板发行价定为 150.8 元/股，市盈率 219.23 倍高于行业平均",
-          "summary": "宇树科技公告科创板首次公开发行定价 150.80 元/股，发行 4044.6434 万股，对应上市市值约 609.93 亿元。发行市盈率 219.23 倍，高于行业平均的 38.56 倍，预计募资总额约 60.99 亿元。战略配售获配 808.9286 万股，包括社保基金、深度求索、中国石油集团等，网上申购日为 8 月 10 日。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/986/699.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T11:21:53Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "d8100231e5e416a02676229f6754c9a1648c75c4",
-          "title": "宇树科技科创板发行价定为 150.8 元/股，市盈率 219.23 倍高于行业平均",
-          "title_zh": "宇树科技科创板发行价定为 150.8 元/股，市盈率 219.23 倍高于行业平均",
-          "title_en": null,
-          "title_original": "宇树科技科创板发行价定为 150.8 元/股，市盈率 219.23 倍高于行业平均",
-          "summary": "宇树科技公告科创板首次公开发行定价 150.80 元/股，发行 4044.6434 万股，对应上市市值约 609.93 亿元。发行市盈率 219.23 倍，高于行业平均的 38.56 倍，预计募资总额约 60.99 亿元。战略配售获配 808.9286 万股，包括社保基金、深度求索、中国石油集团等，网上申购日为 8 月 10 日。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/986/699.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T11:21:53Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.733,
-      "importance": 0.733,
-      "importance_score": 0.733,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8243,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-06T11:21:53Z",
-      "latest_at": "2026-08-06T11:21:53Z",
-      "primary_item": {
-        "id": "d8100231e5e416a02676229f6754c9a1648c75c4",
-        "title": "宇树科技科创板发行价定为 150.8 元/股，市盈率 219.23 倍高于行业平均",
-        "title_zh": "宇树科技科创板发行价定为 150.8 元/股，市盈率 219.23 倍高于行业平均",
-        "title_en": null,
-        "title_original": "宇树科技科创板发行价定为 150.8 元/股，市盈率 219.23 倍高于行业平均",
-        "summary": "宇树科技公告科创板首次公开发行定价 150.80 元/股，发行 4044.6434 万股，对应上市市值约 609.93 亿元。发行市盈率 219.23 倍，高于行业平均的 38.56 倍，预计募资总额约 60.99 亿元。战略配售获配 808.9286 万股，包括社保基金、深度求索、中国石油集团等，网上申购日为 8 月 10 日。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/986/699.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-07T00:45:18.644965Z"
+        "scored_at": "2026-08-07T04:03:47.207793Z"
       }
     }
   ]
