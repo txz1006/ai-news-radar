@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-09T02:26:27.069996Z",
+  "generated_at": "2026-08-09T04:34:12.968488Z",
   "window_hours": 24,
-  "total_items": 10,
+  "total_items": 13,
   "items": [
     {
       "story_id": "story_adfff91a73dc",
@@ -192,15 +192,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.8724,
-      "importance": 0.8724,
-      "importance_score": 0.8724,
+      "score": 0.8678,
+      "importance": 0.8678,
+      "importance_score": 0.8678,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8434,
+        "recency": 0.8178,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -227,7 +227,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T02:27:08.402590Z"
+        "scored_at": "2026-08-09T04:34:58.128862Z"
+      }
+    },
+    {
+      "story_id": "story_019e440fd20f",
+      "title": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
+      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w32",
+      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w32",
+      "source": "Daily Digest",
+      "source_name": "AI HubToday",
+      "sources": [
+        {
+          "id": "c71f2f15b9be7737feae2051433a7619cac06f89",
+          "title": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
+          "title_zh": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
+          "title_en": null,
+          "title_original": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w32",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-08-09T03:30:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Daily Digest"
+      ],
+      "items": [
+        {
+          "id": "c71f2f15b9be7737feae2051433a7619cac06f89",
+          "title": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
+          "title_zh": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
+          "title_en": null,
+          "title_original": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w32",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-08-09T03:30:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7649,
+      "importance": 0.7649,
+      "importance_score": 0.7649,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9848,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-09T03:30:30Z",
+      "latest_at": "2026-08-09T03:30:30Z",
+      "primary_item": {
+        "id": "c71f2f15b9be7737feae2051433a7619cac06f89",
+        "title": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
+        "title_zh": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
+        "title_en": null,
+        "title_original": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w32",
+        "source": "Daily Digest",
+        "source_name": "AI HubToday"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-09T04:34:58.128862Z"
       }
     },
     {
@@ -275,15 +357,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7583,
-      "importance": 0.7583,
-      "importance_score": 0.7583,
+      "score": 0.7531,
+      "importance": 0.7531,
+      "importance_score": 0.7531,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9484,
+        "recency": 0.9197,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -309,7 +391,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T02:27:08.402590Z"
+        "scored_at": "2026-08-09T04:34:58.128862Z"
       }
     },
     {
@@ -357,15 +439,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7468,
-      "importance": 0.7468,
-      "importance_score": 0.7468,
+      "score": 0.7425,
+      "importance": 0.7425,
+      "importance_score": 0.7425,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8013,
+        "recency": 0.777,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -390,7 +472,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T02:27:08.402590Z"
+        "scored_at": "2026-08-09T04:34:58.128862Z"
+      }
+    },
+    {
+      "story_id": "story_5309a01ab201",
+      "title": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
+      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w31",
+      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w31",
+      "source": "Daily Digest",
+      "source_name": "AI HubToday",
+      "sources": [
+        {
+          "id": "bf5522d0af6d1090ffb62554ea4574bed6064554",
+          "title": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
+          "title_zh": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
+          "title_en": null,
+          "title_original": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w31",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-08-09T03:24:44Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Daily Digest"
+      ],
+      "items": [
+        {
+          "id": "bf5522d0af6d1090ffb62554ea4574bed6064554",
+          "title": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
+          "title_zh": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
+          "title_en": null,
+          "title_original": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w31",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-08-09T03:24:44Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7646,
+      "importance": 0.7646,
+      "importance_score": 0.7646,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9834,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-09T03:24:44Z",
+      "latest_at": "2026-08-09T03:24:44Z",
+      "primary_item": {
+        "id": "bf5522d0af6d1090ffb62554ea4574bed6064554",
+        "title": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
+        "title_zh": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
+        "title_en": null,
+        "title_original": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w31",
+        "source": "Daily Digest",
+        "source_name": "AI HubToday"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-09T04:34:58.128862Z"
       }
     },
     {
@@ -438,15 +602,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7254,
-      "importance": 0.7254,
-      "importance_score": 0.7254,
+      "score": 0.7207,
+      "importance": 0.7207,
+      "importance_score": 0.7207,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8658,
+        "recency": 0.8396,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -471,7 +635,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T02:27:08.402590Z"
+        "scored_at": "2026-08-09T04:34:58.128862Z"
       }
     },
     {
@@ -519,15 +683,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7462,
-      "importance": 0.7462,
-      "importance_score": 0.7462,
+      "score": 0.7417,
+      "importance": 0.7417,
+      "importance_score": 0.7417,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8313,
+        "recency": 0.8061,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -552,7 +716,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T02:27:08.402590Z"
+        "scored_at": "2026-08-09T04:34:58.128862Z"
       }
     },
     {
@@ -600,15 +764,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7384,
-      "importance": 0.7384,
-      "importance_score": 0.7384,
+      "score": 0.7342,
+      "importance": 0.7342,
+      "importance_score": 0.7342,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7709,
+        "recency": 0.7475,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -633,7 +797,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T02:27:08.402590Z"
+        "scored_at": "2026-08-09T04:34:58.128862Z"
       }
     },
     {
@@ -673,7 +837,7 @@
           "published_at": "2026-08-08T18:56:37.200000Z"
         },
         {
-          "id": "20fcecdef2911569da9805225694720c760b2329",
+          "id": "386039a07181e711dea9170a3855a19db52f6cb9",
           "title": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊 / Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
           "title_zh": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
           "title_en": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
@@ -681,15 +845,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-08-08T18:09:31Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "hackernews",
         "mezha.net"
       ],
@@ -723,7 +887,7 @@
           "published_at": "2026-08-08T18:56:37.200000Z"
         },
         {
-          "id": "20fcecdef2911569da9805225694720c760b2329",
+          "id": "386039a07181e711dea9170a3855a19db52f6cb9",
           "title": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊 / Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
           "title_zh": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
           "title_en": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
@@ -731,23 +895,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-08-08T18:09:31Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5535,
-      "importance": 0.5535,
-      "importance_score": 0.5535,
+      "score": 0.5486,
+      "importance": 0.5486,
+      "importance_score": 0.5486,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9039,
+        "recency": 0.8766,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -772,7 +936,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T02:27:08.402590Z"
+        "scored_at": "2026-08-09T04:34:58.128862Z"
       }
     },
     {
@@ -878,15 +1042,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5504,
-      "importance": 0.5504,
-      "importance_score": 0.5504,
+      "score": 0.5456,
+      "importance": 0.5456,
+      "importance_score": 0.5456,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8867,
+        "recency": 0.8598,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -911,7 +1075,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T02:27:08.402590Z"
+        "scored_at": "2026-08-09T04:34:58.128862Z"
+      }
+    },
+    {
+      "story_id": "story_5ce40a057274",
+      "title": "ChatGPT开始屏蔽直接模仿作者文风的请求 / ChatGPT starts blocking direct requests to copy an author's style",
+      "url": "https://news.ycombinator.com/item?id=49227718",
+      "primary_url": "https://news.ycombinator.com/item?id=49227718",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "b0bff110a2c809f8b8c8488830fd5669ddf83a59",
+          "title": "ChatGPT开始屏蔽直接模仿作者文风的请求 / ChatGPT starts blocking direct requests to copy an author's style",
+          "title_zh": "ChatGPT开始屏蔽直接模仿作者文风的请求",
+          "title_en": "ChatGPT starts blocking direct requests to copy an author's style",
+          "title_original": "ChatGPT starts blocking direct requests to copy an author's style",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49227718",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T04:05:50.751000Z"
+        },
+        {
+          "id": "b4b805324bccbc44c7f8412a7c7a24c503100822",
+          "title": "ChatGPT开始屏蔽直接模仿作者文风的请求 / ChatGPT starts blocking direct requests to copy an author's style",
+          "title_zh": "ChatGPT开始屏蔽直接模仿作者文风的请求",
+          "title_en": "ChatGPT starts blocking direct requests to copy an author's style",
+          "title_original": "ChatGPT starts blocking direct requests to copy an author's style",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-09T02:01:38Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "b0bff110a2c809f8b8c8488830fd5669ddf83a59",
+          "title": "ChatGPT开始屏蔽直接模仿作者文风的请求 / ChatGPT starts blocking direct requests to copy an author's style",
+          "title_zh": "ChatGPT开始屏蔽直接模仿作者文风的请求",
+          "title_en": "ChatGPT starts blocking direct requests to copy an author's style",
+          "title_original": "ChatGPT starts blocking direct requests to copy an author's style",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49227718",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T04:05:50.751000Z"
+        },
+        {
+          "id": "b4b805324bccbc44c7f8412a7c7a24c503100822",
+          "title": "ChatGPT开始屏蔽直接模仿作者文风的请求 / ChatGPT starts blocking direct requests to copy an author's style",
+          "title_zh": "ChatGPT开始屏蔽直接模仿作者文风的请求",
+          "title_en": "ChatGPT starts blocking direct requests to copy an author's style",
+          "title_original": "ChatGPT starts blocking direct requests to copy an author's style",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-09T02:01:38Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5446,
+      "importance": 0.5446,
+      "importance_score": 0.5446,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9932,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-09T02:01:38Z",
+      "latest_at": "2026-08-09T04:05:50.751000Z",
+      "primary_item": {
+        "id": "b0bff110a2c809f8b8c8488830fd5669ddf83a59",
+        "title": "ChatGPT开始屏蔽直接模仿作者文风的请求 / ChatGPT starts blocking direct requests to copy an author's style",
+        "title_zh": "ChatGPT开始屏蔽直接模仿作者文风的请求",
+        "title_en": "ChatGPT starts blocking direct requests to copy an author's style",
+        "title_original": "ChatGPT starts blocking direct requests to copy an author's style",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49227718",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-09T04:34:58.128862Z"
       }
     },
     {
@@ -937,7 +1211,7 @@
           "published_at": "2026-08-08T20:17:29.087000Z"
         },
         {
-          "id": "791785f6eb5df43737e935bb32ce700080603158",
+          "id": "d701a11300d80906f2a4955712818009896d5d9a",
           "title": "向您的其他 Claude Code 会议发送消息 / Message your other Claude Code sessions",
           "title_zh": "向您的其他 Claude Code 会议发送消息",
           "title_en": "Message your other Claude Code sessions",
@@ -945,15 +1219,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://code.claude.com/docs/en/cross-session-messaging",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-08T15:34:49Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "hackernews"
       ],
       "items": [
@@ -972,7 +1246,7 @@
           "published_at": "2026-08-08T20:17:29.087000Z"
         },
         {
-          "id": "791785f6eb5df43737e935bb32ce700080603158",
+          "id": "d701a11300d80906f2a4955712818009896d5d9a",
           "title": "向您的其他 Claude Code 会议发送消息 / Message your other Claude Code sessions",
           "title_zh": "向您的其他 Claude Code 会议发送消息",
           "title_en": "Message your other Claude Code sessions",
@@ -980,23 +1254,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://code.claude.com/docs/en/cross-session-messaging",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-08T15:34:49Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5305,
-      "importance": 0.5305,
-      "importance_score": 0.5305,
+      "score": 0.5255,
+      "importance": 0.5255,
+      "importance_score": 0.5255,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.915,
+        "recency": 0.8873,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1021,7 +1295,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T02:27:08.402590Z"
+        "scored_at": "2026-08-09T04:34:58.128862Z"
       }
     },
     {
@@ -1098,15 +1372,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5137,
-      "importance": 0.5137,
-      "importance_score": 0.5137,
+      "score": 0.5092,
+      "importance": 0.5092,
+      "importance_score": 0.5092,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8217,
+        "recency": 0.7968,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1131,7 +1405,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T02:27:08.402590Z"
+        "scored_at": "2026-08-09T04:34:58.128862Z"
       }
     }
   ]
