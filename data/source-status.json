@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-08-10T06:21:28.308707Z",
+  "generated_at": "2026-08-10T08:49:25.133480Z",
   "sites": [
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "ok": true,
       "item_count": 158,
-      "duration_ms": 2695,
+      "duration_ms": 2485,
       "error": null
     },
     {
       "site_id": "curated_media",
       "site_name": "Curated Media",
       "ok": true,
-      "item_count": 31,
-      "duration_ms": 87927,
+      "item_count": 38,
+      "duration_ms": 2828,
       "error": null
     },
     {
@@ -22,15 +22,15 @@
       "site_name": "AI Breakfast",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 51,
+      "duration_ms": 22,
       "error": "403 Client Error: Forbidden for url: https://r.jina.ai/https://aibreakfast.beehiiv.com/"
     },
     {
       "site_id": "followbuilders",
       "site_name": "Follow Builders",
       "ok": true,
-      "item_count": 27,
-      "duration_ms": 281,
+      "item_count": 34,
+      "duration_ms": 100,
       "error": null
     },
     {
@@ -38,7 +38,7 @@
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 308,
+      "duration_ms": 435,
       "error": null
     },
     {
@@ -46,7 +46,7 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 348,
+      "duration_ms": 238,
       "error": null
     },
     {
@@ -54,7 +54,7 @@
       "site_name": "Info Flow",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2678,
+      "duration_ms": 2281,
       "error": null
     },
     {
@@ -62,7 +62,7 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 4236,
+      "duration_ms": 2119,
       "error": null
     },
     {
@@ -70,15 +70,15 @@
       "site_name": "Zeli",
       "ok": true,
       "item_count": 79,
-      "duration_ms": 458,
+      "duration_ms": 480,
       "error": null
     },
     {
       "site_id": "hackernews",
       "site_name": "Hacker News",
       "ok": true,
-      "item_count": 5,
-      "duration_ms": 5705,
+      "item_count": 4,
+      "duration_ms": 5251,
       "error": null
     },
     {
@@ -86,7 +86,7 @@
       "site_name": "AI HubToday",
       "ok": true,
       "item_count": 28,
-      "duration_ms": 367,
+      "duration_ms": 257,
       "error": null
     },
     {
@@ -94,7 +94,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1029,
+      "duration_ms": 1650,
       "error": null
     },
     {
@@ -102,7 +102,7 @@
       "site_name": "AI HOT",
       "ok": true,
       "item_count": 119,
-      "duration_ms": 4866,
+      "duration_ms": 1085,
       "error": null
     },
     {
@@ -110,7 +110,7 @@
       "site_name": "NewsNow",
       "ok": true,
       "item_count": 122,
-      "duration_ms": 3211,
+      "duration_ms": 1077,
       "error": null
     },
     {
@@ -118,7 +118,7 @@
       "site_name": "WaytoAGI",
       "ok": true,
       "item_count": 6,
-      "duration_ms": 6011,
+      "duration_ms": 6814,
       "error": null
     },
     {
@@ -127,7 +127,7 @@
       "ok": true,
       "partial_failures": 0,
       "item_count": 448,
-      "duration_ms": 17598,
+      "duration_ms": 17942,
       "error": null,
       "feed_count": 10,
       "effective_feed_count": 10,
@@ -143,9 +143,9 @@
   ],
   "zero_item_sites": [],
   "empty_advanced_sources": [],
-  "fetched_raw_items": 1549,
-  "items_before_topic_filter": 925,
-  "items_in_24h": 149,
+  "fetched_raw_items": 1562,
+  "items_before_topic_filter": 928,
+  "items_in_24h": 167,
   "rss_opml": {
     "enabled": true,
     "path": "configured",
@@ -165,7 +165,7 @@
         "effective_feed_url": "https://api.xgo.ing/rss/user/524525de0d69407b80f0a7d891fdc8df",
         "ok": true,
         "item_count": 50,
-        "duration_ms": 2870,
+        "duration_ms": 3022,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -180,7 +180,7 @@
         "effective_feed_url": "https://api.xgo.ing/rss/user/fc28a211471b496682feff329ec616e5",
         "ok": true,
         "item_count": 50,
-        "duration_ms": 760,
+        "duration_ms": 870,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -195,7 +195,7 @@
         "effective_feed_url": "https://api.xgo.ing/rss/user/f7992687b8d74b14bf2341eb3a0a5ec4",
         "ok": true,
         "item_count": 50,
-        "duration_ms": 1352,
+        "duration_ms": 1345,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -210,7 +210,7 @@
         "effective_feed_url": "https://api.xgo.ing/rss/user/49666ce6fe3e4cb786c6574684542ec5",
         "ok": true,
         "item_count": 15,
-        "duration_ms": 439,
+        "duration_ms": 540,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -225,7 +225,7 @@
         "effective_feed_url": "https://api.xgo.ing/rss/user/af19d054e26a49129f23abfa82d9e268",
         "ok": true,
         "item_count": 50,
-        "duration_ms": 3106,
+        "duration_ms": 3126,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -240,7 +240,7 @@
         "effective_feed_url": "https://api.xgo.ing/rss/user/3ca3c7698fd04611a0e7d14fae93c84c",
         "ok": true,
         "item_count": 50,
-        "duration_ms": 3460,
+        "duration_ms": 3236,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -255,7 +255,7 @@
         "effective_feed_url": "https://api.xgo.ing/rss/user/78d7b99318b04b309b04000f7e24da29",
         "ok": true,
         "item_count": 33,
-        "duration_ms": 1389,
+        "duration_ms": 1241,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -270,7 +270,7 @@
         "effective_feed_url": "https://api.xgo.ing/rss/user/971dc1fc90da449bac23e5fad8a33d55",
         "ok": true,
         "item_count": 50,
-        "duration_ms": 1221,
+        "duration_ms": 1440,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -285,7 +285,7 @@
         "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
         "ok": true,
         "item_count": 50,
-        "duration_ms": 822,
+        "duration_ms": 958,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -300,7 +300,7 @@
         "effective_feed_url": "https://api.xgo.ing/rss/user/e30d4cd223f44bed9d404807105c8927",
         "ok": true,
         "item_count": 50,
-        "duration_ms": 2179,
+        "duration_ms": 2164,
         "error": null,
         "skipped": false,
         "skip_reason": null,
