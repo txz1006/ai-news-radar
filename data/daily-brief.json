@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T20:59:51.615244Z",
+  "generated_at": "2026-08-10T21:56:28.172421Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.9097,
-      "importance": 0.9097,
-      "importance_score": 0.9097,
+      "score": 0.9075,
+      "importance": 0.9075,
+      "importance_score": 0.9075,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9039,
+        "recency": 0.8917,
         "story_heat": 0.75
       },
       "category": "official",
@@ -171,7 +171,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T21:01:09.530021Z"
+        "scored_at": "2026-08-10T21:57:13.877921Z"
       }
     },
     {
@@ -219,15 +219,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8485,
-      "importance": 0.8485,
-      "importance_score": 0.8485,
+      "score": 0.8462,
+      "importance": 0.8462,
+      "importance_score": 0.8462,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9361,
+        "recency": 0.9235,
         "story_heat": 0.0
       },
       "category": "official",
@@ -254,7 +254,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T21:01:09.530021Z"
+        "scored_at": "2026-08-10T21:57:13.877921Z"
       }
     },
     {
@@ -302,15 +302,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8481,
-      "importance": 0.8481,
-      "importance_score": 0.8481,
+      "score": 0.8458,
+      "importance": 0.8458,
+      "importance_score": 0.8458,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9786,
+        "recency": 0.9654,
         "story_heat": 0.0
       },
       "category": "official",
@@ -337,7 +337,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T21:01:09.530021Z"
+        "scored_at": "2026-08-10T21:57:13.877921Z"
       }
     },
     {
@@ -385,15 +385,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8358,
-      "importance": 0.8358,
-      "importance_score": 0.8358,
+      "score": 0.8335,
+      "importance": 0.8335,
+      "importance_score": 0.8335,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9098,
+        "recency": 0.8975,
         "story_heat": 0.0
       },
       "category": "official",
@@ -420,7 +420,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T21:01:09.530021Z"
+        "scored_at": "2026-08-10T21:57:13.877921Z"
       }
     },
     {
@@ -468,15 +468,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8279,
-      "importance": 0.8279,
-      "importance_score": 0.8279,
+      "score": 0.8257,
+      "importance": 0.8257,
+      "importance_score": 0.8257,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9104,
+        "recency": 0.8981,
         "story_heat": 0.0
       },
       "category": "official",
@@ -503,7 +503,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T21:01:09.530021Z"
+        "scored_at": "2026-08-10T21:57:13.877921Z"
       }
     },
     {
@@ -638,15 +638,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8254,
-      "importance": 0.8254,
-      "importance_score": 0.8254,
+      "score": 0.8232,
+      "importance": 0.8232,
+      "importance_score": 0.8232,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9046,
+        "recency": 0.8924,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -673,7 +673,120 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T21:01:09.530021Z"
+        "scored_at": "2026-08-10T21:57:13.877921Z"
+      }
+    },
+    {
+      "story_id": "story_78643f2f0854",
+      "title": "随着网络防御窗口的缩小，黎明时间的扩大 / Expanding Daybreak as the Cyber Defense Window Narrows",
+      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+      "primary_url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5360b7d21091149d76dcd12a52ba8750e544fbae",
+          "title": "随着网络防御窗口的缩小，黎明时间的扩大 / Expanding Daybreak as the Cyber Defense Window Narrows",
+          "title_zh": "随着网络防御窗口的缩小，黎明时间的扩大",
+          "title_en": "Expanding Daybreak as the Cyber Defense Window Narrows",
+          "title_original": "Expanding Daybreak as the Cyber Defense Window Narrows",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T10:00:00Z"
+        },
+        {
+          "id": "95b1b933484992e4ce5309f0273f9f60cf9243d0",
+          "title": "GPT 5.6 Cyber",
+          "title_zh": null,
+          "title_en": "GPT 5.6 Cyber",
+          "title_original": "GPT 5.6 Cyber",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-10T17:14:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "5360b7d21091149d76dcd12a52ba8750e544fbae",
+          "title": "随着网络防御窗口的缩小，黎明时间的扩大 / Expanding Daybreak as the Cyber Defense Window Narrows",
+          "title_zh": "随着网络防御窗口的缩小，黎明时间的扩大",
+          "title_en": "Expanding Daybreak as the Cyber Defense Window Narrows",
+          "title_original": "Expanding Daybreak as the Cyber Defense Window Narrows",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T10:00:00Z"
+        },
+        {
+          "id": "95b1b933484992e4ce5309f0273f9f60cf9243d0",
+          "title": "GPT 5.6 Cyber",
+          "title_zh": null,
+          "title_en": "GPT 5.6 Cyber",
+          "title_original": "GPT 5.6 Cyber",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-10T17:14:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8485,
+      "importance": 0.8485,
+      "importance_score": 0.8485,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8416,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T10:00:00Z",
+      "latest_at": "2026-08-10T17:14:00Z",
+      "primary_item": {
+        "id": "5360b7d21091149d76dcd12a52ba8750e544fbae",
+        "title": "随着网络防御窗口的缩小，黎明时间的扩大 / Expanding Daybreak as the Cyber Defense Window Narrows",
+        "title_zh": "随着网络防御窗口的缩小，黎明时间的扩大",
+        "title_en": "Expanding Daybreak as the Cyber Defense Window Narrows",
+        "title_original": "Expanding Daybreak as the Cyber Defense Window Narrows",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-10T21:57:13.877921Z"
       }
     },
     {
@@ -721,15 +834,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8189,
-      "importance": 0.8189,
-      "importance_score": 0.8189,
+      "score": 0.8171,
+      "importance": 0.8171,
+      "importance_score": 0.8171,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7384,
+        "recency": 0.7284,
         "story_heat": 0.0
       },
       "category": "official",
@@ -756,90 +869,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T21:01:09.530021Z"
-      }
-    },
-    {
-      "story_id": "story_4efc9ada130f",
-      "title": "构建人工智能原生财务功能教会了我什么 / What building an AI-native finance function taught me",
-      "url": "https://openai.com/index/building-an-ai-native-finance-function",
-      "primary_url": "https://openai.com/index/building-an-ai-native-finance-function",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c2a19441382dddabccade1f3a43bf687166ea0a8",
-          "title": "构建人工智能原生财务功能教会了我什么 / What building an AI-native finance function taught me",
-          "title_zh": "构建人工智能原生财务功能教会了我什么",
-          "title_en": "What building an AI-native finance function taught me",
-          "title_original": "What building an AI-native finance function taught me",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/building-an-ai-native-finance-function",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T17:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "c2a19441382dddabccade1f3a43bf687166ea0a8",
-          "title": "构建人工智能原生财务功能教会了我什么 / What building an AI-native finance function taught me",
-          "title_zh": "构建人工智能原生财务功能教会了我什么",
-          "title_en": "What building an AI-native finance function taught me",
-          "title_original": "What building an AI-native finance function taught me",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/building-an-ai-native-finance-function",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T17:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8419,
-      "importance": 0.8419,
-      "importance_score": 0.8419,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9439,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T17:00:00Z",
-      "latest_at": "2026-08-10T17:00:00Z",
-      "primary_item": {
-        "id": "c2a19441382dddabccade1f3a43bf687166ea0a8",
-        "title": "构建人工智能原生财务功能教会了我什么 / What building an AI-native finance function taught me",
-        "title_zh": "构建人工智能原生财务功能教会了我什么",
-        "title_en": "What building an AI-native finance function taught me",
-        "title_original": "What building an AI-native finance function taught me",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/building-an-ai-native-finance-function",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-10T21:01:09.530021Z"
+        "scored_at": "2026-08-10T21:57:13.877921Z"
       }
     },
     {
@@ -887,15 +917,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8338,
-      "importance": 0.8338,
-      "importance_score": 0.8338,
+      "score": 0.8317,
+      "importance": 0.8317,
+      "importance_score": 0.8317,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8543,
+        "recency": 0.8427,
         "story_heat": 0.0
       },
       "category": "official",
@@ -922,7 +952,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T21:01:09.530021Z"
+        "scored_at": "2026-08-10T21:57:13.877921Z"
       }
     },
     {
@@ -970,15 +1000,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8267,
-      "importance": 0.8267,
-      "importance_score": 0.8267,
+      "score": 0.8245,
+      "importance": 0.8245,
+      "importance_score": 0.8245,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9041,
+        "recency": 0.8919,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1005,7 +1035,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T21:01:09.530021Z"
+        "scored_at": "2026-08-10T21:57:13.877921Z"
       }
     },
     {
@@ -1053,15 +1083,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7944,
-      "importance": 0.7944,
-      "importance_score": 0.7944,
+      "score": 0.7922,
+      "importance": 0.7922,
+      "importance_score": 0.7922,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9301,
+        "recency": 0.9175,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1087,30 +1117,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T21:01:09.530021Z"
+        "scored_at": "2026-08-10T21:57:13.877921Z"
       }
     },
     {
-      "story_id": "story_88c4bb049e16",
-      "title": "Model ML借助GPT-5.6 Sol更高效地完成财务工作 / Model ML completes finance work more efficiently with GPT-5.6 Sol",
-      "url": "https://openai.com/index/model-ml",
-      "primary_url": "https://openai.com/index/model-ml",
+      "story_id": "story_4efc9ada130f",
+      "title": "构建人工智能原生财务功能教会了我什么 / What building an AI-native finance function taught me",
+      "url": "https://openai.com/index/building-an-ai-native-finance-function",
+      "primary_url": "https://openai.com/index/building-an-ai-native-finance-function",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "7b7fb4cd8d9595a85bca47cb4ca837b2f123871f",
-          "title": "Model ML借助GPT-5.6 Sol更高效地完成财务工作 / Model ML completes finance work more efficiently with GPT-5.6 Sol",
-          "title_zh": "Model ML借助GPT-5.6 Sol更高效地完成财务工作",
-          "title_en": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-          "title_original": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+          "id": "c2a19441382dddabccade1f3a43bf687166ea0a8",
+          "title": "构建人工智能原生财务功能教会了我什么 / What building an AI-native finance function taught me",
+          "title_zh": "构建人工智能原生财务功能教会了我什么",
+          "title_en": "What building an AI-native finance function taught me",
+          "title_original": "What building an AI-native finance function taught me",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/model-ml",
+          "url": "https://openai.com/index/building-an-ai-native-finance-function",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-10T12:00:00Z"
+          "published_at": "2026-08-10T17:00:00Z"
         }
       ],
       "source_count": 1,
@@ -1119,31 +1149,31 @@
       ],
       "items": [
         {
-          "id": "7b7fb4cd8d9595a85bca47cb4ca837b2f123871f",
-          "title": "Model ML借助GPT-5.6 Sol更高效地完成财务工作 / Model ML completes finance work more efficiently with GPT-5.6 Sol",
-          "title_zh": "Model ML借助GPT-5.6 Sol更高效地完成财务工作",
-          "title_en": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-          "title_original": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+          "id": "c2a19441382dddabccade1f3a43bf687166ea0a8",
+          "title": "构建人工智能原生财务功能教会了我什么 / What building an AI-native finance function taught me",
+          "title_zh": "构建人工智能原生财务功能教会了我什么",
+          "title_en": "What building an AI-native finance function taught me",
+          "title_original": "What building an AI-native finance function taught me",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/model-ml",
+          "url": "https://openai.com/index/building-an-ai-native-finance-function",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-10T12:00:00Z"
+          "published_at": "2026-08-10T17:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8381,
-      "importance": 0.8381,
-      "importance_score": 0.8381,
+      "score": 0.8396,
+      "importance": 0.8396,
+      "importance_score": 0.8396,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8782,
+        "ai_relevance": 0.91,
+        "recency": 0.9311,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1152,17 +1182,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-10T12:00:00Z",
-      "latest_at": "2026-08-10T12:00:00Z",
+      "earliest_at": "2026-08-10T17:00:00Z",
+      "latest_at": "2026-08-10T17:00:00Z",
       "primary_item": {
-        "id": "7b7fb4cd8d9595a85bca47cb4ca837b2f123871f",
-        "title": "Model ML借助GPT-5.6 Sol更高效地完成财务工作 / Model ML completes finance work more efficiently with GPT-5.6 Sol",
-        "title_zh": "Model ML借助GPT-5.6 Sol更高效地完成财务工作",
-        "title_en": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-        "title_original": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+        "id": "c2a19441382dddabccade1f3a43bf687166ea0a8",
+        "title": "构建人工智能原生财务功能教会了我什么 / What building an AI-native finance function taught me",
+        "title_zh": "构建人工智能原生财务功能教会了我什么",
+        "title_en": "What building an AI-native finance function taught me",
+        "title_original": "What building an AI-native finance function taught me",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/model-ml",
+        "url": "https://openai.com/index/building-an-ai-native-finance-function",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -1170,7 +1200,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T21:01:09.530021Z"
+        "scored_at": "2026-08-10T21:57:13.877921Z"
       }
     },
     {
@@ -1218,15 +1248,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8238,
-      "importance": 0.8238,
-      "importance_score": 0.8238,
+      "score": 0.8217,
+      "importance": 0.8217,
+      "importance_score": 0.8217,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8879,
+        "recency": 0.8759,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1253,7 +1283,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T21:01:09.530021Z"
+        "scored_at": "2026-08-10T21:57:13.877921Z"
       }
     },
     {
@@ -1301,15 +1331,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7564,
-      "importance": 0.7564,
-      "importance_score": 0.7564,
+      "score": 0.7543,
+      "importance": 0.7543,
+      "importance_score": 0.7543,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8546,
+        "recency": 0.843,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1335,7 +1365,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T21:01:09.530021Z"
+        "scored_at": "2026-08-10T21:57:13.877921Z"
       }
     },
     {
@@ -1412,15 +1442,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7545,
-      "importance": 0.7545,
-      "importance_score": 0.7545,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7382,
+        "recency": 0.7282,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1447,7 +1477,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T21:01:09.530021Z"
+        "scored_at": "2026-08-10T21:57:13.877921Z"
       }
     },
     {
@@ -1495,15 +1525,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8129,
-      "importance": 0.8129,
-      "importance_score": 0.8129,
+      "score": 0.8111,
+      "importance": 0.8111,
+      "importance_score": 0.8111,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7384,
+        "recency": 0.7284,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1530,7 +1560,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T21:01:09.530021Z"
+        "scored_at": "2026-08-10T21:57:13.877921Z"
       }
     },
     {
@@ -1578,21 +1608,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.7481,
+      "importance": 0.7481,
+      "importance_score": 0.7481,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9041,
+        "recency": 0.8918,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-10T14:00:46Z",
       "latest_at": "2026-08-10T14:00:46Z",
@@ -1612,7 +1641,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T21:01:09.530021Z"
+        "scored_at": "2026-08-10T21:57:13.877921Z"
+      }
+    },
+    {
+      "story_id": "story_88c4bb049e16",
+      "title": "Model ML借助GPT-5.6 Sol更高效地完成财务工作 / Model ML completes finance work more efficiently with GPT-5.6 Sol",
+      "url": "https://openai.com/index/model-ml",
+      "primary_url": "https://openai.com/index/model-ml",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "7b7fb4cd8d9595a85bca47cb4ca837b2f123871f",
+          "title": "Model ML借助GPT-5.6 Sol更高效地完成财务工作 / Model ML completes finance work more efficiently with GPT-5.6 Sol",
+          "title_zh": "Model ML借助GPT-5.6 Sol更高效地完成财务工作",
+          "title_en": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+          "title_original": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/model-ml",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "7b7fb4cd8d9595a85bca47cb4ca837b2f123871f",
+          "title": "Model ML借助GPT-5.6 Sol更高效地完成财务工作 / Model ML completes finance work more efficiently with GPT-5.6 Sol",
+          "title_zh": "Model ML借助GPT-5.6 Sol更高效地完成财务工作",
+          "title_en": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+          "title_original": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/model-ml",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8359,
+      "importance": 0.8359,
+      "importance_score": 0.8359,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8663,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T12:00:00Z",
+      "latest_at": "2026-08-10T12:00:00Z",
+      "primary_item": {
+        "id": "7b7fb4cd8d9595a85bca47cb4ca837b2f123871f",
+        "title": "Model ML借助GPT-5.6 Sol更高效地完成财务工作 / Model ML completes finance work more efficiently with GPT-5.6 Sol",
+        "title_zh": "Model ML借助GPT-5.6 Sol更高效地完成财务工作",
+        "title_en": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+        "title_original": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/model-ml",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-10T21:57:13.877921Z"
       }
     },
     {
@@ -1660,15 +1772,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7454,
-      "importance": 0.7454,
-      "importance_score": 0.7454,
+      "score": 0.7432,
+      "importance": 0.7432,
+      "importance_score": 0.7432,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8764,
+        "recency": 0.8645,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1693,7 +1805,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T21:01:09.530021Z"
+        "scored_at": "2026-08-10T21:57:13.877921Z"
       }
     },
     {
@@ -1741,15 +1853,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7425,
-      "importance": 0.7425,
-      "importance_score": 0.7425,
+      "score": 0.7404,
+      "importance": 0.7404,
+      "importance_score": 0.7404,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8604,
+        "recency": 0.8487,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1774,90 +1886,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T21:01:09.530021Z"
-      }
-    },
-    {
-      "story_id": "story_78643f2f0854",
-      "title": "随着网络防御窗口的缩小，黎明时间的扩大 / Expanding Daybreak as the Cyber Defense Window Narrows",
-      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-      "primary_url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5360b7d21091149d76dcd12a52ba8750e544fbae",
-          "title": "随着网络防御窗口的缩小，黎明时间的扩大 / Expanding Daybreak as the Cyber Defense Window Narrows",
-          "title_zh": "随着网络防御窗口的缩小，黎明时间的扩大",
-          "title_en": "Expanding Daybreak as the Cyber Defense Window Narrows",
-          "title_original": "Expanding Daybreak as the Cyber Defense Window Narrows",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T10:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "5360b7d21091149d76dcd12a52ba8750e544fbae",
-          "title": "随着网络防御窗口的缩小，黎明时间的扩大 / Expanding Daybreak as the Cyber Defense Window Narrows",
-          "title_zh": "随着网络防御窗口的缩小，黎明时间的扩大",
-          "title_en": "Expanding Daybreak as the Cyber Defense Window Narrows",
-          "title_original": "Expanding Daybreak as the Cyber Defense Window Narrows",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T10:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8256,
-      "importance": 0.8256,
-      "importance_score": 0.8256,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8532,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T10:00:00Z",
-      "latest_at": "2026-08-10T10:00:00Z",
-      "primary_item": {
-        "id": "5360b7d21091149d76dcd12a52ba8750e544fbae",
-        "title": "随着网络防御窗口的缩小，黎明时间的扩大 / Expanding Daybreak as the Cyber Defense Window Narrows",
-        "title_zh": "随着网络防御窗口的缩小，黎明时间的扩大",
-        "title_en": "Expanding Daybreak as the Cyber Defense Window Narrows",
-        "title_original": "Expanding Daybreak as the Cyber Defense Window Narrows",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-10T21:01:09.530021Z"
+        "scored_at": "2026-08-10T21:57:13.877921Z"
       }
     }
   ]
