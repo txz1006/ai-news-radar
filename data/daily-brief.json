@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T06:02:01.393273Z",
+  "generated_at": "2026-08-11T07:33:55.291051Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -54,25 +54,11 @@
           "published_at": "2026-08-10T15:15:28.742000Z"
         },
         {
-          "id": "e05568c26cf1f3a6a5f215f4dd05615e1d46056d",
+          "id": "cde69d2706bf4e3eecfebc8d78c3fd65a9655ba5",
           "title": "致阿博特州长的信：关于德克萨斯州负责任的人工智能基础设施 / Letter to Governor Abbott on responsible AI infrastructure in Texas",
           "title_zh": "致阿博特州长的信：关于德克萨斯州负责任的人工智能基础设施",
           "title_en": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
           "title_original": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-10T14:38:20Z"
-        },
-        {
-          "id": "c5b1c9386311bd99eaa8beb0fabb4496aca0fe70",
-          "title": "致阿博特州长的信：关于德克萨斯州负责任的人工智能基础设施 / OpenAI's letter to Governor Abbott on responsible AI infrastructure in Texas",
-          "title_zh": "致阿博特州长的信：关于德克萨斯州负责任的人工智能基础设施",
-          "title_en": "OpenAI's letter to Governor Abbott on responsible AI infrastructure in Texas",
-          "title_original": "OpenAI's letter to Governor Abbott on responsible AI infrastructure in Texas",
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
@@ -82,9 +68,8 @@
           "published_at": "2026-08-10T14:38:20Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 4,
       "source_names": [
-        "Hacker News (黑客新闻)",
         "Hacker News · 24h最热",
         "OpenAI News",
         "hackernews",
@@ -134,25 +119,11 @@
           "published_at": "2026-08-10T15:15:28.742000Z"
         },
         {
-          "id": "e05568c26cf1f3a6a5f215f4dd05615e1d46056d",
+          "id": "cde69d2706bf4e3eecfebc8d78c3fd65a9655ba5",
           "title": "致阿博特州长的信：关于德克萨斯州负责任的人工智能基础设施 / Letter to Governor Abbott on responsible AI infrastructure in Texas",
           "title_zh": "致阿博特州长的信：关于德克萨斯州负责任的人工智能基础设施",
           "title_en": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
           "title_original": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-10T14:38:20Z"
-        },
-        {
-          "id": "c5b1c9386311bd99eaa8beb0fabb4496aca0fe70",
-          "title": "致阿博特州长的信：关于德克萨斯州负责任的人工智能基础设施 / OpenAI's letter to Governor Abbott on responsible AI infrastructure in Texas",
-          "title_zh": "致阿博特州长的信：关于德克萨斯州负责任的人工智能基础设施",
-          "title_en": "OpenAI's letter to Governor Abbott on responsible AI infrastructure in Texas",
-          "title_original": "OpenAI's letter to Governor Abbott on responsible AI infrastructure in Texas",
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
@@ -162,18 +133,18 @@
           "published_at": "2026-08-10T14:38:20Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.9148,
-      "importance": 0.9148,
-      "importance_score": 0.9148,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8867,
+      "importance": 0.8867,
+      "importance_score": 0.8867,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7933,
-        "story_heat": 1.0
+        "recency": 0.776,
+        "story_heat": 0.75
       },
       "category": "official",
       "reasons": [
@@ -200,7 +171,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T06:06:48.829412Z"
+        "scored_at": "2026-08-11T07:34:39.113778Z"
       }
     },
     {
@@ -248,15 +219,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8279,
-      "importance": 0.8279,
-      "importance_score": 0.8279,
+      "score": 0.8247,
+      "importance": 0.8247,
+      "importance_score": 0.8247,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8216,
+        "recency": 0.8036,
         "story_heat": 0.0
       },
       "category": "official",
@@ -283,7 +254,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T06:06:48.829412Z"
+        "scored_at": "2026-08-11T07:34:39.113778Z"
       }
     },
     {
@@ -389,15 +360,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8568,
-      "importance": 0.8568,
-      "importance_score": 0.8568,
+      "score": 0.8538,
+      "importance": 0.8538,
+      "importance_score": 0.8538,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7488,
+        "recency": 0.7324,
         "story_heat": 0.5
       },
       "category": "official",
@@ -425,7 +396,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T06:06:48.829412Z"
+        "scored_at": "2026-08-11T07:34:39.113778Z"
       }
     },
     {
@@ -473,15 +444,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8266,
-      "importance": 0.8266,
-      "importance_score": 0.8266,
+      "score": 0.8232,
+      "importance": 0.8232,
+      "importance_score": 0.8232,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8589,
+        "recency": 0.8401,
         "story_heat": 0.0
       },
       "category": "official",
@@ -508,7 +479,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T06:06:48.829412Z"
+        "scored_at": "2026-08-11T07:34:39.113778Z"
       }
     },
     {
@@ -556,15 +527,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8157,
-      "importance": 0.8157,
-      "importance_score": 0.8157,
+      "score": 0.8126,
+      "importance": 0.8126,
+      "importance_score": 0.8126,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7985,
+        "recency": 0.781,
         "story_heat": 0.0
       },
       "category": "official",
@@ -591,7 +562,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T06:06:48.829412Z"
+        "scored_at": "2026-08-11T07:34:39.113778Z"
       }
     },
     {
@@ -639,15 +610,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8078,
-      "importance": 0.8078,
-      "importance_score": 0.8078,
+      "score": 0.8047,
+      "importance": 0.8047,
+      "importance_score": 0.8047,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7991,
+        "recency": 0.7816,
         "story_heat": 0.0
       },
       "category": "official",
@@ -674,7 +645,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T06:06:48.829412Z"
+        "scored_at": "2026-08-11T07:34:39.113778Z"
       }
     },
     {
@@ -809,15 +780,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8055,
-      "importance": 0.8055,
-      "importance_score": 0.8055,
+      "score": 0.8024,
+      "importance": 0.8024,
+      "importance_score": 0.8024,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.794,
+        "recency": 0.7766,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -844,7 +815,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T06:06:48.829412Z"
+        "scored_at": "2026-08-11T07:34:39.113778Z"
       }
     },
     {
@@ -892,15 +863,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.815,
-      "importance": 0.815,
-      "importance_score": 0.815,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7498,
+        "recency": 0.7334,
         "story_heat": 0.0
       },
       "category": "official",
@@ -927,7 +898,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T06:06:48.829412Z"
+        "scored_at": "2026-08-11T07:34:39.113778Z"
       }
     },
     {
@@ -975,15 +946,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7833,
-      "importance": 0.7833,
-      "importance_score": 0.7833,
+      "score": 0.7795,
+      "importance": 0.7795,
+      "importance_score": 0.7795,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9706,
+        "recency": 0.9493,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1009,7 +980,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T06:06:48.829412Z"
+        "scored_at": "2026-08-11T07:34:39.113778Z"
       }
     },
     {
@@ -1057,15 +1028,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8068,
-      "importance": 0.8068,
-      "importance_score": 0.8068,
+      "score": 0.8037,
+      "importance": 0.8037,
+      "importance_score": 0.8037,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7935,
+        "recency": 0.7761,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1092,7 +1063,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T06:06:48.829412Z"
+        "scored_at": "2026-08-11T07:34:39.113778Z"
       }
     },
     {
@@ -1140,15 +1111,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7739,
-      "importance": 0.7739,
-      "importance_score": 0.7739,
+      "score": 0.7707,
+      "importance": 0.7707,
+      "importance_score": 0.7707,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8164,
+        "recency": 0.7985,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1174,7 +1145,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T06:06:48.829412Z"
+        "scored_at": "2026-08-11T07:34:39.113778Z"
+      }
+    },
+    {
+      "story_id": "story_4ea5136decec",
+      "title": "Anthropic为Claude生成文本加入隐形水印，提升AI内容溯源能力",
+      "url": "https://www.aibase.com/news/30247",
+      "primary_url": "https://www.aibase.com/news/30247",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3335d03ee543d1afd73c5f2e259c0b43303279fb",
+          "title": "Anthropic为Claude生成文本加入隐形水印，提升AI内容溯源能力",
+          "title_zh": "Anthropic为Claude生成文本加入隐形水印，提升AI内容溯源能力",
+          "title_en": null,
+          "title_original": "Anthropic为Claude生成文本加入隐形水印，提升AI内容溯源能力",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30247",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-11T07:33:55.291051Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "3335d03ee543d1afd73c5f2e259c0b43303279fb",
+          "title": "Anthropic为Claude生成文本加入隐形水印，提升AI内容溯源能力",
+          "title_zh": "Anthropic为Claude生成文本加入隐形水印，提升AI内容溯源能力",
+          "title_en": null,
+          "title_original": "Anthropic为Claude生成文本加入隐形水印，提升AI内容溯源能力",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30247",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-11T07:33:55.291051Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T07:33:55.291051Z",
+      "latest_at": "2026-08-11T07:33:55.291051Z",
+      "primary_item": {
+        "id": "3335d03ee543d1afd73c5f2e259c0b43303279fb",
+        "title": "Anthropic为Claude生成文本加入隐形水印，提升AI内容溯源能力",
+        "title_zh": "Anthropic为Claude生成文本加入隐形水印，提升AI内容溯源能力",
+        "title_en": null,
+        "title_original": "Anthropic为Claude生成文本加入隐形水印，提升AI内容溯源能力",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30247",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-11T07:34:39.113778Z"
       }
     },
     {
@@ -1222,15 +1275,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7687,
-      "importance": 0.7687,
-      "importance_score": 0.7687,
+      "score": 0.7652,
+      "importance": 0.7652,
+      "importance_score": 0.7652,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8897,
+        "recency": 0.8702,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1256,63 +1309,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T06:06:48.829412Z"
+        "scored_at": "2026-08-11T07:34:39.113778Z"
       }
     },
     {
-      "story_id": "story_3cab6a09b116",
-      "title": "OpenAI 推出 GPT-5.6-Cyber 网络安全专用模型：零日漏洞发现率飙升，攻防博弈进入 AI 自动化时代",
-      "url": "https://www.aibase.com/news/30241",
-      "primary_url": "https://www.aibase.com/news/30241",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_1d745777aa0d",
+      "title": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线 / Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
+      "url": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis",
+      "primary_url": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "1a85a9d2a652503249aa57bac7e6777f69c64cbf",
-          "title": "OpenAI 推出 GPT-5.6-Cyber 网络安全专用模型：零日漏洞发现率飙升，攻防博弈进入 AI 自动化时代",
-          "title_zh": "OpenAI 推出 GPT-5.6-Cyber 网络安全专用模型：零日漏洞发现率飙升，攻防博弈进入 AI 自动化时代",
-          "title_en": null,
-          "title_original": "OpenAI 推出 GPT-5.6-Cyber 网络安全专用模型：零日漏洞发现率飙升，攻防博弈进入 AI 自动化时代",
-          "summary": null,
+          "id": "5af023feb5917b0420ac99ebd023db76d69db035",
+          "title": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线 / Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
+          "title_zh": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线",
+          "title_en": "Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
+          "title_original": "Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
+          "summary": "本教程演示如何以 ComfyUI 为无头推理后端，构建端到端的 MiniMax-H3 视频生成工作流。通过 Python 直接构建执行图，支持文生视频、首尾帧条件生成和参考图像条件生成，并自动根据 GPU 显存选择 quality、balanced、squeeze 三种权重配置。流水线涵盖模型自动下载、节点模式校验、音视频联合解码与进度监控，无需图形界面即可复现实验。",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30241",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T06:02:01.393273Z"
+          "url": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T05:44:38Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "MarkTechPost（RSS）"
       ],
       "items": [
         {
-          "id": "1a85a9d2a652503249aa57bac7e6777f69c64cbf",
-          "title": "OpenAI 推出 GPT-5.6-Cyber 网络安全专用模型：零日漏洞发现率飙升，攻防博弈进入 AI 自动化时代",
-          "title_zh": "OpenAI 推出 GPT-5.6-Cyber 网络安全专用模型：零日漏洞发现率飙升，攻防博弈进入 AI 自动化时代",
-          "title_en": null,
-          "title_original": "OpenAI 推出 GPT-5.6-Cyber 网络安全专用模型：零日漏洞发现率飙升，攻防博弈进入 AI 自动化时代",
-          "summary": null,
+          "id": "5af023feb5917b0420ac99ebd023db76d69db035",
+          "title": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线 / Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
+          "title_zh": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线",
+          "title_en": "Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
+          "title_original": "Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
+          "summary": "本教程演示如何以 ComfyUI 为无头推理后端，构建端到端的 MiniMax-H3 视频生成工作流。通过 Python 直接构建执行图，支持文生视频、首尾帧条件生成和参考图像条件生成，并自动根据 GPU 显存选择 quality、balanced、squeeze 三种权重配置。流水线涵盖模型自动下载、节点模式校验、音视频联合解码与进度监控，无需图形界面即可复现实验。",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30241",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T06:02:01.393273Z"
+          "url": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T05:44:38Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7629,
+      "importance": 0.7629,
+      "importance_score": 0.7629,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.974,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1320,25 +1373,107 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-11T06:02:01.393273Z",
-      "latest_at": "2026-08-11T06:02:01.393273Z",
+      "earliest_at": "2026-08-11T05:44:38Z",
+      "latest_at": "2026-08-11T05:44:38Z",
       "primary_item": {
-        "id": "1a85a9d2a652503249aa57bac7e6777f69c64cbf",
-        "title": "OpenAI 推出 GPT-5.6-Cyber 网络安全专用模型：零日漏洞发现率飙升，攻防博弈进入 AI 自动化时代",
-        "title_zh": "OpenAI 推出 GPT-5.6-Cyber 网络安全专用模型：零日漏洞发现率飙升，攻防博弈进入 AI 自动化时代",
-        "title_en": null,
-        "title_original": "OpenAI 推出 GPT-5.6-Cyber 网络安全专用模型：零日漏洞发现率飙升，攻防博弈进入 AI 自动化时代",
-        "summary": null,
+        "id": "5af023feb5917b0420ac99ebd023db76d69db035",
+        "title": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线 / Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
+        "title_zh": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线",
+        "title_en": "Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
+        "title_original": "Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
+        "summary": "本教程演示如何以 ComfyUI 为无头推理后端，构建端到端的 MiniMax-H3 视频生成工作流。通过 Python 直接构建执行图，支持文生视频、首尾帧条件生成和参考图像条件生成，并自动根据 GPU 显存选择 quality、balanced、squeeze 三种权重配置。流水线涵盖模型自动下载、节点模式校验、音视频联合解码与进度监控，无需图形界面即可复现实验。",
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30241",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T06:06:48.829412Z"
+        "scored_at": "2026-08-11T07:34:39.113778Z"
+      }
+    },
+    {
+      "story_id": "story_1afc977519d1",
+      "title": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
+      "source": "公众号：智谱（GLM）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fcc1f787a8f50694d563e839c3a5df0f5b260040",
+          "title": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
+          "title_zh": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
+          "title_en": null,
+          "title_original": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
+          "summary": "ZCode针对GLM深度优化，今日上线Goal、Subagents、Remote Control与闲时任务四大功能。在Z.ai Code Bench测试中，GLM-5.2搭配ZCode较搭配Claude Code任务整体通过率高2.39%；ZCode缓存命中率超98%，叠加1.5倍限时额度加成后，GLM Coding Plan整体使用量接近常规额度的1.8倍。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
+          "source": "公众号：智谱（GLM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T05:52:25Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：智谱（GLM）"
+      ],
+      "items": [
+        {
+          "id": "fcc1f787a8f50694d563e839c3a5df0f5b260040",
+          "title": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
+          "title_zh": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
+          "title_en": null,
+          "title_original": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
+          "summary": "ZCode针对GLM深度优化，今日上线Goal、Subagents、Remote Control与闲时任务四大功能。在Z.ai Code Bench测试中，GLM-5.2搭配ZCode较搭配Claude Code任务整体通过率高2.39%；ZCode缓存命中率超98%，叠加1.5倍限时额度加成后，GLM Coding Plan整体使用量接近常规额度的1.8倍。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
+          "source": "公众号：智谱（GLM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T05:52:25Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7603,
+      "importance": 0.7603,
+      "importance_score": 0.7603,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9759,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T05:52:25Z",
+      "latest_at": "2026-08-11T05:52:25Z",
+      "primary_item": {
+        "id": "fcc1f787a8f50694d563e839c3a5df0f5b260040",
+        "title": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
+        "title_zh": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
+        "title_en": null,
+        "title_original": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
+        "summary": "ZCode针对GLM深度优化，今日上线Goal、Subagents、Remote Control与闲时任务四大功能。在Z.ai Code Bench测试中，GLM-5.2搭配ZCode较搭配Claude Code任务整体通过率高2.39%；ZCode缓存命中率超98%，叠加1.5倍限时额度加成后，GLM Coding Plan整体使用量接近常规额度的1.8倍。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
+        "source": "公众号：智谱（GLM）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-11T07:34:39.113778Z"
       }
     },
     {
@@ -1386,15 +1521,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8211,
-      "importance": 0.8211,
-      "importance_score": 0.8211,
+      "score": 0.8179,
+      "importance": 0.8179,
+      "importance_score": 0.8179,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8284,
+        "recency": 0.8103,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1421,7 +1556,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T06:06:48.829412Z"
+        "scored_at": "2026-08-11T07:34:39.113778Z"
       }
     },
     {
@@ -1469,15 +1604,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8043,
-      "importance": 0.8043,
-      "importance_score": 0.8043,
+      "score": 0.8012,
+      "importance": 0.8012,
+      "importance_score": 0.8012,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7793,
+        "recency": 0.7622,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1504,7 +1639,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T06:06:48.829412Z"
+        "scored_at": "2026-08-11T07:34:39.113778Z"
+      }
+    },
+    {
+      "story_id": "story_a5ebfc1b3422",
+      "title": "Gemini3.5Pro迟迟未现，谷歌或跳过等待转向Gemini4",
+      "url": "https://www.aibase.com/news/30249",
+      "primary_url": "https://www.aibase.com/news/30249",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3e9b4044c3027f36c3a2e97c36702048974456c7",
+          "title": "Gemini3.5Pro迟迟未现，谷歌或跳过等待转向Gemini4",
+          "title_zh": "Gemini3.5Pro迟迟未现，谷歌或跳过等待转向Gemini4",
+          "title_en": null,
+          "title_original": "Gemini3.5Pro迟迟未现，谷歌或跳过等待转向Gemini4",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30249",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-11T07:33:55.291051Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "3e9b4044c3027f36c3a2e97c36702048974456c7",
+          "title": "Gemini3.5Pro迟迟未现，谷歌或跳过等待转向Gemini4",
+          "title_zh": "Gemini3.5Pro迟迟未现，谷歌或跳过等待转向Gemini4",
+          "title_en": null,
+          "title_original": "Gemini3.5Pro迟迟未现，谷歌或跳过等待转向Gemini4",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30249",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-11T07:33:55.291051Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T07:33:55.291051Z",
+      "latest_at": "2026-08-11T07:33:55.291051Z",
+      "primary_item": {
+        "id": "3e9b4044c3027f36c3a2e97c36702048974456c7",
+        "title": "Gemini3.5Pro迟迟未现，谷歌或跳过等待转向Gemini4",
+        "title_zh": "Gemini3.5Pro迟迟未现，谷歌或跳过等待转向Gemini4",
+        "title_en": null,
+        "title_original": "Gemini3.5Pro迟迟未现，谷歌或跳过等待转向Gemini4",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30249",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-11T07:34:39.113778Z"
       }
     },
     {
@@ -1552,15 +1769,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7376,
-      "importance": 0.7376,
-      "importance_score": 0.7376,
+      "score": 0.7347,
+      "importance": 0.7347,
+      "importance_score": 0.7347,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.75,
+        "recency": 0.7336,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1585,89 +1802,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T06:06:48.829412Z"
-      }
-    },
-    {
-      "story_id": "story_aa2cc290b136",
-      "title": "千问上线AI硬件开放平台，支持开发者自建眼镜“超能力”",
-      "url": "https://www.aibase.com/news/30239",
-      "primary_url": "https://www.aibase.com/news/30239",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f9e1e0be7c695b0145bfd5ab367c16b0087679ef",
-          "title": "千问上线AI硬件开放平台，支持开发者自建眼镜“超能力”",
-          "title_zh": "千问上线AI硬件开放平台，支持开发者自建眼镜“超能力”",
-          "title_en": null,
-          "title_original": "千问上线AI硬件开放平台，支持开发者自建眼镜“超能力”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30239",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T04:37:28.676900Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f9e1e0be7c695b0145bfd5ab367c16b0087679ef",
-          "title": "千问上线AI硬件开放平台，支持开发者自建眼镜“超能力”",
-          "title_zh": "千问上线AI硬件开放平台，支持开发者自建眼镜“超能力”",
-          "title_en": null,
-          "title_original": "千问上线AI硬件开放平台，支持开发者自建眼镜“超能力”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30239",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T04:37:28.676900Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.764,
-      "importance": 0.764,
-      "importance_score": 0.764,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9799,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T04:37:28.676900Z",
-      "latest_at": "2026-08-11T04:37:28.676900Z",
-      "primary_item": {
-        "id": "f9e1e0be7c695b0145bfd5ab367c16b0087679ef",
-        "title": "千问上线AI硬件开放平台，支持开发者自建眼镜“超能力”",
-        "title_zh": "千问上线AI硬件开放平台，支持开发者自建眼镜“超能力”",
-        "title_en": null,
-        "title_original": "千问上线AI硬件开放平台，支持开发者自建眼镜“超能力”",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30239",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-11T06:06:48.829412Z"
+        "scored_at": "2026-08-11T07:34:39.113778Z"
       }
     },
     {
@@ -1715,15 +1850,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7321,
-      "importance": 0.7321,
-      "importance_score": 0.7321,
+      "score": 0.7284,
+      "importance": 0.7284,
+      "importance_score": 0.7284,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9192,
+        "recency": 0.8991,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1748,169 +1883,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T06:06:48.829412Z"
-      }
-    },
-    {
-      "story_id": "story_6fad64e0197b",
-      "title": "智能体真的会用电脑吗？a16z 用数据给出答案 / Can Agents Use a Computer Yet？ We've Got the Data",
-      "url": "https://www.a16z.news/p/can-agents-use-a-computer-yet-weve",
-      "primary_url": "https://www.a16z.news/p/can-agents-use-a-computer-yet-weve",
-      "source": "a16z：News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c4244d84690cb2d2f343792b4891365042907e91",
-          "title": "智能体真的会用电脑吗？a16z 用数据给出答案 / Can Agents Use a Computer Yet？ We've Got the Data",
-          "title_zh": "智能体真的会用电脑吗？a16z 用数据给出答案",
-          "title_en": "Can Agents Use a Computer Yet？ We've Got the Data",
-          "title_original": "Can Agents Use a Computer Yet？ We've Got the Data",
-          "summary": "a16z 数据显示，计算机操作智能体在 OSWorld-Verified 基准上的最佳成绩已从一年前的 42% 升至 85%，超过人类测试者约 72% 的水平，Claude Fable 5 以 85% 领先。",
-          "recommend_reason_zh": null,
-          "url": "https://www.a16z.news/p/can-agents-use-a-computer-yet-weve",
-          "source": "a16z：News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T14:00:46Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "a16z：News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "c4244d84690cb2d2f343792b4891365042907e91",
-          "title": "智能体真的会用电脑吗？a16z 用数据给出答案 / Can Agents Use a Computer Yet？ We've Got the Data",
-          "title_zh": "智能体真的会用电脑吗？a16z 用数据给出答案",
-          "title_en": "Can Agents Use a Computer Yet？ We've Got the Data",
-          "title_original": "Can Agents Use a Computer Yet？ We've Got the Data",
-          "summary": "a16z 数据显示，计算机操作智能体在 OSWorld-Verified 基准上的最佳成绩已从一年前的 42% 升至 85%，超过人类测试者约 72% 的水平，Claude Fable 5 以 85% 领先。",
-          "recommend_reason_zh": null,
-          "url": "https://www.a16z.news/p/can-agents-use-a-computer-yet-weve",
-          "source": "a16z：News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T14:00:46Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7304,
-      "importance": 0.7304,
-      "importance_score": 0.7304,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7935,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-10T14:00:46Z",
-      "latest_at": "2026-08-10T14:00:46Z",
-      "primary_item": {
-        "id": "c4244d84690cb2d2f343792b4891365042907e91",
-        "title": "智能体真的会用电脑吗？a16z 用数据给出答案 / Can Agents Use a Computer Yet？ We've Got the Data",
-        "title_zh": "智能体真的会用电脑吗？a16z 用数据给出答案",
-        "title_en": "Can Agents Use a Computer Yet？ We've Got the Data",
-        "title_original": "Can Agents Use a Computer Yet？ We've Got the Data",
-        "summary": "a16z 数据显示，计算机操作智能体在 OSWorld-Verified 基准上的最佳成绩已从一年前的 42% 升至 85%，超过人类测试者约 72% 的水平，Claude Fable 5 以 85% 领先。",
-        "recommend_reason_zh": null,
-        "url": "https://www.a16z.news/p/can-agents-use-a-computer-yet-weve",
-        "source": "a16z：News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-11T06:06:48.829412Z"
-      }
-    },
-    {
-      "story_id": "story_ef9ee5d5df41",
-      "title": "Databricks 如何在兼顾治理的前提下让 Genie Agents 同时基于结构化数据与文档运行 / How to ground Genie Agents in both structured data and documents without losing governance",
-      "url": "https://www.databricks.com/blog/how-ground-genie-agents-both-structured-data-and-documents-without-losing-governance",
-      "primary_url": "https://www.databricks.com/blog/how-ground-genie-agents-both-structured-data-and-documents-without-losing-governance",
-      "source": "Databricks：Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "123277d810480c26bc58f077f9317ab5165ab89f",
-          "title": "Databricks 如何在兼顾治理的前提下让 Genie Agents 同时基于结构化数据与文档运行 / How to ground Genie Agents in both structured data and documents without losing governance",
-          "title_zh": "Databricks 如何在兼顾治理的前提下让 Genie Agents 同时基于结构化数据与文档运行",
-          "title_en": "How to ground Genie Agents in both structured data and documents without losing governance",
-          "title_original": "How to ground Genie Agents in both structured data and documents without losing governance",
-          "summary": "Databricks 介绍如何让 Genie Agents 同时基于结构化数据与文档运行，且不牺牲治理能力。文章探讨了构建自动化简单业务任务的智能体虽易，但要在统一治理框架下融合两类数据源、确保安全合规地执行查询，仍需解决数据权限、血缘追踪与策略管控等关键问题。",
-          "recommend_reason_zh": null,
-          "url": "https://www.databricks.com/blog/how-ground-genie-agents-both-structured-data-and-documents-without-losing-governance",
-          "source": "Databricks：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T23:08:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Databricks：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "123277d810480c26bc58f077f9317ab5165ab89f",
-          "title": "Databricks 如何在兼顾治理的前提下让 Genie Agents 同时基于结构化数据与文档运行 / How to ground Genie Agents in both structured data and documents without losing governance",
-          "title_zh": "Databricks 如何在兼顾治理的前提下让 Genie Agents 同时基于结构化数据与文档运行",
-          "title_en": "How to ground Genie Agents in both structured data and documents without losing governance",
-          "title_original": "How to ground Genie Agents in both structured data and documents without losing governance",
-          "summary": "Databricks 介绍如何让 Genie Agents 同时基于结构化数据与文档运行，且不牺牲治理能力。文章探讨了构建自动化简单业务任务的智能体虽易，但要在统一治理框架下融合两类数据源、确保安全合规地执行查询，仍需解决数据权限、血缘追踪与策略管控等关键问题。",
-          "recommend_reason_zh": null,
-          "url": "https://www.databricks.com/blog/how-ground-genie-agents-both-structured-data-and-documents-without-losing-governance",
-          "source": "Databricks：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T23:08:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7296,
-      "importance": 0.7296,
-      "importance_score": 0.7296,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9053,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-10T23:08:50Z",
-      "latest_at": "2026-08-10T23:08:50Z",
-      "primary_item": {
-        "id": "123277d810480c26bc58f077f9317ab5165ab89f",
-        "title": "Databricks 如何在兼顾治理的前提下让 Genie Agents 同时基于结构化数据与文档运行 / How to ground Genie Agents in both structured data and documents without losing governance",
-        "title_zh": "Databricks 如何在兼顾治理的前提下让 Genie Agents 同时基于结构化数据与文档运行",
-        "title_en": "How to ground Genie Agents in both structured data and documents without losing governance",
-        "title_original": "How to ground Genie Agents in both structured data and documents without losing governance",
-        "summary": "Databricks 介绍如何让 Genie Agents 同时基于结构化数据与文档运行，且不牺牲治理能力。文章探讨了构建自动化简单业务任务的智能体虽易，但要在统一治理框架下融合两类数据源、确保安全合规地执行查询，仍需解决数据权限、血缘追踪与策略管控等关键问题。",
-        "recommend_reason_zh": null,
-        "url": "https://www.databricks.com/blog/how-ground-genie-agents-both-structured-data-and-documents-without-losing-governance",
-        "source": "Databricks：Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-11T06:06:48.829412Z"
+        "scored_at": "2026-08-11T07:34:39.113778Z"
       }
     }
   ]
