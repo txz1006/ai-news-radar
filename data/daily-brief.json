@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T10:18:20.509025Z",
+  "generated_at": "2026-08-12T11:56:41.441736Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.843,
-      "importance": 0.843,
-      "importance_score": 0.843,
+      "score": 0.8391,
+      "importance": 0.8391,
+      "importance_score": 0.8391,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9355,
+        "recency": 0.9137,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -170,7 +170,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T10:19:09.564446Z"
+        "scored_at": "2026-08-12T11:57:26.779452Z"
       }
     },
     {
@@ -247,15 +247,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8292,
-      "importance": 0.8292,
-      "importance_score": 0.8292,
+      "score": 0.8259,
+      "importance": 0.8259,
+      "importance_score": 0.8259,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7789,
+        "recency": 0.7607,
         "story_heat": 0.25
       },
       "category": "official",
@@ -283,7 +283,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T10:19:09.564446Z"
+        "scored_at": "2026-08-12T11:57:26.779452Z"
       }
     },
     {
@@ -331,15 +331,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.819,
-      "importance": 0.819,
-      "importance_score": 0.819,
+      "score": 0.8155,
+      "importance": 0.8155,
+      "importance_score": 0.8155,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8165,
+        "recency": 0.7974,
         "story_heat": 0.0
       },
       "category": "official",
@@ -366,7 +366,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T10:19:09.564446Z"
+        "scored_at": "2026-08-12T11:57:26.779452Z"
       }
     },
     {
@@ -414,15 +414,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8135,
-      "importance": 0.8135,
-      "importance_score": 0.8135,
+      "score": 0.8104,
+      "importance": 0.8104,
+      "importance_score": 0.8104,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7418,
+        "recency": 0.7244,
         "story_heat": 0.0
       },
       "category": "official",
@@ -449,7 +449,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T10:19:09.564446Z"
+        "scored_at": "2026-08-12T11:57:26.779452Z"
       }
     },
     {
@@ -613,15 +613,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8302,
-      "importance": 0.8302,
-      "importance_score": 0.8302,
+      "score": 0.8269,
+      "importance": 0.8269,
+      "importance_score": 0.8269,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7754,
+        "recency": 0.7572,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -648,7 +648,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T10:19:09.564446Z"
+        "scored_at": "2026-08-12T11:57:26.779452Z"
       }
     },
     {
@@ -725,15 +725,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7889,
-      "importance": 0.7889,
-      "importance_score": 0.7889,
+      "score": 0.7856,
+      "importance": 0.7856,
+      "importance_score": 0.7856,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7942,
+        "recency": 0.7756,
         "story_heat": 0.25
       },
       "category": "official",
@@ -760,7 +760,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T10:19:09.564446Z"
+        "scored_at": "2026-08-12T11:57:26.779452Z"
       }
     },
     {
@@ -808,15 +808,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8147,
-      "importance": 0.8147,
-      "importance_score": 0.8147,
+      "score": 0.8114,
+      "importance": 0.8114,
+      "importance_score": 0.8114,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7929,
+        "recency": 0.7743,
         "story_heat": 0.0
       },
       "category": "official",
@@ -843,7 +843,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T10:19:09.564446Z"
+        "scored_at": "2026-08-12T11:57:26.779452Z"
       }
     },
     {
@@ -891,15 +891,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7801,
-      "importance": 0.7801,
-      "importance_score": 0.7801,
+      "score": 0.7767,
+      "importance": 0.7767,
+      "importance_score": 0.7767,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8005,
+        "recency": 0.7818,
         "story_heat": 0.0
       },
       "category": "official",
@@ -925,7 +925,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T10:19:09.564446Z"
+        "scored_at": "2026-08-12T11:57:26.779452Z"
       }
     },
     {
@@ -1002,15 +1002,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7775,
-      "importance": 0.7775,
-      "importance_score": 0.7775,
+      "score": 0.7742,
+      "importance": 0.7742,
+      "importance_score": 0.7742,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7996,
+        "recency": 0.7809,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1037,7 +1037,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T10:19:09.564446Z"
+        "scored_at": "2026-08-12T11:57:26.779452Z"
       }
     },
     {
@@ -1085,15 +1085,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7634,
+      "importance": 0.7634,
+      "importance_score": 0.7634,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9766,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1119,7 +1119,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T10:19:09.564446Z"
+        "scored_at": "2026-08-12T11:57:26.779452Z"
       }
     },
     {
@@ -1167,15 +1167,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7574,
-      "importance": 0.7574,
-      "importance_score": 0.7574,
+      "score": 0.754,
+      "importance": 0.754,
+      "importance_score": 0.754,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8098,
+        "recency": 0.7908,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1201,7 +1201,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T10:19:09.564446Z"
+        "scored_at": "2026-08-12T11:57:26.779452Z"
       }
     },
     {
@@ -1249,15 +1249,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7557,
-      "importance": 0.7557,
-      "importance_score": 0.7557,
+      "score": 0.7517,
+      "importance": 0.7517,
+      "importance_score": 0.7517,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9504,
+        "recency": 0.9281,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1283,7 +1283,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T10:19:09.564446Z"
+        "scored_at": "2026-08-12T11:57:26.779452Z"
       }
     },
     {
@@ -1331,21 +1331,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7531,
-      "importance": 0.7531,
-      "importance_score": 0.7531,
+      "score": 0.7498,
+      "importance": 0.7498,
+      "importance_score": 0.7498,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7862,
+        "recency": 0.7678,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-11T17:38:49Z",
       "latest_at": "2026-08-11T17:38:49Z",
@@ -1365,7 +1364,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T10:19:09.564446Z"
+        "scored_at": "2026-08-12T11:57:26.779452Z"
       }
     },
     {
@@ -1413,15 +1412,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8113,
-      "importance": 0.8113,
-      "importance_score": 0.8113,
+      "score": 0.8079,
+      "importance": 0.8079,
+      "importance_score": 0.8079,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8186,
+        "recency": 0.7994,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1448,7 +1447,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T10:19:09.564446Z"
+        "scored_at": "2026-08-12T11:57:26.779452Z"
       }
     },
     {
@@ -1496,15 +1495,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7428,
-      "importance": 0.7428,
-      "importance_score": 0.7428,
+      "score": 0.7395,
+      "importance": 0.7395,
+      "importance_score": 0.7395,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.779,
+        "recency": 0.7608,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1529,89 +1528,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T10:19:09.564446Z"
-      }
-    },
-    {
-      "story_id": "story_a04023a0a935",
-      "title": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
-      "url": "https://www.aibase.com/news/30287",
-      "primary_url": "https://www.aibase.com/news/30287",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "9efd09627cdd7e8c01b96003850d75afecfb9958",
-          "title": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
-          "title_zh": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
-          "title_en": null,
-          "title_original": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30287",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-12T10:18:20.509025Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "9efd09627cdd7e8c01b96003850d75afecfb9958",
-          "title": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
-          "title_zh": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
-          "title_en": null,
-          "title_original": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30287",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-12T10:18:20.509025Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-12T10:18:20.509025Z",
-      "latest_at": "2026-08-12T10:18:20.509025Z",
-      "primary_item": {
-        "id": "9efd09627cdd7e8c01b96003850d75afecfb9958",
-        "title": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
-        "title_zh": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
-        "title_en": null,
-        "title_original": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30287",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-12T10:19:09.564446Z"
+        "scored_at": "2026-08-12T11:57:26.779452Z"
       }
     },
     {
@@ -1659,15 +1576,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.737,
-      "importance": 0.737,
-      "importance_score": 0.737,
+      "score": 0.7334,
+      "importance": 0.7334,
+      "importance_score": 0.7334,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8634,
+        "recency": 0.8432,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1692,7 +1609,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T10:19:09.564446Z"
+        "scored_at": "2026-08-12T11:57:26.779452Z"
+      }
+    },
+    {
+      "story_id": "story_a04023a0a935",
+      "title": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+      "url": "https://www.aibase.com/news/30287",
+      "primary_url": "https://www.aibase.com/news/30287",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "9efd09627cdd7e8c01b96003850d75afecfb9958",
+          "title": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+          "title_zh": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+          "title_en": null,
+          "title_original": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30287",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T10:18:20.509025Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "9efd09627cdd7e8c01b96003850d75afecfb9958",
+          "title": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+          "title_zh": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+          "title_en": null,
+          "title_original": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30287",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T10:18:20.509025Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7634,
+      "importance": 0.7634,
+      "importance_score": 0.7634,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9766,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T10:18:20.509025Z",
+      "latest_at": "2026-08-12T10:18:20.509025Z",
+      "primary_item": {
+        "id": "9efd09627cdd7e8c01b96003850d75afecfb9958",
+        "title": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+        "title_zh": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+        "title_en": null,
+        "title_original": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30287",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-12T11:57:26.779452Z"
       }
     },
     {
@@ -1740,15 +1739,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7319,
-      "importance": 0.7319,
-      "importance_score": 0.7319,
+      "score": 0.7288,
+      "importance": 0.7288,
+      "importance_score": 0.7288,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7352,
+        "recency": 0.718,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1773,7 +1772,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T10:19:09.564446Z"
+        "scored_at": "2026-08-12T11:57:26.779452Z"
       }
     },
     {
@@ -1821,15 +1820,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7276,
-      "importance": 0.7276,
-      "importance_score": 0.7276,
+      "score": 0.7245,
+      "importance": 0.7245,
+      "importance_score": 0.7245,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7444,
+        "recency": 0.727,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1854,7 +1853,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T10:19:09.564446Z"
+        "scored_at": "2026-08-12T11:57:26.779452Z"
       }
     },
     {
@@ -1902,15 +1901,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7258,
-      "importance": 0.7258,
-      "importance_score": 0.7258,
+      "score": 0.7226,
+      "importance": 0.7226,
+      "importance_score": 0.7226,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7677,
+        "recency": 0.7498,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1935,7 +1934,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T10:19:09.564446Z"
+        "scored_at": "2026-08-12T11:57:26.779452Z"
       }
     }
   ]
