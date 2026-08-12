@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T21:00:53.221171Z",
+  "generated_at": "2026-08-12T22:00:21.107133Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8548,
-      "importance": 0.8548,
-      "importance_score": 0.8548,
+      "score": 0.8524,
+      "importance": 0.8524,
+      "importance_score": 0.8524,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9713,
+        "recency": 0.9575,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T21:01:46.264127Z"
+        "scored_at": "2026-08-12T22:02:51.542994Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8487,
-      "importance": 0.8487,
-      "importance_score": 0.8487,
+      "score": 0.8464,
+      "importance": 0.8464,
+      "importance_score": 0.8464,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9038,
+        "recency": 0.891,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T21:01:46.264127Z"
+        "scored_at": "2026-08-12T22:02:51.542994Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.846,
-      "importance": 0.846,
-      "importance_score": 0.846,
+      "score": 0.8435,
+      "importance": 0.8435,
+      "importance_score": 0.8435,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9665,
+        "recency": 0.9527,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T21:01:46.264127Z"
+        "scored_at": "2026-08-12T22:02:51.542994Z"
       }
     },
     {
@@ -297,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8267,
-      "importance": 0.8267,
-      "importance_score": 0.8267,
+      "score": 0.8244,
+      "importance": 0.8244,
+      "importance_score": 0.8244,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9041,
+        "recency": 0.8912,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T21:01:46.264127Z"
+        "scored_at": "2026-08-12T22:02:51.542994Z"
       }
     },
     {
@@ -467,15 +467,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8189,
-      "importance": 0.8189,
-      "importance_score": 0.8189,
+      "score": 0.8168,
+      "importance": 0.8168,
+      "importance_score": 0.8168,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8015,
+        "recency": 0.7901,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -502,7 +502,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T21:01:46.264127Z"
+        "scored_at": "2026-08-12T22:02:51.542994Z"
       }
     },
     {
@@ -550,15 +550,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.848,
-      "importance": 0.848,
-      "importance_score": 0.848,
+      "score": 0.8456,
+      "importance": 0.8456,
+      "importance_score": 0.8456,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9334,
+        "recency": 0.9202,
         "story_heat": 0.0
       },
       "category": "official",
@@ -585,7 +585,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T21:01:46.264127Z"
+        "scored_at": "2026-08-12T22:02:51.542994Z"
       }
     },
     {
@@ -633,15 +633,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8169,
-      "importance": 0.8169,
-      "importance_score": 0.8169,
+      "score": 0.8149,
+      "importance": 0.8149,
+      "importance_score": 0.8149,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8051,
+        "recency": 0.7936,
         "story_heat": 0.0
       },
       "category": "official",
@@ -668,7 +668,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T21:01:46.264127Z"
+        "scored_at": "2026-08-12T22:02:51.542994Z"
       }
     },
     {
@@ -716,15 +716,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8376,
-      "importance": 0.8376,
-      "importance_score": 0.8376,
+      "score": 0.8351,
+      "importance": 0.8351,
+      "importance_score": 0.8351,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9644,
+        "recency": 0.9507,
         "story_heat": 0.0
       },
       "category": "official",
@@ -751,7 +751,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T21:01:46.264127Z"
+        "scored_at": "2026-08-12T22:02:51.542994Z"
       }
     },
     {
@@ -799,15 +799,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7902,
-      "importance": 0.7902,
-      "importance_score": 0.7902,
+      "score": 0.7878,
+      "importance": 0.7878,
+      "importance_score": 0.7878,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9568,
+        "recency": 0.9433,
         "story_heat": 0.0
       },
       "category": "official",
@@ -833,7 +833,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T21:01:46.264127Z"
+        "scored_at": "2026-08-12T22:02:51.542994Z"
+      }
+    },
+    {
+      "story_id": "story_4392345a6290",
+      "title": "RingCentral 如何构建从工程到运营的 AI 原生工作 / How RingCentral builds AI-native work from engineering to ops",
+      "url": "https://openai.com/index/ringcentral",
+      "primary_url": "https://openai.com/index/ringcentral",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "53fe5c37c7fa0e621abfb0caf38a619275e0acdd",
+          "title": "RingCentral 如何构建从工程到运营的 AI 原生工作 / How RingCentral builds AI-native work from engineering to ops",
+          "title_zh": "RingCentral 如何构建从工程到运营的 AI 原生工作",
+          "title_en": "How RingCentral builds AI-native work from engineering to ops",
+          "title_original": "How RingCentral builds AI-native work from engineering to ops",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/ringcentral",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-12T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "53fe5c37c7fa0e621abfb0caf38a619275e0acdd",
+          "title": "RingCentral 如何构建从工程到运营的 AI 原生工作 / How RingCentral builds AI-native work from engineering to ops",
+          "title_zh": "RingCentral 如何构建从工程到运营的 AI 原生工作",
+          "title_en": "How RingCentral builds AI-native work from engineering to ops",
+          "title_original": "How RingCentral builds AI-native work from engineering to ops",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/ringcentral",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-12T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.803,
+      "importance": 0.803,
+      "importance_score": 0.803,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7278,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T00:00:00Z",
+      "latest_at": "2026-08-12T00:00:00Z",
+      "primary_item": {
+        "id": "53fe5c37c7fa0e621abfb0caf38a619275e0acdd",
+        "title": "RingCentral 如何构建从工程到运营的 AI 原生工作 / How RingCentral builds AI-native work from engineering to ops",
+        "title_zh": "RingCentral 如何构建从工程到运营的 AI 原生工作",
+        "title_en": "How RingCentral builds AI-native work from engineering to ops",
+        "title_original": "How RingCentral builds AI-native work from engineering to ops",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/ringcentral",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-12T22:02:51.542994Z"
       }
     },
     {
@@ -881,15 +964,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7614,
-      "importance": 0.7614,
-      "importance_score": 0.7614,
+      "score": 0.759,
+      "importance": 0.759,
+      "importance_score": 0.759,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9324,
+        "recency": 0.9191,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -915,7 +998,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T21:01:46.264127Z"
+        "scored_at": "2026-08-12T22:02:51.542994Z"
       }
     },
     {
@@ -992,15 +1075,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7605,
-      "importance": 0.7605,
-      "importance_score": 0.7605,
+      "score": 0.7586,
+      "importance": 0.7586,
+      "importance_score": 0.7586,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7383,
+        "recency": 0.7278,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1027,7 +1110,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T21:01:46.264127Z"
+        "scored_at": "2026-08-12T22:02:51.542994Z"
       }
     },
     {
@@ -1075,15 +1158,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7456,
-      "importance": 0.7456,
-      "importance_score": 0.7456,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.878,
+        "recency": 0.8655,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1108,7 +1191,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T21:01:46.264127Z"
+        "scored_at": "2026-08-12T22:02:51.542994Z"
       }
     },
     {
@@ -1156,15 +1239,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7449,
-      "importance": 0.7449,
-      "importance_score": 0.7449,
+      "score": 0.7425,
+      "importance": 0.7425,
+      "importance_score": 0.7425,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9574,
+        "recency": 0.9438,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1189,7 +1272,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T21:01:46.264127Z"
+        "scored_at": "2026-08-12T22:02:51.542994Z"
       }
     },
     {
@@ -1237,15 +1320,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7447,
-      "importance": 0.7447,
-      "importance_score": 0.7447,
+      "score": 0.7421,
+      "importance": 0.7421,
+      "importance_score": 0.7421,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9892,
+        "recency": 0.9752,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1270,7 +1353,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T21:01:46.264127Z"
+        "scored_at": "2026-08-12T22:02:51.542994Z"
       }
     },
     {
@@ -1318,15 +1401,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7418,
-      "importance": 0.7418,
-      "importance_score": 0.7418,
+      "score": 0.7396,
+      "importance": 0.7396,
+      "importance_score": 0.7396,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8567,
+        "recency": 0.8445,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1351,7 +1434,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T21:01:46.264127Z"
+        "scored_at": "2026-08-12T22:02:51.542994Z"
       }
     },
     {
@@ -1399,15 +1482,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7371,
-      "importance": 0.7371,
-      "importance_score": 0.7371,
+      "score": 0.7347,
+      "importance": 0.7347,
+      "importance_score": 0.7347,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9304,
+        "recency": 0.9171,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1432,7 +1515,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T21:01:46.264127Z"
+        "scored_at": "2026-08-12T22:02:51.542994Z"
       }
     },
     {
@@ -1480,15 +1563,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7418,
-      "importance": 0.7418,
-      "importance_score": 0.7418,
+      "score": 0.7396,
+      "importance": 0.7396,
+      "importance_score": 0.7396,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8567,
+        "recency": 0.8445,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1513,7 +1596,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T21:01:46.264127Z"
+        "scored_at": "2026-08-12T22:02:51.542994Z"
       }
     },
     {
@@ -1561,15 +1644,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7312,
-      "importance": 0.7312,
-      "importance_score": 0.7312,
+      "score": 0.7291,
+      "importance": 0.7291,
+      "importance_score": 0.7291,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8142,
+        "recency": 0.8026,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1594,7 +1677,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T21:01:46.264127Z"
+        "scored_at": "2026-08-12T22:02:51.542994Z"
       }
     },
     {
@@ -1642,15 +1725,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7418,
-      "importance": 0.7418,
-      "importance_score": 0.7418,
+      "score": 0.7396,
+      "importance": 0.7396,
+      "importance_score": 0.7396,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8567,
+        "recency": 0.8445,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1675,88 +1758,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T21:01:46.264127Z"
-      }
-    },
-    {
-      "story_id": "story_17d6705d1084",
-      "title": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
-      "url": "https://www.aibase.com/news/30276",
-      "primary_url": "https://www.aibase.com/news/30276",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "19885d82860a200a6c11b27212173a78ac3ba013",
-          "title": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
-          "title_zh": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
-          "title_en": null,
-          "title_original": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30276",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-12T08:38:30.709611Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "19885d82860a200a6c11b27212173a78ac3ba013",
-          "title": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
-          "title_zh": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
-          "title_en": null,
-          "title_original": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30276",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-12T08:38:30.709611Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7381,
-      "importance": 0.7381,
-      "importance_score": 0.7381,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8364,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-12T08:38:30.709611Z",
-      "latest_at": "2026-08-12T08:38:30.709611Z",
-      "primary_item": {
-        "id": "19885d82860a200a6c11b27212173a78ac3ba013",
-        "title": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
-        "title_zh": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
-        "title_en": null,
-        "title_original": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30276",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-12T21:01:46.264127Z"
+        "scored_at": "2026-08-12T22:02:51.542994Z"
       }
     }
   ]
