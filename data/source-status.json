@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-08-16T08:45:17.680176Z",
+  "generated_at": "2026-08-16T09:38:53.417860Z",
   "sites": [
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "ok": true,
       "item_count": 168,
-      "duration_ms": 2848,
+      "duration_ms": 2755,
       "error": null
     },
     {
       "site_id": "curated_media",
       "site_name": "Curated Media",
       "ok": true,
-      "item_count": 39,
-      "duration_ms": 3331,
+      "item_count": 25,
+      "duration_ms": 2897,
       "error": null
     },
     {
@@ -22,7 +22,7 @@
       "site_name": "AI Breakfast",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 31,
+      "duration_ms": 52,
       "error": "403 Client Error: Forbidden for url: https://r.jina.ai/https://aibreakfast.beehiiv.com/"
     },
     {
@@ -30,7 +30,7 @@
       "site_name": "Follow Builders",
       "ok": true,
       "item_count": 24,
-      "duration_ms": 301,
+      "duration_ms": 61,
       "error": null
     },
     {
@@ -38,7 +38,7 @@
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 515,
+      "duration_ms": 376,
       "error": null
     },
     {
@@ -46,7 +46,7 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 261,
+      "duration_ms": 287,
       "error": null
     },
     {
@@ -54,7 +54,7 @@
       "site_name": "Info Flow",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 972,
+      "duration_ms": 1000,
       "error": null
     },
     {
@@ -62,7 +62,7 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 1034,
+      "duration_ms": 1084,
       "error": null
     },
     {
@@ -70,7 +70,7 @@
       "site_name": "Zeli",
       "ok": true,
       "item_count": 79,
-      "duration_ms": 437,
+      "duration_ms": 400,
       "error": null
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "Hacker News",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 6366,
+      "duration_ms": 5808,
       "error": null
     },
     {
@@ -86,7 +86,7 @@
       "site_name": "AI HubToday",
       "ok": true,
       "item_count": 29,
-      "duration_ms": 309,
+      "duration_ms": 353,
       "error": null
     },
     {
@@ -94,7 +94,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1093,
+      "duration_ms": 885,
       "error": null
     },
     {
@@ -102,7 +102,7 @@
       "site_name": "AI HOT",
       "ok": true,
       "item_count": 82,
-      "duration_ms": 757,
+      "duration_ms": 1120,
       "error": null
     },
     {
@@ -110,7 +110,7 @@
       "site_name": "NewsNow",
       "ok": true,
       "item_count": 123,
-      "duration_ms": 1285,
+      "duration_ms": 1357,
       "error": null
     },
     {
@@ -118,21 +118,21 @@
       "site_name": "WaytoAGI",
       "ok": true,
       "item_count": 6,
-      "duration_ms": 4995,
+      "duration_ms": 7107,
       "error": null
     },
     {
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
       "ok": true,
-      "partial_failures": 0,
-      "item_count": 450,
-      "duration_ms": 20625,
-      "error": null,
+      "partial_failures": 4,
+      "item_count": 250,
+      "duration_ms": 79432,
+      "error": "4 feeds failed",
       "feed_count": 10,
       "effective_feed_count": 10,
-      "ok_feed_count": 10,
-      "failed_feed_count": 0,
+      "ok_feed_count": 6,
+      "failed_feed_count": 4,
       "skipped_feed_count": 0,
       "replaced_feed_count": 0
     }
@@ -143,16 +143,21 @@
   ],
   "zero_item_sites": [],
   "empty_advanced_sources": [],
-  "fetched_raw_items": 1527,
-  "items_before_topic_filter": 906,
-  "items_in_24h": 140,
+  "fetched_raw_items": 1313,
+  "items_before_topic_filter": 864,
+  "items_in_24h": 130,
   "rss_opml": {
     "enabled": true,
     "path": "configured",
     "feed_total": 10,
     "effective_feed_total": 10,
-    "ok_feeds": 10,
-    "failed_feeds": [],
+    "ok_feeds": 6,
+    "failed_feeds": [
+      "https://api.xgo.ing/rss/user/524525de0d69407b80f0a7d891fdc8df",
+      "https://api.xgo.ing/rss/user/af19d054e26a49129f23abfa82d9e268",
+      "https://api.xgo.ing/rss/user/3ca3c7698fd04611a0e7d14fae93c84c",
+      "https://api.xgo.ing/rss/user/e30d4cd223f44bed9d404807105c8927"
+    ],
     "zero_item_feeds": [],
     "skipped_feeds": [],
     "replaced_feeds": [],
@@ -163,10 +168,10 @@
         "feed_title": "Alex Albert(@alexalbert__)",
         "feed_url": "https://api.xgo.ing/rss/user/524525de0d69407b80f0a7d891fdc8df",
         "effective_feed_url": "https://api.xgo.ing/rss/user/524525de0d69407b80f0a7d891fdc8df",
-        "ok": true,
-        "item_count": 50,
-        "duration_ms": 3311,
-        "error": null,
+        "ok": false,
+        "item_count": 0,
+        "duration_ms": 12265,
+        "error": "HTTPSConnectionPool(host='api.xgo.ing', port=443): Read timed out. (read timeout=12)",
         "skipped": false,
         "skip_reason": null,
         "replaced": false,
@@ -180,7 +185,7 @@
         "effective_feed_url": "https://api.xgo.ing/rss/user/fc28a211471b496682feff329ec616e5",
         "ok": true,
         "item_count": 50,
-        "duration_ms": 1053,
+        "duration_ms": 2409,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -195,7 +200,7 @@
         "effective_feed_url": "https://api.xgo.ing/rss/user/f7992687b8d74b14bf2341eb3a0a5ec4",
         "ok": true,
         "item_count": 50,
-        "duration_ms": 1594,
+        "duration_ms": 6681,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -210,7 +215,7 @@
         "effective_feed_url": "https://api.xgo.ing/rss/user/49666ce6fe3e4cb786c6574684542ec5",
         "ok": true,
         "item_count": 17,
-        "duration_ms": 752,
+        "duration_ms": 2557,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -223,10 +228,10 @@
         "feed_title": "Greg Brockman(@gdb)",
         "feed_url": "https://api.xgo.ing/rss/user/af19d054e26a49129f23abfa82d9e268",
         "effective_feed_url": "https://api.xgo.ing/rss/user/af19d054e26a49129f23abfa82d9e268",
-        "ok": true,
-        "item_count": 50,
-        "duration_ms": 3441,
-        "error": null,
+        "ok": false,
+        "item_count": 0,
+        "duration_ms": 12264,
+        "error": "HTTPSConnectionPool(host='api.xgo.ing', port=443): Read timed out. (read timeout=12)",
         "skipped": false,
         "skip_reason": null,
         "replaced": false,
@@ -238,10 +243,10 @@
         "feed_title": "Kevin Weil 🇺🇸(@kevinweil)",
         "feed_url": "https://api.xgo.ing/rss/user/3ca3c7698fd04611a0e7d14fae93c84c",
         "effective_feed_url": "https://api.xgo.ing/rss/user/3ca3c7698fd04611a0e7d14fae93c84c",
-        "ok": true,
-        "item_count": 50,
-        "duration_ms": 3655,
-        "error": null,
+        "ok": false,
+        "item_count": 0,
+        "duration_ms": 12263,
+        "error": "HTTPSConnectionPool(host='api.xgo.ing', port=443): Read timed out. (read timeout=12)",
         "skipped": false,
         "skip_reason": null,
         "replaced": false,
@@ -255,7 +260,7 @@
         "effective_feed_url": "https://api.xgo.ing/rss/user/78d7b99318b04b309b04000f7e24da29",
         "ok": true,
         "item_count": 33,
-        "duration_ms": 1641,
+        "duration_ms": 8279,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -270,7 +275,7 @@
         "effective_feed_url": "https://api.xgo.ing/rss/user/971dc1fc90da449bac23e5fad8a33d55",
         "ok": true,
         "item_count": 50,
-        "duration_ms": 1765,
+        "duration_ms": 7512,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -285,7 +290,7 @@
         "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
         "ok": true,
         "item_count": 50,
-        "duration_ms": 891,
+        "duration_ms": 2934,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -298,10 +303,10 @@
         "feed_title": "Sam Altman(@sama)",
         "feed_url": "https://api.xgo.ing/rss/user/e30d4cd223f44bed9d404807105c8927",
         "effective_feed_url": "https://api.xgo.ing/rss/user/e30d4cd223f44bed9d404807105c8927",
-        "ok": true,
-        "item_count": 50,
-        "duration_ms": 2522,
-        "error": null,
+        "ok": false,
+        "item_count": 0,
+        "duration_ms": 12268,
+        "error": "HTTPSConnectionPool(host='api.xgo.ing', port=443): Read timed out. (read timeout=12)",
         "skipped": false,
         "skip_reason": null,
         "replaced": false,
