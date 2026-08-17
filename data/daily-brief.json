@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T19:39:27.631166Z",
+  "generated_at": "2026-08-17T20:41:16.055520Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -164,15 +164,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8623,
-      "importance": 0.8623,
-      "importance_score": 0.8623,
+      "score": 0.8597,
+      "importance": 0.8597,
+      "importance_score": 0.8597,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9872,
+        "recency": 0.9727,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -199,7 +199,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T19:40:06.980392Z"
+        "scored_at": "2026-08-17T20:42:02.132731Z"
+      }
+    },
+    {
+      "story_id": "story_5646c2e72f66",
+      "title": "相同的集群，利用率增加了 33 个点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+      "primary_url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4f25f81b303f8e33d4c266b4ceef6fee39e8f9da",
+          "title": "相同的集群，利用率增加了 33 个点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+          "title_zh": "相同的集群，利用率增加了 33 个点：改变的是顺序",
+          "title_en": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+          "title_original": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-17T19:46:21Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "4f25f81b303f8e33d4c266b4ceef6fee39e8f9da",
+          "title": "相同的集群，利用率增加了 33 个点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+          "title_zh": "相同的集群，利用率增加了 33 个点：改变的是顺序",
+          "title_en": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+          "title_original": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-17T19:46:21Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8576,
+      "importance": 0.8576,
+      "importance_score": 0.8576,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9869,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T19:46:21Z",
+      "latest_at": "2026-08-17T19:46:21Z",
+      "primary_item": {
+        "id": "4f25f81b303f8e33d4c266b4ceef6fee39e8f9da",
+        "title": "相同的集群，利用率增加了 33 个点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+        "title_zh": "相同的集群，利用率增加了 33 个点：改变的是顺序",
+        "title_en": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+        "title_original": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-17T20:42:02.132731Z"
       }
     },
     {
@@ -276,15 +359,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8437,
-      "importance": 0.8437,
-      "importance_score": 0.8437,
+      "score": 0.8416,
+      "importance": 0.8416,
+      "importance_score": 0.8416,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8151,
+        "recency": 0.8031,
         "story_heat": 0.25
       },
       "category": "official",
@@ -312,7 +395,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T19:40:06.980392Z"
+        "scored_at": "2026-08-17T20:42:02.132731Z"
       }
     },
     {
@@ -360,15 +443,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8347,
-      "importance": 0.8347,
-      "importance_score": 0.8347,
+      "score": 0.8322,
+      "importance": 0.8322,
+      "importance_score": 0.8322,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9486,
+        "recency": 0.9345,
         "story_heat": 0.0
       },
       "category": "official",
@@ -395,7 +478,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T19:40:06.980392Z"
+        "scored_at": "2026-08-17T20:42:02.132731Z"
       }
     },
     {
@@ -443,15 +526,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8241,
-      "importance": 0.8241,
-      "importance_score": 0.8241,
+      "score": 0.8219,
+      "importance": 0.8219,
+      "importance_score": 0.8219,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8451,
+        "recency": 0.8326,
         "story_heat": 0.0
       },
       "category": "official",
@@ -478,7 +561,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T19:40:06.980392Z"
+        "scored_at": "2026-08-17T20:42:02.132731Z"
       }
     },
     {
@@ -613,15 +696,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8323,
-      "importance": 0.8323,
-      "importance_score": 0.8323,
+      "score": 0.8297,
+      "importance": 0.8297,
+      "importance_score": 0.8297,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9759,
+        "recency": 0.9615,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -648,7 +731,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T19:40:06.980392Z"
+        "scored_at": "2026-08-17T20:42:02.132731Z"
       }
     },
     {
@@ -696,15 +779,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8177,
-      "importance": 0.8177,
-      "importance_score": 0.8177,
+      "score": 0.8155,
+      "importance": 0.8155,
+      "importance_score": 0.8155,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8092,
+        "recency": 0.7973,
         "story_heat": 0.0
       },
       "category": "official",
@@ -731,7 +814,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T19:40:06.980392Z"
+        "scored_at": "2026-08-17T20:42:02.132731Z"
       }
     },
     {
@@ -779,15 +862,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
+      "score": 0.7627,
+      "importance": 0.7627,
+      "importance_score": 0.7627,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9029,
+        "recency": 0.8895,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -813,7 +896,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T19:40:06.980392Z"
+        "scored_at": "2026-08-17T20:42:02.132731Z"
       }
     },
     {
@@ -861,15 +944,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7563,
-      "importance": 0.7563,
-      "importance_score": 0.7563,
+      "score": 0.7539,
+      "importance": 0.7539,
+      "importance_score": 0.7539,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.904,
+        "recency": 0.8907,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -895,7 +978,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T19:40:06.980392Z"
+        "scored_at": "2026-08-17T20:42:02.132731Z"
       }
     },
     {
@@ -943,15 +1026,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.814,
-      "importance": 0.814,
-      "importance_score": 0.814,
+      "score": 0.8119,
+      "importance": 0.8119,
+      "importance_score": 0.8119,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.789,
+        "recency": 0.7774,
         "story_heat": 0.0
       },
       "category": "official",
@@ -978,7 +1061,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T19:40:06.980392Z"
+        "scored_at": "2026-08-17T20:42:02.132731Z"
       }
     },
     {
@@ -1026,15 +1109,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7504,
+      "importance": 0.7504,
+      "importance_score": 0.7504,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9008,
+        "recency": 0.8875,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1060,7 +1143,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T19:40:06.980392Z"
+        "scored_at": "2026-08-17T20:42:02.132731Z"
       }
     },
     {
@@ -1108,15 +1191,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.746,
-      "importance": 0.746,
-      "importance_score": 0.746,
+      "score": 0.7436,
+      "importance": 0.7436,
+      "importance_score": 0.7436,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8798,
+        "recency": 0.8668,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1141,7 +1224,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T19:40:06.980392Z"
+        "scored_at": "2026-08-17T20:42:02.132731Z"
       }
     },
     {
@@ -1189,15 +1272,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7223,
-      "importance": 0.7223,
-      "importance_score": 0.7223,
+      "score": 0.7203,
+      "importance": 0.7203,
+      "importance_score": 0.7203,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7315,
+        "recency": 0.7207,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1222,7 +1305,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T19:40:06.980392Z"
+        "scored_at": "2026-08-17T20:42:02.132731Z"
       }
     },
     {
@@ -1270,15 +1353,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.744,
-      "importance": 0.744,
-      "importance_score": 0.744,
+      "score": 0.7417,
+      "importance": 0.7417,
+      "importance_score": 0.7417,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8689,
+        "recency": 0.8561,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1303,7 +1386,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T19:40:06.980392Z"
+        "scored_at": "2026-08-17T20:42:02.132731Z"
       }
     },
     {
@@ -1351,15 +1434,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.744,
-      "importance": 0.744,
-      "importance_score": 0.744,
+      "score": 0.7417,
+      "importance": 0.7417,
+      "importance_score": 0.7417,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8689,
+        "recency": 0.8561,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1384,7 +1467,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T19:40:06.980392Z"
+        "scored_at": "2026-08-17T20:42:02.132731Z"
       }
     },
     {
@@ -1432,15 +1515,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7419,
-      "importance": 0.7419,
-      "importance_score": 0.7419,
+      "score": 0.7396,
+      "importance": 0.7396,
+      "importance_score": 0.7396,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8571,
+        "recency": 0.8444,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1465,7 +1548,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T19:40:06.980392Z"
+        "scored_at": "2026-08-17T20:42:02.132731Z"
       }
     },
     {
@@ -1542,15 +1625,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6411,
-      "importance": 0.6411,
-      "importance_score": 0.6411,
+      "score": 0.6386,
+      "importance": 0.6386,
+      "importance_score": 0.6386,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.9574,
+        "recency": 0.9433,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1575,7 +1658,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T19:40:06.980392Z"
+        "scored_at": "2026-08-17T20:42:02.132731Z"
       }
     },
     {
@@ -1623,15 +1706,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7419,
-      "importance": 0.7419,
-      "importance_score": 0.7419,
+      "score": 0.7396,
+      "importance": 0.7396,
+      "importance_score": 0.7396,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8571,
+        "recency": 0.8444,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1656,7 +1739,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T19:40:06.980392Z"
+        "scored_at": "2026-08-17T20:42:02.132731Z"
       }
     },
     {
@@ -1732,15 +1815,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6192,
-      "importance": 0.6192,
-      "importance_score": 0.6192,
+      "score": 0.6168,
+      "importance": 0.6168,
+      "importance_score": 0.6168,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5328,
         "source_tier": 0.58,
         "ai_relevance": 0.74,
-        "recency": 0.8819,
+        "recency": 0.8689,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1765,7 +1848,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T19:40:06.980392Z"
+        "scored_at": "2026-08-17T20:42:02.132731Z"
       }
     },
     {
@@ -1928,15 +2011,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6158,
-      "importance": 0.6158,
-      "importance_score": 0.6158,
+      "score": 0.6133,
+      "importance": 0.6133,
+      "importance_score": 0.6133,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9725,
+        "recency": 0.9581,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1961,88 +2044,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T19:40:06.980392Z"
-      }
-    },
-    {
-      "story_id": "story_d11d05f89a66",
-      "title": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
-      "url": "https://www.aibase.com/news/30401",
-      "primary_url": "https://www.aibase.com/news/30401",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d736d87029511dac5e26a44965814f519559f722",
-          "title": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
-          "title_zh": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
-          "title_en": null,
-          "title_original": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30401",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T08:58:43.046363Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d736d87029511dac5e26a44965814f519559f722",
-          "title": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
-          "title_zh": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
-          "title_en": null,
-          "title_original": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30401",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T08:58:43.046363Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7419,
-      "importance": 0.7419,
-      "importance_score": 0.7419,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8571,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-17T08:58:43.046363Z",
-      "latest_at": "2026-08-17T08:58:43.046363Z",
-      "primary_item": {
-        "id": "d736d87029511dac5e26a44965814f519559f722",
-        "title": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
-        "title_zh": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
-        "title_en": null,
-        "title_original": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30401",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-17T19:40:06.980392Z"
+        "scored_at": "2026-08-17T20:42:02.132731Z"
       }
     }
   ]
