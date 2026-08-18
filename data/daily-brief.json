@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T05:43:19.196929Z",
+  "generated_at": "2026-08-18T07:01:39.332231Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8512,
-      "importance": 0.8512,
-      "importance_score": 0.8512,
+      "score": 0.8481,
+      "importance": 0.8481,
+      "importance_score": 0.8481,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8975,
+        "recency": 0.8807,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -170,7 +170,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T05:43:58.215439Z"
+        "scored_at": "2026-08-18T07:02:33.614062Z"
       }
     },
     {
@@ -218,15 +218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8359,
-      "importance": 0.8359,
-      "importance_score": 0.8359,
+      "score": 0.833,
+      "importance": 0.833,
+      "importance_score": 0.833,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8662,
+        "recency": 0.85,
         "story_heat": 0.0
       },
       "category": "official",
@@ -253,7 +253,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T05:43:58.215439Z"
+        "scored_at": "2026-08-18T07:02:33.614062Z"
       }
     },
     {
@@ -301,15 +301,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8116,
-      "importance": 0.8116,
-      "importance_score": 0.8116,
+      "score": 0.8089,
+      "importance": 0.8089,
+      "importance_score": 0.8089,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8202,
+        "recency": 0.8049,
         "story_heat": 0.0
       },
       "category": "official",
@@ -336,7 +336,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T05:43:58.215439Z"
+        "scored_at": "2026-08-18T07:02:33.614062Z"
       }
     },
     {
@@ -500,15 +500,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8383,
-      "importance": 0.8383,
-      "importance_score": 0.8383,
+      "score": 0.8354,
+      "importance": 0.8354,
+      "importance_score": 0.8354,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8537,
+        "recency": 0.8377,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -535,7 +535,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T05:43:58.215439Z"
+        "scored_at": "2026-08-18T07:02:33.614062Z"
       }
     },
     {
@@ -583,15 +583,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8035,
-      "importance": 0.8035,
-      "importance_score": 0.8035,
+      "score": 0.8011,
+      "importance": 0.8011,
+      "importance_score": 0.8011,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7308,
+        "recency": 0.7171,
         "story_heat": 0.0
       },
       "category": "official",
@@ -618,7 +618,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T05:43:58.215439Z"
+        "scored_at": "2026-08-18T07:02:33.614062Z"
       }
     },
     {
@@ -666,15 +666,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7912,
-      "importance": 0.7912,
-      "importance_score": 0.7912,
+      "score": 0.7882,
+      "importance": 0.7882,
+      "importance_score": 0.7882,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9124,
+        "recency": 0.8954,
         "story_heat": 0.0
       },
       "category": "official",
@@ -700,30 +700,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T05:43:58.215439Z"
+        "scored_at": "2026-08-18T07:02:33.614062Z"
       }
     },
     {
-      "story_id": "story_3097bbbd907d",
-      "title": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
-      "url": "https://www.aibase.com/news/30426",
-      "primary_url": "https://www.aibase.com/news/30426",
+      "story_id": "story_f462fcedc46c",
+      "title": "AI版权危机再度升级：独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
+      "url": "https://www.aibase.com/news/30429",
+      "primary_url": "https://www.aibase.com/news/30429",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "48f4b70d03ab350b265876c89f22187a5f1e8baa",
-          "title": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
-          "title_zh": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
+          "id": "e32729d5292817c9c557c76fc9fdaad1bf706caf",
+          "title": "AI版权危机再度升级：独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
+          "title_zh": "AI版权危机再度升级：独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
           "title_en": null,
-          "title_original": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
+          "title_original": "AI版权危机再度升级：独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30426",
+          "url": "https://www.aibase.com/news/30429",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T03:55:31.245672Z"
+          "published_at": "2026-08-18T07:01:39.332231Z"
         }
       ],
       "source_count": 1,
@@ -732,31 +732,31 @@
       ],
       "items": [
         {
-          "id": "48f4b70d03ab350b265876c89f22187a5f1e8baa",
-          "title": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
-          "title_zh": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
+          "id": "e32729d5292817c9c557c76fc9fdaad1bf706caf",
+          "title": "AI版权危机再度升级：独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
+          "title_zh": "AI版权危机再度升级：独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
           "title_en": null,
-          "title_original": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
+          "title_original": "AI版权危机再度升级：独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30426",
+          "url": "https://www.aibase.com/news/30429",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T03:55:31.245672Z"
+          "published_at": "2026-08-18T07:01:39.332231Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.763,
-      "importance": 0.763,
-      "importance_score": 0.763,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9744,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -764,17 +764,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T03:55:31.245672Z",
-      "latest_at": "2026-08-18T03:55:31.245672Z",
+      "earliest_at": "2026-08-18T07:01:39.332231Z",
+      "latest_at": "2026-08-18T07:01:39.332231Z",
       "primary_item": {
-        "id": "48f4b70d03ab350b265876c89f22187a5f1e8baa",
-        "title": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
-        "title_zh": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
+        "id": "e32729d5292817c9c557c76fc9fdaad1bf706caf",
+        "title": "AI版权危机再度升级：独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
+        "title_zh": "AI版权危机再度升级：独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
         "title_en": null,
-        "title_original": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
+        "title_original": "AI版权危机再度升级：独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30426",
+        "url": "https://www.aibase.com/news/30429",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -782,7 +782,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T05:43:58.215439Z"
+        "scored_at": "2026-08-18T07:02:33.614062Z"
       }
     },
     {
@@ -830,21 +830,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7502,
-      "importance": 0.7502,
-      "importance_score": 0.7502,
+      "score": 0.7472,
+      "importance": 0.7472,
+      "importance_score": 0.7472,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9202,
+        "recency": 0.9031,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-17T23:58:00Z",
       "latest_at": "2026-08-17T23:58:00Z",
@@ -864,7 +863,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T05:43:58.215439Z"
+        "scored_at": "2026-08-18T07:02:33.614062Z"
       }
     },
     {
@@ -999,15 +998,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8085,
-      "importance": 0.8085,
-      "importance_score": 0.8085,
+      "score": 0.8057,
+      "importance": 0.8057,
+      "importance_score": 0.8057,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8439,
+        "recency": 0.8282,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1034,7 +1033,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T05:43:58.215439Z"
+        "scored_at": "2026-08-18T07:02:33.614062Z"
       }
     },
     {
@@ -1082,15 +1081,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7431,
-      "importance": 0.7431,
-      "importance_score": 0.7431,
+      "score": 0.7405,
+      "importance": 0.7405,
+      "importance_score": 0.7405,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7807,
+        "recency": 0.7661,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1115,7 +1114,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T05:43:58.215439Z"
+        "scored_at": "2026-08-18T07:02:33.614062Z"
+      }
+    },
+    {
+      "story_id": "story_d9aa06247ab9",
+      "title": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+      "url": "https://www.aibase.com/news/30431",
+      "primary_url": "https://www.aibase.com/news/30431",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "aa64c063cf86b84c711d9b04470f33442e1ff350",
+          "title": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+          "title_zh": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+          "title_en": null,
+          "title_original": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30431",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T07:01:39.332231Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "aa64c063cf86b84c711d9b04470f33442e1ff350",
+          "title": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+          "title_zh": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+          "title_en": null,
+          "title_original": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30431",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T07:01:39.332231Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T07:01:39.332231Z",
+      "latest_at": "2026-08-18T07:01:39.332231Z",
+      "primary_item": {
+        "id": "aa64c063cf86b84c711d9b04470f33442e1ff350",
+        "title": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+        "title_zh": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+        "title_en": null,
+        "title_original": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30431",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-18T07:02:33.614062Z"
       }
     },
     {
@@ -1163,15 +1244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7343,
-      "importance": 0.7343,
-      "importance_score": 0.7343,
+      "score": 0.7317,
+      "importance": 0.7317,
+      "importance_score": 0.7317,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7818,
+        "recency": 0.7672,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1196,89 +1277,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T05:43:58.215439Z"
-      }
-    },
-    {
-      "story_id": "story_350c554c9760",
-      "title": "企业微信5.0.10打通AI Agent，十大办公能力全面开放",
-      "url": "https://www.aibase.com/news/30425",
-      "primary_url": "https://www.aibase.com/news/30425",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "72d49b34813673901937a3d3c2c713f703fc79a5",
-          "title": "企业微信5.0.10打通AI Agent，十大办公能力全面开放",
-          "title_zh": "企业微信5.0.10打通AI Agent，十大办公能力全面开放",
-          "title_en": null,
-          "title_original": "企业微信5.0.10打通AI Agent，十大办公能力全面开放",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30425",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T03:55:31.245672Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "72d49b34813673901937a3d3c2c713f703fc79a5",
-          "title": "企业微信5.0.10打通AI Agent，十大办公能力全面开放",
-          "title_zh": "企业微信5.0.10打通AI Agent，十大办公能力全面开放",
-          "title_en": null,
-          "title_original": "企业微信5.0.10打通AI Agent，十大办公能力全面开放",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30425",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T03:55:31.245672Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.763,
-      "importance": 0.763,
-      "importance_score": 0.763,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9744,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T03:55:31.245672Z",
-      "latest_at": "2026-08-18T03:55:31.245672Z",
-      "primary_item": {
-        "id": "72d49b34813673901937a3d3c2c713f703fc79a5",
-        "title": "企业微信5.0.10打通AI Agent，十大办公能力全面开放",
-        "title_zh": "企业微信5.0.10打通AI Agent，十大办公能力全面开放",
-        "title_en": null,
-        "title_original": "企业微信5.0.10打通AI Agent，十大办公能力全面开放",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30425",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-18T05:43:58.215439Z"
+        "scored_at": "2026-08-18T07:02:33.614062Z"
       }
     },
     {
@@ -1326,15 +1325,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7308,
-      "importance": 0.7308,
-      "importance_score": 0.7308,
+      "score": 0.7282,
+      "importance": 0.7282,
+      "importance_score": 0.7282,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.779,
+        "recency": 0.7644,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1359,30 +1358,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T05:43:58.215439Z"
+        "scored_at": "2026-08-18T07:02:33.614062Z"
       }
     },
     {
-      "story_id": "story_a8e593f081cc",
-      "title": "\"先生成后治理\"：AI 垃圾淹没互联网，科技巨头终于动手大扫除",
-      "url": "https://www.aibase.com/news/30420",
-      "primary_url": "https://www.aibase.com/news/30420",
+      "story_id": "story_fc4e0e382fad",
+      "title": "昆仑万维发布Mureka V9.5:AI音乐告别“机械堆砌”，转向“人情味”创作",
+      "url": "https://www.aibase.com/news/30430",
+      "primary_url": "https://www.aibase.com/news/30430",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "27629c58575dfdb786e35467e371eb1057688f83",
-          "title": "\"先生成后治理\"：AI 垃圾淹没互联网，科技巨头终于动手大扫除",
-          "title_zh": "\"先生成后治理\"：AI 垃圾淹没互联网，科技巨头终于动手大扫除",
+          "id": "f5d061329e7385e90f28c1d65e7dcd27233423e1",
+          "title": "昆仑万维发布Mureka V9.5:AI音乐告别“机械堆砌”，转向“人情味”创作",
+          "title_zh": "昆仑万维发布Mureka V9.5:AI音乐告别“机械堆砌”，转向“人情味”创作",
           "title_en": null,
-          "title_original": "\"先生成后治理\"：AI 垃圾淹没互联网，科技巨头终于动手大扫除",
+          "title_original": "昆仑万维发布Mureka V9.5:AI音乐告别“机械堆砌”，转向“人情味”创作",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30420",
+          "url": "https://www.aibase.com/news/30430",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T03:07:00.485889Z"
+          "published_at": "2026-08-18T07:01:39.332231Z"
         }
       ],
       "source_count": 1,
@@ -1391,31 +1390,31 @@
       ],
       "items": [
         {
-          "id": "27629c58575dfdb786e35467e371eb1057688f83",
-          "title": "\"先生成后治理\"：AI 垃圾淹没互联网，科技巨头终于动手大扫除",
-          "title_zh": "\"先生成后治理\"：AI 垃圾淹没互联网，科技巨头终于动手大扫除",
+          "id": "f5d061329e7385e90f28c1d65e7dcd27233423e1",
+          "title": "昆仑万维发布Mureka V9.5:AI音乐告别“机械堆砌”，转向“人情味”创作",
+          "title_zh": "昆仑万维发布Mureka V9.5:AI音乐告别“机械堆砌”，转向“人情味”创作",
           "title_en": null,
-          "title_original": "\"先生成后治理\"：AI 垃圾淹没互联网，科技巨头终于动手大扫除",
+          "title_original": "昆仑万维发布Mureka V9.5:AI音乐告别“机械堆砌”，转向“人情味”创作",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30420",
+          "url": "https://www.aibase.com/news/30430",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T03:07:00.485889Z"
+          "published_at": "2026-08-18T07:01:39.332231Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.761,
-      "importance": 0.761,
-      "importance_score": 0.761,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9631,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1423,17 +1422,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T03:07:00.485889Z",
-      "latest_at": "2026-08-18T03:07:00.485889Z",
+      "earliest_at": "2026-08-18T07:01:39.332231Z",
+      "latest_at": "2026-08-18T07:01:39.332231Z",
       "primary_item": {
-        "id": "27629c58575dfdb786e35467e371eb1057688f83",
-        "title": "\"先生成后治理\"：AI 垃圾淹没互联网，科技巨头终于动手大扫除",
-        "title_zh": "\"先生成后治理\"：AI 垃圾淹没互联网，科技巨头终于动手大扫除",
+        "id": "f5d061329e7385e90f28c1d65e7dcd27233423e1",
+        "title": "昆仑万维发布Mureka V9.5:AI音乐告别“机械堆砌”，转向“人情味”创作",
+        "title_zh": "昆仑万维发布Mureka V9.5:AI音乐告别“机械堆砌”，转向“人情味”创作",
         "title_en": null,
-        "title_original": "\"先生成后治理\"：AI 垃圾淹没互联网，科技巨头终于动手大扫除",
+        "title_original": "昆仑万维发布Mureka V9.5:AI音乐告别“机械堆砌”，转向“人情味”创作",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30420",
+        "url": "https://www.aibase.com/news/30430",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1441,30 +1440,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T05:43:58.215439Z"
+        "scored_at": "2026-08-18T07:02:33.614062Z"
       }
     },
     {
-      "story_id": "story_011d89a45a9d",
-      "title": "ChatGPT macOS新增“计算机历史”，可记录用户工作轨迹",
-      "url": "https://www.aibase.com/news/30421",
-      "primary_url": "https://www.aibase.com/news/30421",
+      "story_id": "story_624d4bfb7a04",
+      "title": "生产级RAG与Agent可视化平台Ollmo v0.1. 0 正式发布",
+      "url": "https://www.aibase.com/news/30427",
+      "primary_url": "https://www.aibase.com/news/30427",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "da43e6c6e104ea4b1e1c1aae04e23b67c8315033",
-          "title": "ChatGPT macOS新增“计算机历史”，可记录用户工作轨迹",
-          "title_zh": "ChatGPT macOS新增“计算机历史”，可记录用户工作轨迹",
+          "id": "aa2dc6b2caa08f5a6d1dcd05457df6bd3c78829a",
+          "title": "生产级RAG与Agent可视化平台Ollmo v0.1. 0 正式发布",
+          "title_zh": "生产级RAG与Agent可视化平台Ollmo v0.1. 0 正式发布",
           "title_en": null,
-          "title_original": "ChatGPT macOS新增“计算机历史”，可记录用户工作轨迹",
+          "title_original": "生产级RAG与Agent可视化平台Ollmo v0.1. 0 正式发布",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30421",
+          "url": "https://www.aibase.com/news/30427",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T03:07:00.485889Z"
+          "published_at": "2026-08-18T07:01:39.332231Z"
         }
       ],
       "source_count": 1,
@@ -1473,31 +1472,31 @@
       ],
       "items": [
         {
-          "id": "da43e6c6e104ea4b1e1c1aae04e23b67c8315033",
-          "title": "ChatGPT macOS新增“计算机历史”，可记录用户工作轨迹",
-          "title_zh": "ChatGPT macOS新增“计算机历史”，可记录用户工作轨迹",
+          "id": "aa2dc6b2caa08f5a6d1dcd05457df6bd3c78829a",
+          "title": "生产级RAG与Agent可视化平台Ollmo v0.1. 0 正式发布",
+          "title_zh": "生产级RAG与Agent可视化平台Ollmo v0.1. 0 正式发布",
           "title_en": null,
-          "title_original": "ChatGPT macOS新增“计算机历史”，可记录用户工作轨迹",
+          "title_original": "生产级RAG与Agent可视化平台Ollmo v0.1. 0 正式发布",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30421",
+          "url": "https://www.aibase.com/news/30427",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T03:07:00.485889Z"
+          "published_at": "2026-08-18T07:01:39.332231Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.761,
-      "importance": 0.761,
-      "importance_score": 0.761,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9631,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1505,17 +1504,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T03:07:00.485889Z",
-      "latest_at": "2026-08-18T03:07:00.485889Z",
+      "earliest_at": "2026-08-18T07:01:39.332231Z",
+      "latest_at": "2026-08-18T07:01:39.332231Z",
       "primary_item": {
-        "id": "da43e6c6e104ea4b1e1c1aae04e23b67c8315033",
-        "title": "ChatGPT macOS新增“计算机历史”，可记录用户工作轨迹",
-        "title_zh": "ChatGPT macOS新增“计算机历史”，可记录用户工作轨迹",
+        "id": "aa2dc6b2caa08f5a6d1dcd05457df6bd3c78829a",
+        "title": "生产级RAG与Agent可视化平台Ollmo v0.1. 0 正式发布",
+        "title_zh": "生产级RAG与Agent可视化平台Ollmo v0.1. 0 正式发布",
         "title_en": null,
-        "title_original": "ChatGPT macOS新增“计算机历史”，可记录用户工作轨迹",
+        "title_original": "生产级RAG与Agent可视化平台Ollmo v0.1. 0 正式发布",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30421",
+        "url": "https://www.aibase.com/news/30427",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1523,30 +1522,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T05:43:58.215439Z"
+        "scored_at": "2026-08-18T07:02:33.614062Z"
       }
     },
     {
-      "story_id": "story_7d6fb4da2bc8",
-      "title": "Reddit测试AI视频功能，将文本帖子转为音视频内容",
-      "url": "https://www.aibase.com/news/30419",
-      "primary_url": "https://www.aibase.com/news/30419",
+      "story_id": "story_77ae5c05c362",
+      "title": "雷鸟 iO 系列 8 月 21 日发布，主打\"人类增强 AI 眼镜\"",
+      "url": "https://www.aibase.com/news/30428",
+      "primary_url": "https://www.aibase.com/news/30428",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "b008d6862fe519efe75eabc5f3a3e28222cd89f0",
-          "title": "Reddit测试AI视频功能，将文本帖子转为音视频内容",
-          "title_zh": "Reddit测试AI视频功能，将文本帖子转为音视频内容",
+          "id": "0177b4fd999a473a4c0f8ef04feb4d93336e40e3",
+          "title": "雷鸟 iO 系列 8 月 21 日发布，主打\"人类增强 AI 眼镜\"",
+          "title_zh": "雷鸟 iO 系列 8 月 21 日发布，主打\"人类增强 AI 眼镜\"",
           "title_en": null,
-          "title_original": "Reddit测试AI视频功能，将文本帖子转为音视频内容",
+          "title_original": "雷鸟 iO 系列 8 月 21 日发布，主打\"人类增强 AI 眼镜\"",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30419",
+          "url": "https://www.aibase.com/news/30428",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T03:07:00.485889Z"
+          "published_at": "2026-08-18T07:01:39.332231Z"
         }
       ],
       "source_count": 1,
@@ -1555,31 +1554,31 @@
       ],
       "items": [
         {
-          "id": "b008d6862fe519efe75eabc5f3a3e28222cd89f0",
-          "title": "Reddit测试AI视频功能，将文本帖子转为音视频内容",
-          "title_zh": "Reddit测试AI视频功能，将文本帖子转为音视频内容",
+          "id": "0177b4fd999a473a4c0f8ef04feb4d93336e40e3",
+          "title": "雷鸟 iO 系列 8 月 21 日发布，主打\"人类增强 AI 眼镜\"",
+          "title_zh": "雷鸟 iO 系列 8 月 21 日发布，主打\"人类增强 AI 眼镜\"",
           "title_en": null,
-          "title_original": "Reddit测试AI视频功能，将文本帖子转为音视频内容",
+          "title_original": "雷鸟 iO 系列 8 月 21 日发布，主打\"人类增强 AI 眼镜\"",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30419",
+          "url": "https://www.aibase.com/news/30428",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T03:07:00.485889Z"
+          "published_at": "2026-08-18T07:01:39.332231Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.761,
-      "importance": 0.761,
-      "importance_score": 0.761,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9631,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1587,17 +1586,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T03:07:00.485889Z",
-      "latest_at": "2026-08-18T03:07:00.485889Z",
+      "earliest_at": "2026-08-18T07:01:39.332231Z",
+      "latest_at": "2026-08-18T07:01:39.332231Z",
       "primary_item": {
-        "id": "b008d6862fe519efe75eabc5f3a3e28222cd89f0",
-        "title": "Reddit测试AI视频功能，将文本帖子转为音视频内容",
-        "title_zh": "Reddit测试AI视频功能，将文本帖子转为音视频内容",
+        "id": "0177b4fd999a473a4c0f8ef04feb4d93336e40e3",
+        "title": "雷鸟 iO 系列 8 月 21 日发布，主打\"人类增强 AI 眼镜\"",
+        "title_zh": "雷鸟 iO 系列 8 月 21 日发布，主打\"人类增强 AI 眼镜\"",
         "title_en": null,
-        "title_original": "Reddit测试AI视频功能，将文本帖子转为音视频内容",
+        "title_original": "雷鸟 iO 系列 8 月 21 日发布，主打\"人类增强 AI 眼镜\"",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30419",
+        "url": "https://www.aibase.com/news/30428",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1605,7 +1604,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T05:43:58.215439Z"
+        "scored_at": "2026-08-18T07:02:33.614062Z"
       }
     },
     {
@@ -1682,15 +1681,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6178,
-      "importance": 0.6178,
-      "importance_score": 0.6178,
+      "score": 0.615,
+      "importance": 0.615,
+      "importance_score": 0.615,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.8279,
+        "recency": 0.8125,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1715,7 +1714,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T05:43:58.215439Z"
+        "scored_at": "2026-08-18T07:02:33.614062Z"
       }
     },
     {
@@ -1792,15 +1791,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6137,
-      "importance": 0.6137,
-      "importance_score": 0.6137,
+      "score": 0.611,
+      "importance": 0.611,
+      "importance_score": 0.611,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.8052,
+        "recency": 0.7902,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1825,30 +1824,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T05:43:58.215439Z"
+        "scored_at": "2026-08-18T07:02:33.614062Z"
       }
     },
     {
-      "story_id": "story_cc1076e5eaf3",
-      "title": "字节跳动联合清华AIR推出CUDA Agent：大模型如何学会编写比编译器更快的GPU内核",
-      "url": "https://www.aibase.com/news/30418",
-      "primary_url": "https://www.aibase.com/news/30418",
+      "story_id": "story_3097bbbd907d",
+      "title": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
+      "url": "https://www.aibase.com/news/30426",
+      "primary_url": "https://www.aibase.com/news/30426",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "344a1a7fed640588ca161b3c2efcd180f810dd31",
-          "title": "字节跳动联合清华AIR推出CUDA Agent：大模型如何学会编写比编译器更快的GPU内核",
-          "title_zh": "字节跳动联合清华AIR推出CUDA Agent：大模型如何学会编写比编译器更快的GPU内核",
+          "id": "48f4b70d03ab350b265876c89f22187a5f1e8baa",
+          "title": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
+          "title_zh": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
           "title_en": null,
-          "title_original": "字节跳动联合清华AIR推出CUDA Agent：大模型如何学会编写比编译器更快的GPU内核",
+          "title_original": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30418",
+          "url": "https://www.aibase.com/news/30426",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T03:07:00.485889Z"
+          "published_at": "2026-08-18T03:55:31.245672Z"
         }
       ],
       "source_count": 1,
@@ -1857,31 +1856,31 @@
       ],
       "items": [
         {
-          "id": "344a1a7fed640588ca161b3c2efcd180f810dd31",
-          "title": "字节跳动联合清华AIR推出CUDA Agent：大模型如何学会编写比编译器更快的GPU内核",
-          "title_zh": "字节跳动联合清华AIR推出CUDA Agent：大模型如何学会编写比编译器更快的GPU内核",
+          "id": "48f4b70d03ab350b265876c89f22187a5f1e8baa",
+          "title": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
+          "title_zh": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
           "title_en": null,
-          "title_original": "字节跳动联合清华AIR推出CUDA Agent：大模型如何学会编写比编译器更快的GPU内核",
+          "title_original": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30418",
+          "url": "https://www.aibase.com/news/30426",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T03:07:00.485889Z"
+          "published_at": "2026-08-18T03:55:31.245672Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.761,
-      "importance": 0.761,
-      "importance_score": 0.761,
+      "score": 0.7597,
+      "importance": 0.7597,
+      "importance_score": 0.7597,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9631,
+        "recency": 0.9562,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1889,17 +1888,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T03:07:00.485889Z",
-      "latest_at": "2026-08-18T03:07:00.485889Z",
+      "earliest_at": "2026-08-18T03:55:31.245672Z",
+      "latest_at": "2026-08-18T03:55:31.245672Z",
       "primary_item": {
-        "id": "344a1a7fed640588ca161b3c2efcd180f810dd31",
-        "title": "字节跳动联合清华AIR推出CUDA Agent：大模型如何学会编写比编译器更快的GPU内核",
-        "title_zh": "字节跳动联合清华AIR推出CUDA Agent：大模型如何学会编写比编译器更快的GPU内核",
+        "id": "48f4b70d03ab350b265876c89f22187a5f1e8baa",
+        "title": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
+        "title_zh": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
         "title_en": null,
-        "title_original": "字节跳动联合清华AIR推出CUDA Agent：大模型如何学会编写比编译器更快的GPU内核",
+        "title_original": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30418",
+        "url": "https://www.aibase.com/news/30426",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1907,7 +1906,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T05:43:58.215439Z"
+        "scored_at": "2026-08-18T07:02:33.614062Z"
       }
     },
     {
@@ -1983,15 +1982,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5977,
-      "importance": 0.5977,
-      "importance_score": 0.5977,
+      "score": 0.5951,
+      "importance": 0.5951,
+      "importance_score": 0.5951,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5328,
         "source_tier": 0.58,
         "ai_relevance": 0.74,
-        "recency": 0.7626,
+        "recency": 0.7484,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2016,7 +2015,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T05:43:58.215439Z"
+        "scored_at": "2026-08-18T07:02:33.614062Z"
       }
     }
   ]
