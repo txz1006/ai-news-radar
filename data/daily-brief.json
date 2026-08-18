@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T07:01:39.332231Z",
+  "generated_at": "2026-08-18T07:51:28.996885Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8481,
-      "importance": 0.8481,
-      "importance_score": 0.8481,
+      "score": 0.8462,
+      "importance": 0.8462,
+      "importance_score": 0.8462,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8807,
+        "recency": 0.8702,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -170,7 +170,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T07:02:33.614062Z"
+        "scored_at": "2026-08-18T07:52:10.882738Z"
       }
     },
     {
@@ -218,15 +218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.833,
-      "importance": 0.833,
-      "importance_score": 0.833,
+      "score": 0.8312,
+      "importance": 0.8312,
+      "importance_score": 0.8312,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.85,
+        "recency": 0.8399,
         "story_heat": 0.0
       },
       "category": "official",
@@ -253,7 +253,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T07:02:33.614062Z"
+        "scored_at": "2026-08-18T07:52:10.882738Z"
       }
     },
     {
@@ -301,15 +301,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8089,
-      "importance": 0.8089,
-      "importance_score": 0.8089,
+      "score": 0.8072,
+      "importance": 0.8072,
+      "importance_score": 0.8072,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8049,
+        "recency": 0.7953,
         "story_heat": 0.0
       },
       "category": "official",
@@ -336,7 +336,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T07:02:33.614062Z"
+        "scored_at": "2026-08-18T07:52:10.882738Z"
       }
     },
     {
@@ -500,15 +500,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8354,
-      "importance": 0.8354,
-      "importance_score": 0.8354,
+      "score": 0.8336,
+      "importance": 0.8336,
+      "importance_score": 0.8336,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8377,
+        "recency": 0.8278,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -535,7 +535,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T07:02:33.614062Z"
+        "scored_at": "2026-08-18T07:52:10.882738Z"
       }
     },
     {
@@ -583,15 +583,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8011,
-      "importance": 0.8011,
-      "importance_score": 0.8011,
+      "score": 0.7995,
+      "importance": 0.7995,
+      "importance_score": 0.7995,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7171,
+        "recency": 0.7086,
         "story_heat": 0.0
       },
       "category": "official",
@@ -618,7 +618,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T07:02:33.614062Z"
+        "scored_at": "2026-08-18T07:52:10.882738Z"
       }
     },
     {
@@ -666,15 +666,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7882,
-      "importance": 0.7882,
-      "importance_score": 0.7882,
+      "score": 0.7862,
+      "importance": 0.7862,
+      "importance_score": 0.7862,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8954,
+        "recency": 0.8847,
         "story_heat": 0.0
       },
       "category": "official",
@@ -700,30 +700,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T07:02:33.614062Z"
+        "scored_at": "2026-08-18T07:52:10.882738Z"
       }
     },
     {
-      "story_id": "story_f462fcedc46c",
-      "title": "AI版权危机再度升级：独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
-      "url": "https://www.aibase.com/news/30429",
-      "primary_url": "https://www.aibase.com/news/30429",
+      "story_id": "story_c47c2f0e2f45",
+      "title": "OpenRouter宣布GPT-5.6Sol调用费用减半",
+      "url": "https://www.aibase.com/news/30433",
+      "primary_url": "https://www.aibase.com/news/30433",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e32729d5292817c9c557c76fc9fdaad1bf706caf",
-          "title": "AI版权危机再度升级：独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
-          "title_zh": "AI版权危机再度升级：独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
+          "id": "305298a37039d907b17569781c4a0c773bbe7c61",
+          "title": "OpenRouter宣布GPT-5.6Sol调用费用减半",
+          "title_zh": "OpenRouter宣布GPT-5.6Sol调用费用减半",
           "title_en": null,
-          "title_original": "AI版权危机再度升级：独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
+          "title_original": "OpenRouter宣布GPT-5.6Sol调用费用减半",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30429",
+          "url": "https://www.aibase.com/news/30433",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T07:01:39.332231Z"
+          "published_at": "2026-08-18T07:51:28.996885Z"
         }
       ],
       "source_count": 1,
@@ -732,18 +732,18 @@
       ],
       "items": [
         {
-          "id": "e32729d5292817c9c557c76fc9fdaad1bf706caf",
-          "title": "AI版权危机再度升级：独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
-          "title_zh": "AI版权危机再度升级：独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
+          "id": "305298a37039d907b17569781c4a0c773bbe7c61",
+          "title": "OpenRouter宣布GPT-5.6Sol调用费用减半",
+          "title_zh": "OpenRouter宣布GPT-5.6Sol调用费用减半",
           "title_en": null,
-          "title_original": "AI版权危机再度升级：独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
+          "title_original": "OpenRouter宣布GPT-5.6Sol调用费用减半",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30429",
+          "url": "https://www.aibase.com/news/30433",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T07:01:39.332231Z"
+          "published_at": "2026-08-18T07:51:28.996885Z"
         }
       ],
       "item_count": 1,
@@ -764,17 +764,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T07:01:39.332231Z",
-      "latest_at": "2026-08-18T07:01:39.332231Z",
+      "earliest_at": "2026-08-18T07:51:28.996885Z",
+      "latest_at": "2026-08-18T07:51:28.996885Z",
       "primary_item": {
-        "id": "e32729d5292817c9c557c76fc9fdaad1bf706caf",
-        "title": "AI版权危机再度升级：独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
-        "title_zh": "AI版权危机再度升级：独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
+        "id": "305298a37039d907b17569781c4a0c773bbe7c61",
+        "title": "OpenRouter宣布GPT-5.6Sol调用费用减半",
+        "title_zh": "OpenRouter宣布GPT-5.6Sol调用费用减半",
         "title_en": null,
-        "title_original": "AI版权危机再度升级：独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
+        "title_original": "OpenRouter宣布GPT-5.6Sol调用费用减半",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30429",
+        "url": "https://www.aibase.com/news/30433",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -782,7 +782,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T07:02:33.614062Z"
+        "scored_at": "2026-08-18T07:52:10.882738Z"
+      }
+    },
+    {
+      "story_id": "story_886d9637cc01",
+      "title": "设计 AI 评测：先求清晰，再谈可视化 / Designing AI Evals： Clarity Now and Visualization Next",
+      "url": "https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii",
+      "primary_url": "https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii",
+      "source": "Google AI：DEV 作者专属（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "28bd262ceb8bb8267ecb21c922badcfbb9b38bf5",
+          "title": "设计 AI 评测：先求清晰，再谈可视化 / Designing AI Evals： Clarity Now and Visualization Next",
+          "title_zh": "设计 AI 评测：先求清晰，再谈可视化",
+          "title_en": "Designing AI Evals： Clarity Now and Visualization Next",
+          "title_original": "Designing AI Evals： Clarity Now and Visualization Next",
+          "summary": "本文演示如何用开源评测框架 Inspect AI 和 Harbor 评估 agent 技能，并借助 Google Sheets 和 Data Studio 进行可视化分析。",
+          "recommend_reason_zh": null,
+          "url": "https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii",
+          "source": "Google AI：DEV 作者专属（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T07:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI：DEV 作者专属（RSS）"
+      ],
+      "items": [
+        {
+          "id": "28bd262ceb8bb8267ecb21c922badcfbb9b38bf5",
+          "title": "设计 AI 评测：先求清晰，再谈可视化 / Designing AI Evals： Clarity Now and Visualization Next",
+          "title_zh": "设计 AI 评测：先求清晰，再谈可视化",
+          "title_en": "Designing AI Evals： Clarity Now and Visualization Next",
+          "title_original": "Designing AI Evals： Clarity Now and Visualization Next",
+          "summary": "本文演示如何用开源评测框架 Inspect AI 和 Harbor 评估 agent 技能，并借助 Google Sheets 和 Data Studio 进行可视化分析。",
+          "recommend_reason_zh": null,
+          "url": "https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii",
+          "source": "Google AI：DEV 作者专属（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T07:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7504,
+      "importance": 0.7504,
+      "importance_score": 0.7504,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9877,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T07:00:00Z",
+      "latest_at": "2026-08-18T07:00:00Z",
+      "primary_item": {
+        "id": "28bd262ceb8bb8267ecb21c922badcfbb9b38bf5",
+        "title": "设计 AI 评测：先求清晰，再谈可视化 / Designing AI Evals： Clarity Now and Visualization Next",
+        "title_zh": "设计 AI 评测：先求清晰，再谈可视化",
+        "title_en": "Designing AI Evals： Clarity Now and Visualization Next",
+        "title_original": "Designing AI Evals： Clarity Now and Visualization Next",
+        "summary": "本文演示如何用开源评测框架 Inspect AI 和 Harbor 评估 agent 技能，并借助 Google Sheets 和 Data Studio 进行可视化分析。",
+        "recommend_reason_zh": null,
+        "url": "https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii",
+        "source": "Google AI：DEV 作者专属（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-18T07:52:10.882738Z"
       }
     },
     {
@@ -830,15 +912,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7472,
-      "importance": 0.7472,
-      "importance_score": 0.7472,
+      "score": 0.7452,
+      "importance": 0.7452,
+      "importance_score": 0.7452,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9031,
+        "recency": 0.8923,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -863,7 +945,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T07:02:33.614062Z"
+        "scored_at": "2026-08-18T07:52:10.882738Z"
       }
     },
     {
@@ -918,8 +1000,8 @@
         },
         {
           "id": "aef8a9ee8fb759654a135a61e0f52fd6c33fc2a7",
-          "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南 / How to disable or avoid intrusive AI",
-          "title_zh": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
+          "title": "如何禁用或避免侵入式人工智能 / How to disable or avoid intrusive AI",
+          "title_zh": "如何禁用或避免侵入式人工智能",
           "title_en": "How to disable or avoid intrusive AI",
           "title_original": "How to disable or avoid intrusive AI",
           "summary": null,
@@ -983,8 +1065,8 @@
         },
         {
           "id": "aef8a9ee8fb759654a135a61e0f52fd6c33fc2a7",
-          "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南 / How to disable or avoid intrusive AI",
-          "title_zh": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
+          "title": "如何禁用或避免侵入式人工智能 / How to disable or avoid intrusive AI",
+          "title_zh": "如何禁用或避免侵入式人工智能",
           "title_en": "How to disable or avoid intrusive AI",
           "title_original": "How to disable or avoid intrusive AI",
           "summary": null,
@@ -998,15 +1080,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8057,
-      "importance": 0.8057,
-      "importance_score": 0.8057,
+      "score": 0.8039,
+      "importance": 0.8039,
+      "importance_score": 0.8039,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8282,
+        "recency": 0.8183,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1033,7 +1115,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T07:02:33.614062Z"
+        "scored_at": "2026-08-18T07:52:10.882738Z"
       }
     },
     {
@@ -1081,15 +1163,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7405,
-      "importance": 0.7405,
-      "importance_score": 0.7405,
+      "score": 0.7389,
+      "importance": 0.7389,
+      "importance_score": 0.7389,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7661,
+        "recency": 0.757,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1114,30 +1196,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T07:02:33.614062Z"
+        "scored_at": "2026-08-18T07:52:10.882738Z"
       }
     },
     {
-      "story_id": "story_d9aa06247ab9",
-      "title": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
-      "url": "https://www.aibase.com/news/30431",
-      "primary_url": "https://www.aibase.com/news/30431",
+      "story_id": "story_4dcfda21a6fc",
+      "title": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
+      "url": "https://www.aibase.com/news/30432",
+      "primary_url": "https://www.aibase.com/news/30432",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "aa64c063cf86b84c711d9b04470f33442e1ff350",
-          "title": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
-          "title_zh": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+          "id": "597ed88674a898548c4f5920b32a5572603d64e3",
+          "title": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
+          "title_zh": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
           "title_en": null,
-          "title_original": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+          "title_original": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30431",
+          "url": "https://www.aibase.com/news/30432",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T07:01:39.332231Z"
+          "published_at": "2026-08-18T07:51:28.996885Z"
         }
       ],
       "source_count": 1,
@@ -1146,18 +1228,18 @@
       ],
       "items": [
         {
-          "id": "aa64c063cf86b84c711d9b04470f33442e1ff350",
-          "title": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
-          "title_zh": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+          "id": "597ed88674a898548c4f5920b32a5572603d64e3",
+          "title": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
+          "title_zh": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
           "title_en": null,
-          "title_original": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+          "title_original": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30431",
+          "url": "https://www.aibase.com/news/30432",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T07:01:39.332231Z"
+          "published_at": "2026-08-18T07:51:28.996885Z"
         }
       ],
       "item_count": 1,
@@ -1178,17 +1260,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T07:01:39.332231Z",
-      "latest_at": "2026-08-18T07:01:39.332231Z",
+      "earliest_at": "2026-08-18T07:51:28.996885Z",
+      "latest_at": "2026-08-18T07:51:28.996885Z",
       "primary_item": {
-        "id": "aa64c063cf86b84c711d9b04470f33442e1ff350",
-        "title": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
-        "title_zh": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+        "id": "597ed88674a898548c4f5920b32a5572603d64e3",
+        "title": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
+        "title_zh": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
         "title_en": null,
-        "title_original": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+        "title_original": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30431",
+        "url": "https://www.aibase.com/news/30432",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1196,7 +1278,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T07:02:33.614062Z"
+        "scored_at": "2026-08-18T07:52:10.882738Z"
       }
     },
     {
@@ -1244,15 +1326,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7317,
-      "importance": 0.7317,
-      "importance_score": 0.7317,
+      "score": 0.73,
+      "importance": 0.73,
+      "importance_score": 0.73,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7672,
+        "recency": 0.758,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1277,7 +1359,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T07:02:33.614062Z"
+        "scored_at": "2026-08-18T07:52:10.882738Z"
       }
     },
     {
@@ -1325,15 +1407,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7282,
-      "importance": 0.7282,
-      "importance_score": 0.7282,
+      "score": 0.7266,
+      "importance": 0.7266,
+      "importance_score": 0.7266,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7644,
+        "recency": 0.7553,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1358,30 +1440,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T07:02:33.614062Z"
+        "scored_at": "2026-08-18T07:52:10.882738Z"
       }
     },
     {
-      "story_id": "story_fc4e0e382fad",
-      "title": "昆仑万维发布Mureka V9.5:AI音乐告别“机械堆砌”，转向“人情味”创作",
-      "url": "https://www.aibase.com/news/30430",
-      "primary_url": "https://www.aibase.com/news/30430",
+      "story_id": "story_525b36aafcb4",
+      "title": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
+      "url": "https://www.aibase.com/news/30435",
+      "primary_url": "https://www.aibase.com/news/30435",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f5d061329e7385e90f28c1d65e7dcd27233423e1",
-          "title": "昆仑万维发布Mureka V9.5:AI音乐告别“机械堆砌”，转向“人情味”创作",
-          "title_zh": "昆仑万维发布Mureka V9.5:AI音乐告别“机械堆砌”，转向“人情味”创作",
+          "id": "17e8eb0524d244838f20ce6a3c312ed062890012",
+          "title": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
+          "title_zh": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
           "title_en": null,
-          "title_original": "昆仑万维发布Mureka V9.5:AI音乐告别“机械堆砌”，转向“人情味”创作",
+          "title_original": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30430",
+          "url": "https://www.aibase.com/news/30435",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T07:01:39.332231Z"
+          "published_at": "2026-08-18T07:51:28.996885Z"
         }
       ],
       "source_count": 1,
@@ -1390,18 +1472,18 @@
       ],
       "items": [
         {
-          "id": "f5d061329e7385e90f28c1d65e7dcd27233423e1",
-          "title": "昆仑万维发布Mureka V9.5:AI音乐告别“机械堆砌”，转向“人情味”创作",
-          "title_zh": "昆仑万维发布Mureka V9.5:AI音乐告别“机械堆砌”，转向“人情味”创作",
+          "id": "17e8eb0524d244838f20ce6a3c312ed062890012",
+          "title": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
+          "title_zh": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
           "title_en": null,
-          "title_original": "昆仑万维发布Mureka V9.5:AI音乐告别“机械堆砌”，转向“人情味”创作",
+          "title_original": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30430",
+          "url": "https://www.aibase.com/news/30435",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T07:01:39.332231Z"
+          "published_at": "2026-08-18T07:51:28.996885Z"
         }
       ],
       "item_count": 1,
@@ -1422,17 +1504,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T07:01:39.332231Z",
-      "latest_at": "2026-08-18T07:01:39.332231Z",
+      "earliest_at": "2026-08-18T07:51:28.996885Z",
+      "latest_at": "2026-08-18T07:51:28.996885Z",
       "primary_item": {
-        "id": "f5d061329e7385e90f28c1d65e7dcd27233423e1",
-        "title": "昆仑万维发布Mureka V9.5:AI音乐告别“机械堆砌”，转向“人情味”创作",
-        "title_zh": "昆仑万维发布Mureka V9.5:AI音乐告别“机械堆砌”，转向“人情味”创作",
+        "id": "17e8eb0524d244838f20ce6a3c312ed062890012",
+        "title": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
+        "title_zh": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
         "title_en": null,
-        "title_original": "昆仑万维发布Mureka V9.5:AI音乐告别“机械堆砌”，转向“人情味”创作",
+        "title_original": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30430",
+        "url": "https://www.aibase.com/news/30435",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1440,30 +1522,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T07:02:33.614062Z"
+        "scored_at": "2026-08-18T07:52:10.882738Z"
       }
     },
     {
-      "story_id": "story_624d4bfb7a04",
-      "title": "生产级RAG与Agent可视化平台Ollmo v0.1. 0 正式发布",
-      "url": "https://www.aibase.com/news/30427",
-      "primary_url": "https://www.aibase.com/news/30427",
+      "story_id": "story_34a8c6a0add1",
+      "title": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
+      "url": "https://www.aibase.com/news/30434",
+      "primary_url": "https://www.aibase.com/news/30434",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "aa2dc6b2caa08f5a6d1dcd05457df6bd3c78829a",
-          "title": "生产级RAG与Agent可视化平台Ollmo v0.1. 0 正式发布",
-          "title_zh": "生产级RAG与Agent可视化平台Ollmo v0.1. 0 正式发布",
+          "id": "f83591abed7de311be34b00e2db89cff34da7523",
+          "title": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
+          "title_zh": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
           "title_en": null,
-          "title_original": "生产级RAG与Agent可视化平台Ollmo v0.1. 0 正式发布",
+          "title_original": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30427",
+          "url": "https://www.aibase.com/news/30434",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T07:01:39.332231Z"
+          "published_at": "2026-08-18T07:51:28.996885Z"
         }
       ],
       "source_count": 1,
@@ -1472,18 +1554,18 @@
       ],
       "items": [
         {
-          "id": "aa2dc6b2caa08f5a6d1dcd05457df6bd3c78829a",
-          "title": "生产级RAG与Agent可视化平台Ollmo v0.1. 0 正式发布",
-          "title_zh": "生产级RAG与Agent可视化平台Ollmo v0.1. 0 正式发布",
+          "id": "f83591abed7de311be34b00e2db89cff34da7523",
+          "title": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
+          "title_zh": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
           "title_en": null,
-          "title_original": "生产级RAG与Agent可视化平台Ollmo v0.1. 0 正式发布",
+          "title_original": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30427",
+          "url": "https://www.aibase.com/news/30434",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T07:01:39.332231Z"
+          "published_at": "2026-08-18T07:51:28.996885Z"
         }
       ],
       "item_count": 1,
@@ -1504,17 +1586,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T07:01:39.332231Z",
-      "latest_at": "2026-08-18T07:01:39.332231Z",
+      "earliest_at": "2026-08-18T07:51:28.996885Z",
+      "latest_at": "2026-08-18T07:51:28.996885Z",
       "primary_item": {
-        "id": "aa2dc6b2caa08f5a6d1dcd05457df6bd3c78829a",
-        "title": "生产级RAG与Agent可视化平台Ollmo v0.1. 0 正式发布",
-        "title_zh": "生产级RAG与Agent可视化平台Ollmo v0.1. 0 正式发布",
+        "id": "f83591abed7de311be34b00e2db89cff34da7523",
+        "title": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
+        "title_zh": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
         "title_en": null,
-        "title_original": "生产级RAG与Agent可视化平台Ollmo v0.1. 0 正式发布",
+        "title_original": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30427",
+        "url": "https://www.aibase.com/news/30434",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1522,26 +1604,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T07:02:33.614062Z"
+        "scored_at": "2026-08-18T07:52:10.882738Z"
       }
     },
     {
-      "story_id": "story_77ae5c05c362",
-      "title": "雷鸟 iO 系列 8 月 21 日发布，主打\"人类增强 AI 眼镜\"",
-      "url": "https://www.aibase.com/news/30428",
-      "primary_url": "https://www.aibase.com/news/30428",
+      "story_id": "story_f462fcedc46c",
+      "title": "AI版权危机再度升级：独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
+      "url": "https://www.aibase.com/news/30429",
+      "primary_url": "https://www.aibase.com/news/30429",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "0177b4fd999a473a4c0f8ef04feb4d93336e40e3",
-          "title": "雷鸟 iO 系列 8 月 21 日发布，主打\"人类增强 AI 眼镜\"",
-          "title_zh": "雷鸟 iO 系列 8 月 21 日发布，主打\"人类增强 AI 眼镜\"",
+          "id": "e32729d5292817c9c557c76fc9fdaad1bf706caf",
+          "title": "AI版权危机再度升级：独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
+          "title_zh": "AI版权危机再度升级：独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
           "title_en": null,
-          "title_original": "雷鸟 iO 系列 8 月 21 日发布，主打\"人类增强 AI 眼镜\"",
+          "title_original": "AI版权危机再度升级：独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30428",
+          "url": "https://www.aibase.com/news/30429",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1554,14 +1636,14 @@
       ],
       "items": [
         {
-          "id": "0177b4fd999a473a4c0f8ef04feb4d93336e40e3",
-          "title": "雷鸟 iO 系列 8 月 21 日发布，主打\"人类增强 AI 眼镜\"",
-          "title_zh": "雷鸟 iO 系列 8 月 21 日发布，主打\"人类增强 AI 眼镜\"",
+          "id": "e32729d5292817c9c557c76fc9fdaad1bf706caf",
+          "title": "AI版权危机再度升级：独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
+          "title_zh": "AI版权危机再度升级：独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
           "title_en": null,
-          "title_original": "雷鸟 iO 系列 8 月 21 日发布，主打\"人类增强 AI 眼镜\"",
+          "title_original": "AI版权危机再度升级：独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30428",
+          "url": "https://www.aibase.com/news/30429",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1570,15 +1652,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7655,
+      "importance": 0.7655,
+      "importance_score": 0.7655,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9881,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1589,14 +1671,14 @@
       "earliest_at": "2026-08-18T07:01:39.332231Z",
       "latest_at": "2026-08-18T07:01:39.332231Z",
       "primary_item": {
-        "id": "0177b4fd999a473a4c0f8ef04feb4d93336e40e3",
-        "title": "雷鸟 iO 系列 8 月 21 日发布，主打\"人类增强 AI 眼镜\"",
-        "title_zh": "雷鸟 iO 系列 8 月 21 日发布，主打\"人类增强 AI 眼镜\"",
+        "id": "e32729d5292817c9c557c76fc9fdaad1bf706caf",
+        "title": "AI版权危机再度升级：独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
+        "title_zh": "AI版权危机再度升级：独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
         "title_en": null,
-        "title_original": "雷鸟 iO 系列 8 月 21 日发布，主打\"人类增强 AI 眼镜\"",
+        "title_original": "AI版权危机再度升级：独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30428",
+        "url": "https://www.aibase.com/news/30429",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1604,7 +1686,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T07:02:33.614062Z"
+        "scored_at": "2026-08-18T07:52:10.882738Z"
+      }
+    },
+    {
+      "story_id": "story_d9aa06247ab9",
+      "title": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+      "url": "https://www.aibase.com/news/30431",
+      "primary_url": "https://www.aibase.com/news/30431",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "aa64c063cf86b84c711d9b04470f33442e1ff350",
+          "title": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+          "title_zh": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+          "title_en": null,
+          "title_original": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30431",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T07:01:39.332231Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "aa64c063cf86b84c711d9b04470f33442e1ff350",
+          "title": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+          "title_zh": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+          "title_en": null,
+          "title_original": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30431",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T07:01:39.332231Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7655,
+      "importance": 0.7655,
+      "importance_score": 0.7655,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9881,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T07:01:39.332231Z",
+      "latest_at": "2026-08-18T07:01:39.332231Z",
+      "primary_item": {
+        "id": "aa64c063cf86b84c711d9b04470f33442e1ff350",
+        "title": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+        "title_zh": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+        "title_en": null,
+        "title_original": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30431",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-18T07:52:10.882738Z"
       }
     },
     {
@@ -1681,15 +1845,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.615,
-      "importance": 0.615,
-      "importance_score": 0.615,
+      "score": 0.6133,
+      "importance": 0.6133,
+      "importance_score": 0.6133,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.8125,
+        "recency": 0.8028,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1714,7 +1878,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T07:02:33.614062Z"
+        "scored_at": "2026-08-18T07:52:10.882738Z"
       }
     },
     {
@@ -1791,15 +1955,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.611,
-      "importance": 0.611,
-      "importance_score": 0.611,
+      "score": 0.6093,
+      "importance": 0.6093,
+      "importance_score": 0.6093,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.7902,
+        "recency": 0.7807,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1824,198 +1988,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T07:02:33.614062Z"
-      }
-    },
-    {
-      "story_id": "story_3097bbbd907d",
-      "title": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
-      "url": "https://www.aibase.com/news/30426",
-      "primary_url": "https://www.aibase.com/news/30426",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "48f4b70d03ab350b265876c89f22187a5f1e8baa",
-          "title": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
-          "title_zh": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
-          "title_en": null,
-          "title_original": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30426",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T03:55:31.245672Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "48f4b70d03ab350b265876c89f22187a5f1e8baa",
-          "title": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
-          "title_zh": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
-          "title_en": null,
-          "title_original": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30426",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T03:55:31.245672Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7597,
-      "importance": 0.7597,
-      "importance_score": 0.7597,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9562,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T03:55:31.245672Z",
-      "latest_at": "2026-08-18T03:55:31.245672Z",
-      "primary_item": {
-        "id": "48f4b70d03ab350b265876c89f22187a5f1e8baa",
-        "title": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
-        "title_zh": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
-        "title_en": null,
-        "title_original": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30426",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-18T07:02:33.614062Z"
-      }
-    },
-    {
-      "story_id": "story_af54f92163bc",
-      "title": "Anthropic 解释了Claude的隐形文本水印的工作原理 / Anthropic explains how Claude&#8217;s invisible text watermarks will work",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-      "source": "The Verge",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "e4a1fa384e7dfe47c175c93347eded816acc40c2",
-          "title": "Anthropic 解释了Claude的隐形文本水印的工作原理 / Anthropic explains how Claude&#8217;s invisible text watermarks will work",
-          "title_zh": "Anthropic 解释了Claude的隐形文本水印的工作原理",
-          "title_en": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
-          "title_original": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-17T10:57:13Z"
-        },
-        {
-          "id": "7496fe78bb23935a420d21bbf52934a97a65e42b",
-          "title": "Anthropic 解释了Claude的隐形文本水印的工作原理 / Anthropic explains how Claude’s invisible text watermarks will work",
-          "title_zh": "Anthropic 解释了Claude的隐形文本水印的工作原理",
-          "title_en": "Anthropic explains how Claude’s invisible text watermarks will work",
-          "title_original": "Anthropic explains how Claude’s invisible text watermarks will work",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T10:57:13Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge"
-      ],
-      "items": [
-        {
-          "id": "e4a1fa384e7dfe47c175c93347eded816acc40c2",
-          "title": "Anthropic 解释了Claude的隐形文本水印的工作原理 / Anthropic explains how Claude&#8217;s invisible text watermarks will work",
-          "title_zh": "Anthropic 解释了Claude的隐形文本水印的工作原理",
-          "title_en": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
-          "title_original": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-17T10:57:13Z"
-        },
-        {
-          "id": "7496fe78bb23935a420d21bbf52934a97a65e42b",
-          "title": "Anthropic 解释了Claude的隐形文本水印的工作原理 / Anthropic explains how Claude’s invisible text watermarks will work",
-          "title_zh": "Anthropic 解释了Claude的隐形文本水印的工作原理",
-          "title_en": "Anthropic explains how Claude’s invisible text watermarks will work",
-          "title_original": "Anthropic explains how Claude’s invisible text watermarks will work",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T10:57:13Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5951,
-      "importance": 0.5951,
-      "importance_score": 0.5951,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5328,
-        "source_tier": 0.58,
-        "ai_relevance": 0.74,
-        "recency": 0.7484,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-17T10:57:13Z",
-      "latest_at": "2026-08-17T10:57:13Z",
-      "primary_item": {
-        "id": "e4a1fa384e7dfe47c175c93347eded816acc40c2",
-        "title": "Anthropic 解释了Claude的隐形文本水印的工作原理 / Anthropic explains how Claude&#8217;s invisible text watermarks will work",
-        "title_zh": "Anthropic 解释了Claude的隐形文本水印的工作原理",
-        "title_en": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
-        "title_original": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-        "source": "The Verge",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-18T07:02:33.614062Z"
+        "scored_at": "2026-08-18T07:52:10.882738Z"
       }
     }
   ]
