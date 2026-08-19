@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T14:51:02.421480Z",
+  "generated_at": "2026-08-19T15:44:06.543036Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8573,
-      "importance": 0.8573,
-      "importance_score": 0.8573,
+      "score": 0.8551,
+      "importance": 0.8551,
+      "importance_score": 0.8551,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9851,
+        "recency": 0.9726,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T14:51:49.798631Z"
+        "scored_at": "2026-08-19T15:44:44.348518Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8407,
-      "importance": 0.8407,
-      "importance_score": 0.8407,
+      "score": 0.8387,
+      "importance": 0.8387,
+      "importance_score": 0.8387,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8928,
+        "recency": 0.8815,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T14:51:49.798631Z"
+        "scored_at": "2026-08-19T15:44:44.348518Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8391,
-      "importance": 0.8391,
-      "importance_score": 0.8391,
+      "score": 0.8369,
+      "importance": 0.8369,
+      "importance_score": 0.8369,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9729,
+        "recency": 0.9606,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T14:51:49.798631Z"
+        "scored_at": "2026-08-19T15:44:44.348518Z"
       }
     },
     {
@@ -326,15 +326,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8385,
-      "importance": 0.8385,
-      "importance_score": 0.8385,
+      "score": 0.8368,
+      "importance": 0.8368,
+      "importance_score": 0.8368,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7417,
+        "recency": 0.7323,
         "story_heat": 0.25
       },
       "category": "official",
@@ -362,7 +362,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T14:51:49.798631Z"
+        "scored_at": "2026-08-19T15:44:44.348518Z"
       }
     },
     {
@@ -410,15 +410,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8211,
-      "importance": 0.8211,
-      "importance_score": 0.8211,
+      "score": 0.8193,
+      "importance": 0.8193,
+      "importance_score": 0.8193,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.784,
+        "recency": 0.7741,
         "story_heat": 0.0
       },
       "category": "official",
@@ -445,7 +445,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T14:51:49.798631Z"
+        "scored_at": "2026-08-19T15:44:44.348518Z"
       }
     },
     {
@@ -493,15 +493,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8163,
-      "importance": 0.8163,
-      "importance_score": 0.8163,
+      "score": 0.8145,
+      "importance": 0.8145,
+      "importance_score": 0.8145,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8018,
+        "recency": 0.7916,
         "story_heat": 0.0
       },
       "category": "official",
@@ -528,7 +528,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T14:51:49.798631Z"
+        "scored_at": "2026-08-19T15:44:44.348518Z"
       }
     },
     {
@@ -576,15 +576,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7572,
-      "importance": 0.7572,
-      "importance_score": 0.7572,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9424,
+        "recency": 0.9304,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -610,7 +610,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T14:51:49.798631Z"
+        "scored_at": "2026-08-19T15:44:44.348518Z"
       }
     },
     {
@@ -658,15 +658,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7561,
-      "importance": 0.7561,
-      "importance_score": 0.7561,
+      "score": 0.7542,
+      "importance": 0.7542,
+      "importance_score": 0.7542,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8194,
+        "recency": 0.809,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -692,7 +692,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T14:51:49.798631Z"
+        "scored_at": "2026-08-19T15:44:44.348518Z"
       }
     },
     {
@@ -740,15 +740,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8071,
-      "importance": 0.8071,
-      "importance_score": 0.8071,
+      "score": 0.8054,
+      "importance": 0.8054,
+      "importance_score": 0.8054,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7508,
+        "recency": 0.7412,
         "story_heat": 0.0
       },
       "category": "official",
@@ -775,7 +775,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T14:51:49.798631Z"
+        "scored_at": "2026-08-19T15:44:44.348518Z"
       }
     },
     {
@@ -823,15 +823,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.805,
-      "importance": 0.805,
-      "importance_score": 0.805,
+      "score": 0.8032,
+      "importance": 0.8032,
+      "importance_score": 0.8032,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7835,
+        "recency": 0.7736,
         "story_heat": 0.0
       },
       "category": "official",
@@ -858,7 +858,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T14:51:49.798631Z"
+        "scored_at": "2026-08-19T15:44:44.348518Z"
       }
     },
     {
@@ -906,15 +906,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7336,
-      "importance": 0.7336,
-      "importance_score": 0.7336,
+      "score": 0.7318,
+      "importance": 0.7318,
+      "importance_score": 0.7318,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7776,
+        "recency": 0.7678,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -939,7 +939,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T14:51:49.798631Z"
+        "scored_at": "2026-08-19T15:44:44.348518Z"
       }
     },
     {
@@ -987,15 +987,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7327,
-      "importance": 0.7327,
-      "importance_score": 0.7327,
+      "score": 0.7308,
+      "importance": 0.7308,
+      "importance_score": 0.7308,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7892,
+        "recency": 0.7792,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1020,7 +1020,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T14:51:49.798631Z"
+        "scored_at": "2026-08-19T15:44:44.348518Z"
       }
     },
     {
@@ -1097,15 +1097,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7289,
-      "importance": 0.7289,
-      "importance_score": 0.7289,
+      "score": 0.7272,
+      "importance": 0.7272,
+      "importance_score": 0.7272,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7628,
+        "recency": 0.7531,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1131,7 +1131,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T14:51:49.798631Z"
+        "scored_at": "2026-08-19T15:44:44.348518Z"
       }
     },
     {
@@ -1179,15 +1179,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7572,
-      "importance": 0.7572,
-      "importance_score": 0.7572,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9424,
+        "recency": 0.9304,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1213,7 +1213,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T14:51:49.798631Z"
+        "scored_at": "2026-08-19T15:44:44.348518Z"
       }
     },
     {
@@ -1261,15 +1261,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7506,
+      "importance": 0.7506,
+      "importance_score": 0.7506,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9173,
+        "recency": 0.9056,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1295,7 +1295,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T14:51:49.798631Z"
+        "scored_at": "2026-08-19T15:44:44.348518Z"
       }
     },
     {
@@ -1343,21 +1343,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.7483,
+      "importance": 0.7483,
+      "importance_score": 0.7483,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9041,
+        "recency": 0.8927,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-19T07:52:20.303878Z",
       "latest_at": "2026-08-19T07:52:20.303878Z",
@@ -1377,7 +1376,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T14:51:49.798631Z"
+        "scored_at": "2026-08-19T15:44:44.348518Z"
       }
     },
     {
@@ -1425,21 +1424,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.7483,
+      "importance": 0.7483,
+      "importance_score": 0.7483,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9041,
+        "recency": 0.8927,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-19T07:52:20.303878Z",
       "latest_at": "2026-08-19T07:52:20.303878Z",
@@ -1459,7 +1457,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T14:51:49.798631Z"
+        "scored_at": "2026-08-19T15:44:44.348518Z"
       }
     },
     {
@@ -1507,21 +1505,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.7483,
+      "importance": 0.7483,
+      "importance_score": 0.7483,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9041,
+        "recency": 0.8927,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-19T07:52:20.303878Z",
       "latest_at": "2026-08-19T07:52:20.303878Z",
@@ -1541,7 +1538,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T14:51:49.798631Z"
+        "scored_at": "2026-08-19T15:44:44.348518Z"
       }
     },
     {
@@ -1589,21 +1586,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.7483,
+      "importance": 0.7483,
+      "importance_score": 0.7483,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9041,
+        "recency": 0.8927,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-19T07:52:20.303878Z",
       "latest_at": "2026-08-19T07:52:20.303878Z",
@@ -1623,146 +1619,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T14:51:49.798631Z"
+        "scored_at": "2026-08-19T15:44:44.348518Z"
       }
     },
     {
-      "story_id": "story_44ee19ab3371",
-      "title": "软件团队中人工智能的使用模式",
-      "url": "https://linear.app/data",
-      "primary_url": "https://linear.app/data",
-      "source": "linear.app",
+      "story_id": "story_ea98d8ec85c1",
+      "title": "Show HN: 任何 HuggingFace 模型的交互式动画化架构",
+      "url": "https://modelmap.cc",
+      "primary_url": "https://modelmap.cc",
+      "source": "modelmap.cc",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "55bcf27114be24ad6c263a2ce0aedac53c03c8f2",
-          "title": "软件团队中人工智能的使用模式",
-          "title_zh": "软件团队中人工智能的使用模式",
+          "id": "bbf9ed8869a84a1686e549eda7323711347e035f",
+          "title": "Show HN: 任何 HuggingFace 模型的交互式动画化架构",
+          "title_zh": "Show HN: 任何 HuggingFace 模型的交互式动画化架构",
           "title_en": null,
-          "title_original": "软件团队中人工智能的使用模式",
+          "title_original": "Show HN: 任何 HuggingFace 模型的交互式动画化架构",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://linear.app/data",
-          "source": "linear.app",
+          "url": "https://modelmap.cc",
+          "source": "modelmap.cc",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-19T06:30:17.079000Z"
+          "published_at": "2026-08-19T14:46:17.538000Z"
         },
         {
-          "id": "55ebba5576bc5540b0256faf9603dbf918a81874",
-          "title": "软件团队中的人工智能使用模式 / AI usage patterns in software teams",
-          "title_zh": "软件团队中的人工智能使用模式",
-          "title_en": "AI usage patterns in software teams",
-          "title_original": "AI usage patterns in software teams",
+          "id": "b4b67ac97e0642a017c5a559fd2b1aa629d300b6",
+          "title": "Show HN：任何 HuggingFace 模型的交互式动画架构 / Show HN: Interactive, animated architecture of any HuggingFace models",
+          "title_zh": "Show HN：任何 HuggingFace 模型的交互式动画架构",
+          "title_en": "Show HN: Interactive, animated architecture of any HuggingFace models",
+          "title_original": "Show HN: Interactive, animated architecture of any HuggingFace models",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49353432",
+          "url": "https://news.ycombinator.com/item?id=49354664",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-08-19T01:37:37.013000Z"
         },
         {
-          "id": "c53520888ed24c045c12593fb6a1cc459c4dd426",
-          "title": "软件团队中人工智能的使用模式 / AI usage patterns in software teams",
-          "title_zh": "软件团队中人工智能的使用模式",
-          "title_en": "AI usage patterns in software teams",
-          "title_original": "AI usage patterns in software teams",
+          "id": "d721d9e46c122042220d433f88afb0e9d639ce21",
+          "title": "Show HN: 任何 HuggingFace 模型的交互式动画化架构 / Show HN: Interactive, animated architecture of any HuggingFace models",
+          "title_zh": "Show HN: 任何 HuggingFace 模型的交互式动画化架构",
+          "title_en": "Show HN: Interactive, animated architecture of any HuggingFace models",
+          "title_original": "Show HN: Interactive, animated architecture of any HuggingFace models",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://linear.app/data",
+          "url": "https://modelmap.cc",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-18T22:08:07Z"
+          "published_at": "2026-08-18T23:57:36Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "Hacker News · 24h最热",
         "hackernews",
-        "linear.app"
+        "modelmap.cc"
       ],
       "items": [
         {
-          "id": "55bcf27114be24ad6c263a2ce0aedac53c03c8f2",
-          "title": "软件团队中人工智能的使用模式",
-          "title_zh": "软件团队中人工智能的使用模式",
+          "id": "bbf9ed8869a84a1686e549eda7323711347e035f",
+          "title": "Show HN: 任何 HuggingFace 模型的交互式动画化架构",
+          "title_zh": "Show HN: 任何 HuggingFace 模型的交互式动画化架构",
           "title_en": null,
-          "title_original": "软件团队中人工智能的使用模式",
+          "title_original": "Show HN: 任何 HuggingFace 模型的交互式动画化架构",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://linear.app/data",
-          "source": "linear.app",
+          "url": "https://modelmap.cc",
+          "source": "modelmap.cc",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-19T06:30:17.079000Z"
+          "published_at": "2026-08-19T14:46:17.538000Z"
         },
         {
-          "id": "55ebba5576bc5540b0256faf9603dbf918a81874",
-          "title": "软件团队中的人工智能使用模式 / AI usage patterns in software teams",
-          "title_zh": "软件团队中的人工智能使用模式",
-          "title_en": "AI usage patterns in software teams",
-          "title_original": "AI usage patterns in software teams",
+          "id": "b4b67ac97e0642a017c5a559fd2b1aa629d300b6",
+          "title": "Show HN：任何 HuggingFace 模型的交互式动画架构 / Show HN: Interactive, animated architecture of any HuggingFace models",
+          "title_zh": "Show HN：任何 HuggingFace 模型的交互式动画架构",
+          "title_en": "Show HN: Interactive, animated architecture of any HuggingFace models",
+          "title_original": "Show HN: Interactive, animated architecture of any HuggingFace models",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49353432",
+          "url": "https://news.ycombinator.com/item?id=49354664",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-08-19T01:37:37.013000Z"
         },
         {
-          "id": "c53520888ed24c045c12593fb6a1cc459c4dd426",
-          "title": "软件团队中人工智能的使用模式 / AI usage patterns in software teams",
-          "title_zh": "软件团队中人工智能的使用模式",
-          "title_en": "AI usage patterns in software teams",
-          "title_original": "AI usage patterns in software teams",
+          "id": "d721d9e46c122042220d433f88afb0e9d639ce21",
+          "title": "Show HN: 任何 HuggingFace 模型的交互式动画化架构 / Show HN: Interactive, animated architecture of any HuggingFace models",
+          "title_zh": "Show HN: 任何 HuggingFace 模型的交互式动画化架构",
+          "title_en": "Show HN: Interactive, animated architecture of any HuggingFace models",
+          "title_original": "Show HN: Interactive, animated architecture of any HuggingFace models",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://linear.app/data",
+          "url": "https://modelmap.cc",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-18T22:08:07Z"
+          "published_at": "2026-08-18T23:57:36Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5504,
-      "importance": 0.5504,
-      "importance_score": 0.5504,
+      "score": 0.5683,
+      "importance": 0.5683,
+      "importance_score": 0.5683,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8865,
+        "recency": 0.9862,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-18T22:08:07Z",
-      "latest_at": "2026-08-19T06:30:17.079000Z",
+      "earliest_at": "2026-08-18T23:57:36Z",
+      "latest_at": "2026-08-19T14:46:17.538000Z",
       "primary_item": {
-        "id": "55bcf27114be24ad6c263a2ce0aedac53c03c8f2",
-        "title": "软件团队中人工智能的使用模式",
-        "title_zh": "软件团队中人工智能的使用模式",
+        "id": "bbf9ed8869a84a1686e549eda7323711347e035f",
+        "title": "Show HN: 任何 HuggingFace 模型的交互式动画化架构",
+        "title_zh": "Show HN: 任何 HuggingFace 模型的交互式动画化架构",
         "title_en": null,
-        "title_original": "软件团队中人工智能的使用模式",
+        "title_original": "Show HN: 任何 HuggingFace 模型的交互式动画化架构",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://linear.app/data",
-        "source": "linear.app",
+        "url": "https://modelmap.cc",
+        "source": "modelmap.cc",
         "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T14:51:49.798631Z"
+        "scored_at": "2026-08-19T15:44:44.348518Z"
       }
     }
   ]
