@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T10:37:36.999537Z",
+  "generated_at": "2026-08-22T11:33:06.806535Z",
   "window_hours": 24,
   "total_items": 18,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8098,
-      "importance": 0.8098,
-      "importance_score": 0.8098,
+      "score": 0.808,
+      "importance": 0.808,
+      "importance_score": 0.808,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7655,
+        "recency": 0.7553,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T10:39:39.401653Z"
+        "scored_at": "2026-08-22T11:33:49.353027Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7938,
-      "importance": 0.7938,
-      "importance_score": 0.7938,
+      "score": 0.7921,
+      "importance": 0.7921,
+      "importance_score": 0.7921,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7212,
+        "recency": 0.7117,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T10:39:39.401653Z"
+        "scored_at": "2026-08-22T11:33:49.353027Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8097,
-      "importance": 0.8097,
-      "importance_score": 0.8097,
+      "score": 0.8078,
+      "importance": 0.8078,
+      "importance_score": 0.8078,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7648,
+        "recency": 0.7547,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T10:39:39.401653Z"
+        "scored_at": "2026-08-22T11:33:49.353027Z"
       }
     },
     {
@@ -297,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8045,
-      "importance": 0.8045,
-      "importance_score": 0.8045,
+      "score": 0.8026,
+      "importance": 0.8026,
+      "importance_score": 0.8026,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7806,
+        "recency": 0.7703,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T10:39:39.401653Z"
+        "scored_at": "2026-08-22T11:33:49.353027Z"
       }
     },
     {
@@ -380,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7252,
-      "importance": 0.7252,
-      "importance_score": 0.7252,
+      "score": 0.7234,
+      "importance": 0.7234,
+      "importance_score": 0.7234,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7475,
+        "recency": 0.7376,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -413,7 +413,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T10:39:39.401653Z"
+        "scored_at": "2026-08-22T11:33:49.353027Z"
       }
     },
     {
@@ -490,18 +490,18 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7211,
-      "importance": 0.7211,
-      "importance_score": 0.7211,
-      "importance_label": "行业动态",
+      "score": 0.7192,
+      "importance": 0.7192,
+      "importance_score": 0.7192,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7863,
+        "recency": 0.7758,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "multi_source",
         "high_ai_relevance"
@@ -524,7 +524,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T10:39:39.401653Z"
+        "scored_at": "2026-08-22T11:33:49.353027Z"
       }
     },
     {
@@ -600,15 +600,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5842,
-      "importance": 0.5842,
-      "importance_score": 0.5842,
+      "score": 0.5823,
+      "importance": 0.5823,
+      "importance_score": 0.5823,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.8265,
+        "recency": 0.8155,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -633,7 +633,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T10:39:39.401653Z"
+        "scored_at": "2026-08-22T11:33:49.353027Z"
       }
     },
     {
@@ -767,15 +767,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5585,
-      "importance": 0.5585,
-      "importance_score": 0.5585,
+      "score": 0.5566,
+      "importance": 0.5566,
+      "importance_score": 0.5566,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7926,
+        "recency": 0.7821,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -800,7 +800,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T10:39:39.401653Z"
+        "scored_at": "2026-08-22T11:33:49.353027Z"
       }
     },
     {
@@ -935,15 +935,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5562,
-      "importance": 0.5562,
-      "importance_score": 0.5562,
+      "score": 0.5544,
+      "importance": 0.5544,
+      "importance_score": 0.5544,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7801,
+        "recency": 0.7697,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -968,7 +968,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T10:39:39.401653Z"
+        "scored_at": "2026-08-22T11:33:49.353027Z"
       }
     },
     {
@@ -1045,15 +1045,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.524,
-      "importance": 0.524,
-      "importance_score": 0.524,
+      "score": 0.5219,
+      "importance": 0.5219,
+      "importance_score": 0.5219,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8789,
+        "recency": 0.8673,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1078,7 +1078,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T10:39:39.401653Z"
+        "scored_at": "2026-08-22T11:33:49.353027Z"
       }
     },
     {
@@ -1155,15 +1155,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5115,
-      "importance": 0.5115,
-      "importance_score": 0.5115,
+      "score": 0.5096,
+      "importance": 0.5096,
+      "importance_score": 0.5096,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8096,
+        "recency": 0.7989,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1188,7 +1188,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T10:39:39.401653Z"
+        "scored_at": "2026-08-22T11:33:49.353027Z"
       }
     },
     {
@@ -1265,15 +1265,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.536,
-      "importance": 0.536,
-      "importance_score": 0.536,
+      "score": 0.5337,
+      "importance": 0.5337,
+      "importance_score": 0.5337,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9453,
+        "recency": 0.9328,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1298,7 +1298,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T10:39:39.401653Z"
+        "scored_at": "2026-08-22T11:33:49.353027Z"
       }
     },
     {
@@ -1375,15 +1375,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5046,
-      "importance": 0.5046,
-      "importance_score": 0.5046,
+      "score": 0.5028,
+      "importance": 0.5028,
+      "importance_score": 0.5028,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7711,
+        "recency": 0.7609,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1408,7 +1408,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T10:39:39.401653Z"
+        "scored_at": "2026-08-22T11:33:49.353027Z"
       }
     },
     {
@@ -1485,15 +1485,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4953,
-      "importance": 0.4953,
-      "importance_score": 0.4953,
+      "score": 0.4936,
+      "importance": 0.4936,
+      "importance_score": 0.4936,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7195,
+        "recency": 0.7099,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1518,7 +1518,7 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T10:39:39.401653Z"
+        "scored_at": "2026-08-22T11:33:49.353027Z"
       }
     },
     {
@@ -1595,15 +1595,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5129,
-      "importance": 0.5129,
-      "importance_score": 0.5129,
+      "score": 0.511,
+      "importance": 0.511,
+      "importance_score": 0.511,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8174,
+        "recency": 0.8066,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1628,7 +1628,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T10:39:39.401653Z"
+        "scored_at": "2026-08-22T11:33:49.353027Z"
       }
     },
     {
@@ -1705,15 +1705,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5085,
-      "importance": 0.5085,
-      "importance_score": 0.5085,
+      "score": 0.5066,
+      "importance": 0.5066,
+      "importance_score": 0.5066,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7926,
+        "recency": 0.7821,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1738,7 +1738,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T10:39:39.401653Z"
+        "scored_at": "2026-08-22T11:33:49.353027Z"
       }
     },
     {
@@ -1815,15 +1815,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5064,
-      "importance": 0.5064,
-      "importance_score": 0.5064,
+      "score": 0.5046,
+      "importance": 0.5046,
+      "importance_score": 0.5046,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7812,
+        "recency": 0.7709,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1848,7 +1848,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T10:39:39.401653Z"
+        "scored_at": "2026-08-22T11:33:49.353027Z"
       }
     },
     {
@@ -1925,15 +1925,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5024,
-      "importance": 0.5024,
-      "importance_score": 0.5024,
+      "score": 0.5006,
+      "importance": 0.5006,
+      "importance_score": 0.5006,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.759,
+        "recency": 0.7489,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1958,7 +1958,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T10:39:39.401653Z"
+        "scored_at": "2026-08-22T11:33:49.353027Z"
       }
     }
   ]
