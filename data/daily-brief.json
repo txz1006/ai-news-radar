@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-22T09:39:10.220479Z",
+  "generated_at": "2026-08-22T10:37:36.999537Z",
   "window_hours": 24,
-  "total_items": 19,
+  "total_items": 18,
   "items": [
     {
       "story_id": "story_f852499667bc",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8117,
-      "importance": 0.8117,
-      "importance_score": 0.8117,
+      "score": 0.8098,
+      "importance": 0.8098,
+      "importance_score": 0.8098,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7763,
+        "recency": 0.7655,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T09:39:55.690697Z"
+        "scored_at": "2026-08-22T10:39:39.401653Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7957,
-      "importance": 0.7957,
-      "importance_score": 0.7957,
+      "score": 0.7938,
+      "importance": 0.7938,
+      "importance_score": 0.7938,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7314,
+        "recency": 0.7212,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T09:39:55.690697Z"
+        "scored_at": "2026-08-22T10:39:39.401653Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8116,
-      "importance": 0.8116,
-      "importance_score": 0.8116,
+      "score": 0.8097,
+      "importance": 0.8097,
+      "importance_score": 0.8097,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7757,
+        "recency": 0.7648,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T09:39:55.690697Z"
+        "scored_at": "2026-08-22T10:39:39.401653Z"
       }
     },
     {
@@ -297,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8065,
-      "importance": 0.8065,
-      "importance_score": 0.8065,
+      "score": 0.8045,
+      "importance": 0.8045,
+      "importance_score": 0.8045,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7917,
+        "recency": 0.7806,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T09:39:55.690697Z"
+        "scored_at": "2026-08-22T10:39:39.401653Z"
       }
     },
     {
@@ -380,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7271,
-      "importance": 0.7271,
-      "importance_score": 0.7271,
+      "score": 0.7252,
+      "importance": 0.7252,
+      "importance_score": 0.7252,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7581,
+        "recency": 0.7475,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -413,7 +413,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T09:39:55.690697Z"
+        "scored_at": "2026-08-22T10:39:39.401653Z"
       }
     },
     {
@@ -490,15 +490,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7231,
-      "importance": 0.7231,
-      "importance_score": 0.7231,
+      "score": 0.7211,
+      "importance": 0.7211,
+      "importance_score": 0.7211,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7974,
+        "recency": 0.7863,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -524,7 +524,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T09:39:55.690697Z"
+        "scored_at": "2026-08-22T10:39:39.401653Z"
       }
     },
     {
@@ -600,15 +600,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5864,
-      "importance": 0.5864,
-      "importance_score": 0.5864,
+      "score": 0.5842,
+      "importance": 0.5842,
+      "importance_score": 0.5842,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.8382,
+        "recency": 0.8265,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -633,7 +633,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T09:39:55.690697Z"
+        "scored_at": "2026-08-22T10:39:39.401653Z"
       }
     },
     {
@@ -767,15 +767,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5605,
-      "importance": 0.5605,
-      "importance_score": 0.5605,
+      "score": 0.5585,
+      "importance": 0.5585,
+      "importance_score": 0.5585,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8038,
+        "recency": 0.7926,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -800,7 +800,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T09:39:55.690697Z"
+        "scored_at": "2026-08-22T10:39:39.401653Z"
       }
     },
     {
@@ -935,15 +935,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5582,
-      "importance": 0.5582,
-      "importance_score": 0.5582,
+      "score": 0.5562,
+      "importance": 0.5562,
+      "importance_score": 0.5562,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7911,
+        "recency": 0.7801,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -968,7 +968,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T09:39:55.690697Z"
+        "scored_at": "2026-08-22T10:39:39.401653Z"
       }
     },
     {
@@ -1045,15 +1045,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5262,
-      "importance": 0.5262,
-      "importance_score": 0.5262,
+      "score": 0.524,
+      "importance": 0.524,
+      "importance_score": 0.524,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8914,
+        "recency": 0.8789,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1078,7 +1078,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T09:39:55.690697Z"
+        "scored_at": "2026-08-22T10:39:39.401653Z"
       }
     },
     {
@@ -1155,15 +1155,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5136,
-      "importance": 0.5136,
-      "importance_score": 0.5136,
+      "score": 0.5115,
+      "importance": 0.5115,
+      "importance_score": 0.5115,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8211,
+        "recency": 0.8096,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1188,7 +1188,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T09:39:55.690697Z"
+        "scored_at": "2026-08-22T10:39:39.401653Z"
       }
     },
     {
@@ -1265,15 +1265,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5384,
-      "importance": 0.5384,
-      "importance_score": 0.5384,
+      "score": 0.536,
+      "importance": 0.536,
+      "importance_score": 0.536,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9587,
+        "recency": 0.9453,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1298,7 +1298,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T09:39:55.690697Z"
+        "scored_at": "2026-08-22T10:39:39.401653Z"
       }
     },
     {
@@ -1375,15 +1375,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5066,
-      "importance": 0.5066,
-      "importance_score": 0.5066,
+      "score": 0.5046,
+      "importance": 0.5046,
+      "importance_score": 0.5046,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.782,
+        "recency": 0.7711,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1408,7 +1408,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T09:39:55.690697Z"
+        "scored_at": "2026-08-22T10:39:39.401653Z"
       }
     },
     {
@@ -1485,15 +1485,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4971,
-      "importance": 0.4971,
-      "importance_score": 0.4971,
+      "score": 0.4953,
+      "importance": 0.4953,
+      "importance_score": 0.4953,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7296,
+        "recency": 0.7195,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1518,7 +1518,7 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T09:39:55.690697Z"
+        "scored_at": "2026-08-22T10:39:39.401653Z"
       }
     },
     {
@@ -1595,15 +1595,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.515,
-      "importance": 0.515,
-      "importance_score": 0.515,
+      "score": 0.5129,
+      "importance": 0.5129,
+      "importance_score": 0.5129,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.829,
+        "recency": 0.8174,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1628,7 +1628,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T09:39:55.690697Z"
+        "scored_at": "2026-08-22T10:39:39.401653Z"
       }
     },
     {
@@ -1705,15 +1705,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5105,
-      "importance": 0.5105,
-      "importance_score": 0.5105,
+      "score": 0.5085,
+      "importance": 0.5085,
+      "importance_score": 0.5085,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8038,
+        "recency": 0.7926,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1738,7 +1738,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T09:39:55.690697Z"
+        "scored_at": "2026-08-22T10:39:39.401653Z"
       }
     },
     {
@@ -1815,15 +1815,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5084,
-      "importance": 0.5084,
-      "importance_score": 0.5084,
+      "score": 0.5064,
+      "importance": 0.5064,
+      "importance_score": 0.5064,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7923,
+        "recency": 0.7812,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1848,7 +1848,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T09:39:55.690697Z"
+        "scored_at": "2026-08-22T10:39:39.401653Z"
       }
     },
     {
@@ -1925,15 +1925,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5044,
-      "importance": 0.5044,
-      "importance_score": 0.5044,
+      "score": 0.5024,
+      "importance": 0.5024,
+      "importance_score": 0.5024,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7697,
+        "recency": 0.759,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1958,117 +1958,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T09:39:55.690697Z"
-      }
-    },
-    {
-      "story_id": "story_eee8a3875bec",
-      "title": "人工智能公司销毁实体书籍——让我们在为时已晚之前扫描善本书籍 / AI companies destroy physical books – let's scan rare books before it's too late",
-      "url": "https://news.ycombinator.com/item?id=49385994",
-      "primary_url": "https://news.ycombinator.com/item?id=49385994",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "ec8348885deb760502635b307347168d61940bf7",
-          "title": "人工智能公司销毁实体书籍——让我们在为时已晚之前扫描善本书籍 / AI companies destroy physical books – let's scan rare books before it's too late",
-          "title_zh": "人工智能公司销毁实体书籍——让我们在为时已晚之前扫描善本书籍",
-          "title_en": "AI companies destroy physical books – let's scan rare books before it's too late",
-          "title_original": "AI companies destroy physical books – let's scan rare books before it's too late",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49385994",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-21T13:09:12.535000Z"
-        },
-        {
-          "id": "8e9cde0067d8fde26e99f379e85edb1980c3bb8f",
-          "title": "人工智能公司销毁实体书籍——让我们在为时已晚之前扫描善本书籍 / AI companies destroy physical books – let's scan rare books before it's too late",
-          "title_zh": "人工智能公司销毁实体书籍——让我们在为时已晚之前扫描善本书籍",
-          "title_en": "AI companies destroy physical books – let's scan rare books before it's too late",
-          "title_original": "AI companies destroy physical books – let's scan rare books before it's too late",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://annas-archive.pk/blog/physical-destruction.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-21T10:05:46Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "ec8348885deb760502635b307347168d61940bf7",
-          "title": "人工智能公司销毁实体书籍——让我们在为时已晚之前扫描善本书籍 / AI companies destroy physical books – let's scan rare books before it's too late",
-          "title_zh": "人工智能公司销毁实体书籍——让我们在为时已晚之前扫描善本书籍",
-          "title_en": "AI companies destroy physical books – let's scan rare books before it's too late",
-          "title_original": "AI companies destroy physical books – let's scan rare books before it's too late",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49385994",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-21T13:09:12.535000Z"
-        },
-        {
-          "id": "8e9cde0067d8fde26e99f379e85edb1980c3bb8f",
-          "title": "人工智能公司销毁实体书籍——让我们在为时已晚之前扫描善本书籍 / AI companies destroy physical books – let's scan rare books before it's too late",
-          "title_zh": "人工智能公司销毁实体书籍——让我们在为时已晚之前扫描善本书籍",
-          "title_en": "AI companies destroy physical books – let's scan rare books before it's too late",
-          "title_original": "AI companies destroy physical books – let's scan rare books before it's too late",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://annas-archive.pk/blog/physical-destruction.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-21T10:05:46Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4997,
-      "importance": 0.4997,
-      "importance_score": 0.4997,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7438,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-21T10:05:46Z",
-      "latest_at": "2026-08-21T13:09:12.535000Z",
-      "primary_item": {
-        "id": "ec8348885deb760502635b307347168d61940bf7",
-        "title": "人工智能公司销毁实体书籍——让我们在为时已晚之前扫描善本书籍 / AI companies destroy physical books – let's scan rare books before it's too late",
-        "title_zh": "人工智能公司销毁实体书籍——让我们在为时已晚之前扫描善本书籍",
-        "title_en": "AI companies destroy physical books – let's scan rare books before it's too late",
-        "title_original": "AI companies destroy physical books – let's scan rare books before it's too late",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49385994",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-22T09:39:55.690697Z"
+        "scored_at": "2026-08-22T10:39:39.401653Z"
       }
     }
   ]
