@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T11:42:04.743717Z",
+  "generated_at": "2026-08-24T13:10:58.061218Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.838,
-      "importance": 0.838,
-      "importance_score": 0.838,
+      "score": 0.8348,
+      "importance": 0.8348,
+      "importance_score": 0.8348,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8445,
+        "recency": 0.8267,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T12:12:41.101660Z"
+        "scored_at": "2026-08-24T13:43:27.825883Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7633,
-      "importance": 0.7633,
-      "importance_score": 0.7633,
+      "score": 0.7596,
+      "importance": 0.7596,
+      "importance_score": 0.7596,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9761,
+        "recency": 0.9555,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -165,7 +165,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T12:12:41.101660Z"
+        "scored_at": "2026-08-24T13:43:27.825883Z"
       }
     },
     {
@@ -213,15 +213,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7633,
-      "importance": 0.7633,
-      "importance_score": 0.7633,
+      "score": 0.7596,
+      "importance": 0.7596,
+      "importance_score": 0.7596,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9761,
+        "recency": 0.9555,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -247,7 +247,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T12:12:41.101660Z"
+        "scored_at": "2026-08-24T13:43:27.825883Z"
       }
     },
     {
@@ -295,15 +295,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7608,
-      "importance": 0.7608,
-      "importance_score": 0.7608,
+      "score": 0.7571,
+      "importance": 0.7571,
+      "importance_score": 0.7571,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9623,
+        "recency": 0.9419,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -329,7 +329,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T12:12:41.101660Z"
+        "scored_at": "2026-08-24T13:43:27.825883Z"
       }
     },
     {
@@ -377,15 +377,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7608,
-      "importance": 0.7608,
-      "importance_score": 0.7608,
+      "score": 0.7571,
+      "importance": 0.7571,
+      "importance_score": 0.7571,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9623,
+        "recency": 0.9419,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -411,7 +411,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T12:12:41.101660Z"
+        "scored_at": "2026-08-24T13:43:27.825883Z"
       }
     },
     {
@@ -459,15 +459,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7608,
-      "importance": 0.7608,
-      "importance_score": 0.7608,
+      "score": 0.7571,
+      "importance": 0.7571,
+      "importance_score": 0.7571,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9623,
+        "recency": 0.9419,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -493,7 +493,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T12:12:41.101660Z"
+        "scored_at": "2026-08-24T13:43:27.825883Z"
       }
     },
     {
@@ -541,15 +541,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7608,
-      "importance": 0.7608,
-      "importance_score": 0.7608,
+      "score": 0.7571,
+      "importance": 0.7571,
+      "importance_score": 0.7571,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9623,
+        "recency": 0.9419,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -575,7 +575,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T12:12:41.101660Z"
+        "scored_at": "2026-08-24T13:43:27.825883Z"
       }
     },
     {
@@ -623,15 +623,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7608,
-      "importance": 0.7608,
-      "importance_score": 0.7608,
+      "score": 0.7571,
+      "importance": 0.7571,
+      "importance_score": 0.7571,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9623,
+        "recency": 0.9419,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -657,7 +657,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T12:12:41.101660Z"
+        "scored_at": "2026-08-24T13:43:27.825883Z"
       }
     },
     {
@@ -791,15 +791,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5626,
-      "importance": 0.5626,
-      "importance_score": 0.5626,
+      "score": 0.5595,
+      "importance": 0.5595,
+      "importance_score": 0.5595,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8157,
+        "recency": 0.7985,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -824,7 +824,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T12:12:41.101660Z"
+        "scored_at": "2026-08-24T13:43:27.825883Z"
       }
     },
     {
@@ -872,15 +872,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7608,
-      "importance": 0.7608,
-      "importance_score": 0.7608,
+      "score": 0.7571,
+      "importance": 0.7571,
+      "importance_score": 0.7571,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9623,
+        "recency": 0.9419,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -906,7 +906,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T12:12:41.101660Z"
+        "scored_at": "2026-08-24T13:43:27.825883Z"
+      }
+    },
+    {
+      "story_id": "story_32d218d4bb08",
+      "title": "Anthropic candidates face blunt money question",
+      "url": "https://news.ycombinator.com/item?id=49418449",
+      "primary_url": "https://news.ycombinator.com/item?id=49418449",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "a0be46abf8c136e684f82e6c85205dc739b0d441",
+          "title": "Anthropic candidates face blunt money question",
+          "title_zh": null,
+          "title_en": "Anthropic candidates face blunt money question",
+          "title_original": "Anthropic candidates face blunt money question",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49418449",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-24T13:12:43.468000Z"
+        },
+        {
+          "id": "615756d844dc712f1271a81f80d87bb978a26213",
+          "title": "Anthropic candidates face blunt money question",
+          "title_zh": null,
+          "title_en": "Anthropic candidates face blunt money question",
+          "title_original": "Anthropic candidates face blunt money question",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.axios.com/2026/08/24/scoop-anthropic-candidates-face-blunt-money-question",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-24T11:55:46Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "a0be46abf8c136e684f82e6c85205dc739b0d441",
+          "title": "Anthropic candidates face blunt money question",
+          "title_zh": null,
+          "title_en": "Anthropic candidates face blunt money question",
+          "title_original": "Anthropic candidates face blunt money question",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49418449",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-24T13:12:43.468000Z"
+        },
+        {
+          "id": "615756d844dc712f1271a81f80d87bb978a26213",
+          "title": "Anthropic candidates face blunt money question",
+          "title_zh": null,
+          "title_en": "Anthropic candidates face blunt money question",
+          "title_original": "Anthropic candidates face blunt money question",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.axios.com/2026/08/24/scoop-anthropic-candidates-face-blunt-money-question",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-24T11:55:46Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-24T11:55:46Z",
+      "latest_at": "2026-08-24T13:12:43.468000Z",
+      "primary_item": {
+        "id": "a0be46abf8c136e684f82e6c85205dc739b0d441",
+        "title": "Anthropic candidates face blunt money question",
+        "title_zh": null,
+        "title_en": "Anthropic candidates face blunt money question",
+        "title_original": "Anthropic candidates face blunt money question",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49418449",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-24T13:43:27.825883Z"
       }
     },
     {
@@ -954,15 +1064,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7565,
-      "importance": 0.7565,
-      "importance_score": 0.7565,
+      "score": 0.7529,
+      "importance": 0.7529,
+      "importance_score": 0.7529,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9384,
+        "recency": 0.9186,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -988,7 +1098,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T12:12:41.101660Z"
+        "scored_at": "2026-08-24T13:43:27.825883Z"
+      }
+    },
+    {
+      "story_id": "story_38a0d652fe6a",
+      "title": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
+      "url": "https://www.aibase.com/news/30571",
+      "primary_url": "https://www.aibase.com/news/30571",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5061d231ca641ae2c2f2327f8c097ab30065ae23",
+          "title": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
+          "title_zh": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
+          "title_en": null,
+          "title_original": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30571",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T07:18:06.335687Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "5061d231ca641ae2c2f2327f8c097ab30065ae23",
+          "title": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
+          "title_zh": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
+          "title_en": null,
+          "title_original": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30571",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T07:18:06.335687Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7529,
+      "importance": 0.7529,
+      "importance_score": 0.7529,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9186,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T07:18:06.335687Z",
+      "latest_at": "2026-08-24T07:18:06.335687Z",
+      "primary_item": {
+        "id": "5061d231ca641ae2c2f2327f8c097ab30065ae23",
+        "title": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
+        "title_zh": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
+        "title_en": null,
+        "title_original": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30571",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-24T13:43:27.825883Z"
       }
     },
     {
@@ -1065,15 +1257,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5383,
-      "importance": 0.5383,
-      "importance_score": 0.5383,
+      "score": 0.5347,
+      "importance": 0.5347,
+      "importance_score": 0.5347,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9584,
+        "recency": 0.9381,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1098,26 +1290,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T12:12:41.101660Z"
+        "scored_at": "2026-08-24T13:43:27.825883Z"
       }
     },
     {
-      "story_id": "story_38a0d652fe6a",
-      "title": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
-      "url": "https://www.aibase.com/news/30571",
-      "primary_url": "https://www.aibase.com/news/30571",
+      "story_id": "story_ed97b0efea85",
+      "title": "小米发布玄戒O100芯片，端侧大模型推理速度最高330TPS",
+      "url": "https://www.aibase.com/news/30572",
+      "primary_url": "https://www.aibase.com/news/30572",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "5061d231ca641ae2c2f2327f8c097ab30065ae23",
-          "title": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
-          "title_zh": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
+          "id": "c05d5ca5aa4cc17db040f646c6cf56eeeaeb4463",
+          "title": "小米发布玄戒O100芯片，端侧大模型推理速度最高330TPS",
+          "title_zh": "小米发布玄戒O100芯片，端侧大模型推理速度最高330TPS",
           "title_en": null,
-          "title_original": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
+          "title_original": "小米发布玄戒O100芯片，端侧大模型推理速度最高330TPS",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30571",
+          "url": "https://www.aibase.com/news/30572",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1130,14 +1322,14 @@
       ],
       "items": [
         {
-          "id": "5061d231ca641ae2c2f2327f8c097ab30065ae23",
-          "title": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
-          "title_zh": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
+          "id": "c05d5ca5aa4cc17db040f646c6cf56eeeaeb4463",
+          "title": "小米发布玄戒O100芯片，端侧大模型推理速度最高330TPS",
+          "title_zh": "小米发布玄戒O100芯片，端侧大模型推理速度最高330TPS",
           "title_en": null,
-          "title_original": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
+          "title_original": "小米发布玄戒O100芯片，端侧大模型推理速度最高330TPS",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30571",
+          "url": "https://www.aibase.com/news/30572",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1146,15 +1338,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7565,
-      "importance": 0.7565,
-      "importance_score": 0.7565,
+      "score": 0.7529,
+      "importance": 0.7529,
+      "importance_score": 0.7529,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9384,
+        "recency": 0.9186,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1165,14 +1357,14 @@
       "earliest_at": "2026-08-24T07:18:06.335687Z",
       "latest_at": "2026-08-24T07:18:06.335687Z",
       "primary_item": {
-        "id": "5061d231ca641ae2c2f2327f8c097ab30065ae23",
-        "title": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
-        "title_zh": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
+        "id": "c05d5ca5aa4cc17db040f646c6cf56eeeaeb4463",
+        "title": "小米发布玄戒O100芯片，端侧大模型推理速度最高330TPS",
+        "title_zh": "小米发布玄戒O100芯片，端侧大模型推理速度最高330TPS",
         "title_en": null,
-        "title_original": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
+        "title_original": "小米发布玄戒O100芯片，端侧大模型推理速度最高330TPS",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30571",
+        "url": "https://www.aibase.com/news/30572",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1180,7 +1372,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T12:12:41.101660Z"
+        "scored_at": "2026-08-24T13:43:27.825883Z"
       }
     },
     {
@@ -1257,15 +1449,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5383,
-      "importance": 0.5383,
-      "importance_score": 0.5383,
+      "score": 0.5347,
+      "importance": 0.5347,
+      "importance_score": 0.5347,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9584,
+        "recency": 0.9381,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1290,26 +1482,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T12:12:41.101660Z"
+        "scored_at": "2026-08-24T13:43:27.825883Z"
       }
     },
     {
-      "story_id": "story_ed97b0efea85",
-      "title": "小米发布玄戒O100芯片，端侧大模型推理速度最高330TPS",
-      "url": "https://www.aibase.com/news/30572",
-      "primary_url": "https://www.aibase.com/news/30572",
+      "story_id": "story_812ca6831101",
+      "title": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
+      "url": "https://www.aibase.com/news/30568",
+      "primary_url": "https://www.aibase.com/news/30568",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c05d5ca5aa4cc17db040f646c6cf56eeeaeb4463",
-          "title": "小米发布玄戒O100芯片，端侧大模型推理速度最高330TPS",
-          "title_zh": "小米发布玄戒O100芯片，端侧大模型推理速度最高330TPS",
+          "id": "f256813569aa7710851e92d40d6da25a75e90d07",
+          "title": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
+          "title_zh": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
           "title_en": null,
-          "title_original": "小米发布玄戒O100芯片，端侧大模型推理速度最高330TPS",
+          "title_original": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30572",
+          "url": "https://www.aibase.com/news/30568",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1322,14 +1514,14 @@
       ],
       "items": [
         {
-          "id": "c05d5ca5aa4cc17db040f646c6cf56eeeaeb4463",
-          "title": "小米发布玄戒O100芯片，端侧大模型推理速度最高330TPS",
-          "title_zh": "小米发布玄戒O100芯片，端侧大模型推理速度最高330TPS",
+          "id": "f256813569aa7710851e92d40d6da25a75e90d07",
+          "title": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
+          "title_zh": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
           "title_en": null,
-          "title_original": "小米发布玄戒O100芯片，端侧大模型推理速度最高330TPS",
+          "title_original": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30572",
+          "url": "https://www.aibase.com/news/30568",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1338,15 +1530,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7565,
-      "importance": 0.7565,
-      "importance_score": 0.7565,
+      "score": 0.7529,
+      "importance": 0.7529,
+      "importance_score": 0.7529,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9384,
+        "recency": 0.9186,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1357,14 +1549,14 @@
       "earliest_at": "2026-08-24T07:18:06.335687Z",
       "latest_at": "2026-08-24T07:18:06.335687Z",
       "primary_item": {
-        "id": "c05d5ca5aa4cc17db040f646c6cf56eeeaeb4463",
-        "title": "小米发布玄戒O100芯片，端侧大模型推理速度最高330TPS",
-        "title_zh": "小米发布玄戒O100芯片，端侧大模型推理速度最高330TPS",
+        "id": "f256813569aa7710851e92d40d6da25a75e90d07",
+        "title": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
+        "title_zh": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
         "title_en": null,
-        "title_original": "小米发布玄戒O100芯片，端侧大模型推理速度最高330TPS",
+        "title_original": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30572",
+        "url": "https://www.aibase.com/news/30568",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1372,7 +1564,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T12:12:41.101660Z"
+        "scored_at": "2026-08-24T13:43:27.825883Z"
       }
     },
     {
@@ -1449,15 +1641,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5347,
-      "importance": 0.5347,
-      "importance_score": 0.5347,
+      "score": 0.5312,
+      "importance": 0.5312,
+      "importance_score": 0.5312,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9385,
+        "recency": 0.9187,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1482,26 +1674,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T12:12:41.101660Z"
+        "scored_at": "2026-08-24T13:43:27.825883Z"
       }
     },
     {
-      "story_id": "story_812ca6831101",
-      "title": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
-      "url": "https://www.aibase.com/news/30568",
-      "primary_url": "https://www.aibase.com/news/30568",
+      "story_id": "story_53906cd2ceab",
+      "title": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
+      "url": "https://www.aibase.com/news/30570",
+      "primary_url": "https://www.aibase.com/news/30570",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f256813569aa7710851e92d40d6da25a75e90d07",
-          "title": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
-          "title_zh": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
+          "id": "f7e9ab654ead3a6eed341207217074173776f267",
+          "title": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
+          "title_zh": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
           "title_en": null,
-          "title_original": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
+          "title_original": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30568",
+          "url": "https://www.aibase.com/news/30570",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1514,14 +1706,14 @@
       ],
       "items": [
         {
-          "id": "f256813569aa7710851e92d40d6da25a75e90d07",
-          "title": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
-          "title_zh": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
+          "id": "f7e9ab654ead3a6eed341207217074173776f267",
+          "title": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
+          "title_zh": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
           "title_en": null,
-          "title_original": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
+          "title_original": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30568",
+          "url": "https://www.aibase.com/news/30570",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1530,15 +1722,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7565,
-      "importance": 0.7565,
-      "importance_score": 0.7565,
+      "score": 0.7529,
+      "importance": 0.7529,
+      "importance_score": 0.7529,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9384,
+        "recency": 0.9186,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1549,14 +1741,14 @@
       "earliest_at": "2026-08-24T07:18:06.335687Z",
       "latest_at": "2026-08-24T07:18:06.335687Z",
       "primary_item": {
-        "id": "f256813569aa7710851e92d40d6da25a75e90d07",
-        "title": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
-        "title_zh": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
+        "id": "f7e9ab654ead3a6eed341207217074173776f267",
+        "title": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
+        "title_zh": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
         "title_en": null,
-        "title_original": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
+        "title_original": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30568",
+        "url": "https://www.aibase.com/news/30570",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1564,7 +1756,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T12:12:41.101660Z"
+        "scored_at": "2026-08-24T13:43:27.825883Z"
       }
     },
     {
@@ -1641,15 +1833,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5267,
-      "importance": 0.5267,
-      "importance_score": 0.5267,
+      "score": 0.5233,
+      "importance": 0.5233,
+      "importance_score": 0.5233,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8938,
+        "recency": 0.8749,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1674,199 +1866,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T12:12:41.101660Z"
-      }
-    },
-    {
-      "story_id": "story_53906cd2ceab",
-      "title": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
-      "url": "https://www.aibase.com/news/30570",
-      "primary_url": "https://www.aibase.com/news/30570",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f7e9ab654ead3a6eed341207217074173776f267",
-          "title": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
-          "title_zh": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
-          "title_en": null,
-          "title_original": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30570",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T07:18:06.335687Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f7e9ab654ead3a6eed341207217074173776f267",
-          "title": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
-          "title_zh": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
-          "title_en": null,
-          "title_original": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30570",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T07:18:06.335687Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7565,
-      "importance": 0.7565,
-      "importance_score": 0.7565,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9384,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-24T07:18:06.335687Z",
-      "latest_at": "2026-08-24T07:18:06.335687Z",
-      "primary_item": {
-        "id": "f7e9ab654ead3a6eed341207217074173776f267",
-        "title": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
-        "title_zh": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
-        "title_en": null,
-        "title_original": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30570",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-24T12:12:41.101660Z"
-      }
-    },
-    {
-      "story_id": "story_bb414d880caa",
-      "title": "Implementation of GPT-2 in pure CMake",
-      "url": "https://news.ycombinator.com/item?id=49412909",
-      "primary_url": "https://news.ycombinator.com/item?id=49412909",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "de3d1e6eadda38b960768ca78dfa3a5dc46475be",
-          "title": "Implementation of GPT-2 in pure CMake",
-          "title_zh": null,
-          "title_en": "Implementation of GPT-2 in pure CMake",
-          "title_original": "Implementation of GPT-2 in pure CMake",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49412909",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-23T23:34:05.823000Z"
-        },
-        {
-          "id": "587d6394b5bce9846ef81d60cddbdfe6e352f9ab",
-          "title": "Implementation of GPT-2 in pure CMake",
-          "title_zh": null,
-          "title_en": "Implementation of GPT-2 in pure CMake",
-          "title_original": "Implementation of GPT-2 in pure CMake",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/AlpinDale/gpt2.cmake",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T21:41:17Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "de3d1e6eadda38b960768ca78dfa3a5dc46475be",
-          "title": "Implementation of GPT-2 in pure CMake",
-          "title_zh": null,
-          "title_en": "Implementation of GPT-2 in pure CMake",
-          "title_original": "Implementation of GPT-2 in pure CMake",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49412909",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-23T23:34:05.823000Z"
-        },
-        {
-          "id": "587d6394b5bce9846ef81d60cddbdfe6e352f9ab",
-          "title": "Implementation of GPT-2 in pure CMake",
-          "title_zh": null,
-          "title_en": "Implementation of GPT-2 in pure CMake",
-          "title_original": "Implementation of GPT-2 in pure CMake",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/AlpinDale/gpt2.cmake",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T21:41:17Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5169,
-      "importance": 0.5169,
-      "importance_score": 0.5169,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8393,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-23T21:41:17Z",
-      "latest_at": "2026-08-23T23:34:05.823000Z",
-      "primary_item": {
-        "id": "de3d1e6eadda38b960768ca78dfa3a5dc46475be",
-        "title": "Implementation of GPT-2 in pure CMake",
-        "title_zh": null,
-        "title_en": "Implementation of GPT-2 in pure CMake",
-        "title_original": "Implementation of GPT-2 in pure CMake",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49412909",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-24T12:12:41.101660Z"
+        "scored_at": "2026-08-24T13:43:27.825883Z"
       }
     }
   ]
