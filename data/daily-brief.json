@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T08:57:39.601529Z",
+  "generated_at": "2026-08-25T09:49:43.413985Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8382,
-      "importance": 0.8382,
-      "importance_score": 0.8382,
+      "score": 0.8362,
+      "importance": 0.8362,
+      "importance_score": 0.8362,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8786,
+        "recency": 0.8677,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T09:35:36.406415Z"
+        "scored_at": "2026-08-25T10:27:58.531978Z"
+      }
+    },
+    {
+      "story_id": "story_4c08adc024bd",
+      "title": "Disrupting a new covert influence campaign from Russia",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+      "primary_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6bd2adbc583117c8e7211725eab9f4bfe5fd0ba9",
+          "title": "Disrupting a new covert influence campaign from Russia",
+          "title_zh": null,
+          "title_en": "Disrupting a new covert influence campaign from Russia",
+          "title_original": "Disrupting a new covert influence campaign from Russia",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "6bd2adbc583117c8e7211725eab9f4bfe5fd0ba9",
+          "title": "Disrupting a new covert influence campaign from Russia",
+          "title_zh": null,
+          "title_en": "Disrupting a new covert influence campaign from Russia",
+          "title_original": "Disrupting a new covert influence campaign from Russia",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8282,
+      "importance": 0.8282,
+      "importance_score": 0.8282,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8677,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-25T00:00:00Z",
+      "latest_at": "2026-08-25T00:00:00Z",
+      "primary_item": {
+        "id": "6bd2adbc583117c8e7211725eab9f4bfe5fd0ba9",
+        "title": "Disrupting a new covert influence campaign from Russia",
+        "title_zh": null,
+        "title_en": "Disrupting a new covert influence campaign from Russia",
+        "title_original": "Disrupting a new covert influence campaign from Russia",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-25T10:27:58.531978Z"
       }
     },
     {
@@ -131,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.819,
-      "importance": 0.819,
-      "importance_score": 0.819,
+      "score": 0.8173,
+      "importance": 0.8173,
+      "importance_score": 0.8173,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7388,
+        "recency": 0.7296,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T09:35:36.406415Z"
+        "scored_at": "2026-08-25T10:27:58.531978Z"
       }
     },
     {
@@ -214,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7654,
+      "importance": 0.7654,
+      "importance_score": 0.7654,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9875,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -248,7 +331,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T09:35:36.406415Z"
+        "scored_at": "2026-08-25T10:27:58.531978Z"
       }
     },
     {
@@ -325,15 +408,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7455,
-      "importance": 0.7455,
-      "importance_score": 0.7455,
+      "score": 0.7437,
+      "importance": 0.7437,
+      "importance_score": 0.7437,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7715,
+        "recency": 0.7619,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -359,7 +442,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T09:35:36.406415Z"
+        "scored_at": "2026-08-25T10:27:58.531978Z"
       }
     },
     {
@@ -407,15 +490,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7654,
+      "importance": 0.7654,
+      "importance_score": 0.7654,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9875,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -441,7 +524,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T09:35:36.406415Z"
+        "scored_at": "2026-08-25T10:27:58.531978Z"
       }
     },
     {
@@ -489,15 +572,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7654,
+      "importance": 0.7654,
+      "importance_score": 0.7654,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9875,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -523,7 +606,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T09:35:36.406415Z"
+        "scored_at": "2026-08-25T10:27:58.531978Z"
       }
     },
     {
@@ -571,15 +654,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7654,
+      "importance": 0.7654,
+      "importance_score": 0.7654,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9875,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -605,7 +688,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T09:35:36.406415Z"
+        "scored_at": "2026-08-25T10:27:58.531978Z"
       }
     },
     {
@@ -653,15 +736,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7654,
+      "importance": 0.7654,
+      "importance_score": 0.7654,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9875,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -687,7 +770,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T09:35:36.406415Z"
+        "scored_at": "2026-08-25T10:27:58.531978Z"
       }
     },
     {
@@ -735,15 +818,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7628,
+      "importance": 0.7628,
+      "importance_score": 0.7628,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9854,
+        "recency": 0.9731,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -769,7 +852,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T09:35:36.406415Z"
+        "scored_at": "2026-08-25T10:27:58.531978Z"
       }
     },
     {
@@ -817,15 +900,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7628,
-      "importance": 0.7628,
-      "importance_score": 0.7628,
+      "score": 0.7607,
+      "importance": 0.7607,
+      "importance_score": 0.7607,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9735,
+        "recency": 0.9614,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -851,7 +934,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T09:35:36.406415Z"
+        "scored_at": "2026-08-25T10:27:58.531978Z"
       }
     },
     {
@@ -957,15 +1040,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5561,
-      "importance": 0.5561,
-      "importance_score": 0.5561,
+      "score": 0.554,
+      "importance": 0.554,
+      "importance_score": 0.554,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9182,
+        "recency": 0.9067,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -990,7 +1073,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T09:35:36.406415Z"
+        "scored_at": "2026-08-25T10:27:58.531978Z"
       }
     },
     {
@@ -1038,15 +1121,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7628,
-      "importance": 0.7628,
-      "importance_score": 0.7628,
+      "score": 0.7607,
+      "importance": 0.7607,
+      "importance_score": 0.7607,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9735,
+        "recency": 0.9614,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1072,7 +1155,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T09:35:36.406415Z"
+        "scored_at": "2026-08-25T10:27:58.531978Z"
       }
     },
     {
@@ -1178,15 +1261,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5374,
-      "importance": 0.5374,
-      "importance_score": 0.5374,
+      "score": 0.5356,
+      "importance": 0.5356,
+      "importance_score": 0.5356,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8146,
+        "recency": 0.8045,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1211,7 +1294,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T09:35:36.406415Z"
+        "scored_at": "2026-08-25T10:27:58.531978Z"
       }
     },
     {
@@ -1317,15 +1400,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5374,
-      "importance": 0.5374,
-      "importance_score": 0.5374,
+      "score": 0.5356,
+      "importance": 0.5356,
+      "importance_score": 0.5356,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8146,
+        "recency": 0.8045,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1350,7 +1433,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T09:35:36.406415Z"
+        "scored_at": "2026-08-25T10:27:58.531978Z"
       }
     },
     {
@@ -1456,15 +1539,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5372,
-      "importance": 0.5372,
-      "importance_score": 0.5372,
+      "score": 0.5353,
+      "importance": 0.5353,
+      "importance_score": 0.5353,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8131,
+        "recency": 0.803,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1489,7 +1572,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T09:35:36.406415Z"
+        "scored_at": "2026-08-25T10:27:58.531978Z"
       }
     },
     {
@@ -1537,15 +1620,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7628,
-      "importance": 0.7628,
-      "importance_score": 0.7628,
+      "score": 0.7607,
+      "importance": 0.7607,
+      "importance_score": 0.7607,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9735,
+        "recency": 0.9614,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1571,7 +1654,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T09:35:36.406415Z"
+        "scored_at": "2026-08-25T10:27:58.531978Z"
       }
     },
     {
@@ -1647,15 +1730,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5077,
-      "importance": 0.5077,
-      "importance_score": 0.5077,
+      "score": 0.506,
+      "importance": 0.506,
+      "importance_score": 0.506,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7885,
+        "recency": 0.7787,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1680,7 +1763,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T09:35:36.406415Z"
+        "scored_at": "2026-08-25T10:27:58.531978Z"
       }
     },
     {
@@ -1757,15 +1840,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5314,
-      "importance": 0.5314,
-      "importance_score": 0.5314,
+      "score": 0.5293,
+      "importance": 0.5293,
+      "importance_score": 0.5293,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.92,
+        "recency": 0.9086,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1790,7 +1873,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T09:35:36.406415Z"
+        "scored_at": "2026-08-25T10:27:58.531978Z"
       }
     },
     {
@@ -1838,15 +1921,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7628,
-      "importance": 0.7628,
-      "importance_score": 0.7628,
+      "score": 0.7607,
+      "importance": 0.7607,
+      "importance_score": 0.7607,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9735,
+        "recency": 0.9614,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1872,117 +1955,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T09:35:36.406415Z"
-      }
-    },
-    {
-      "story_id": "story_974793f4f4f9",
-      "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-      "url": "https://news.ycombinator.com/item?id=49425800",
-      "primary_url": "https://news.ycombinator.com/item?id=49425800",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "4d2e6ea72770a6d0bdca9f741342114768dcd82d",
-          "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-          "title_zh": null,
-          "title_en": "Vintage Artificial Intelligence: Before It Got Awkward",
-          "title_original": "Vintage Artificial Intelligence: Before It Got Awkward",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49425800",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-24T21:43:59.106000Z"
-        },
-        {
-          "id": "c4380897ee9fff0a6eb7c60a73f9b0d9b42a6b5c",
-          "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-          "title_zh": null,
-          "title_en": "Vintage Artificial Intelligence: Before It Got Awkward",
-          "title_original": "Vintage Artificial Intelligence: Before It Got Awkward",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-24T21:01:38Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "4d2e6ea72770a6d0bdca9f741342114768dcd82d",
-          "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-          "title_zh": null,
-          "title_en": "Vintage Artificial Intelligence: Before It Got Awkward",
-          "title_original": "Vintage Artificial Intelligence: Before It Got Awkward",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49425800",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-24T21:43:59.106000Z"
-        },
-        {
-          "id": "c4380897ee9fff0a6eb7c60a73f9b0d9b42a6b5c",
-          "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-          "title_zh": null,
-          "title_en": "Vintage Artificial Intelligence: Before It Got Awkward",
-          "title_original": "Vintage Artificial Intelligence: Before It Got Awkward",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-24T21:01:38Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5189,
-      "importance": 0.5189,
-      "importance_score": 0.5189,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8503,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-24T21:01:38Z",
-      "latest_at": "2026-08-24T21:43:59.106000Z",
-      "primary_item": {
-        "id": "4d2e6ea72770a6d0bdca9f741342114768dcd82d",
-        "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-        "title_zh": null,
-        "title_en": "Vintage Artificial Intelligence: Before It Got Awkward",
-        "title_original": "Vintage Artificial Intelligence: Before It Got Awkward",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49425800",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-25T09:35:36.406415Z"
+        "scored_at": "2026-08-25T10:27:58.531978Z"
       }
     }
   ]
