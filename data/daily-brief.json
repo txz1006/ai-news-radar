@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-09-02T21:47:21.949038Z",
+  "generated_at": "2026-09-03T00:12:25.885477Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_f2e8c1eb7be1",
+      "title": "Content exclusions generally available in Copilot app and CLI",
+      "url": "https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli",
+      "primary_url": "https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f99c5aaf224a9ee03e3bf2a2c1a36c5765c17b7d",
+          "title": "Content exclusions generally available in Copilot app and CLI",
+          "title_zh": null,
+          "title_en": "Content exclusions generally available in Copilot app and CLI",
+          "title_original": "Content exclusions generally available in Copilot app and CLI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-02T18:14:23Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "f99c5aaf224a9ee03e3bf2a2c1a36c5765c17b7d",
+          "title": "Content exclusions generally available in Copilot app and CLI",
+          "title_zh": null,
+          "title_en": "Content exclusions generally available in Copilot app and CLI",
+          "title_original": "Content exclusions generally available in Copilot app and CLI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-02T18:14:23Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8371,
+      "importance": 0.8371,
+      "importance_score": 0.8371,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9174,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-02T18:14:23Z",
+      "latest_at": "2026-09-02T18:14:23Z",
+      "primary_item": {
+        "id": "f99c5aaf224a9ee03e3bf2a2c1a36c5765c17b7d",
+        "title": "Content exclusions generally available in Copilot app and CLI",
+        "title_zh": null,
+        "title_en": "Content exclusions generally available in Copilot app and CLI",
+        "title_original": "Content exclusions generally available in Copilot app and CLI",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-03T00:46:33.980291Z"
+      }
+    },
     {
       "story_id": "story_e619346b2b34",
       "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
@@ -48,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.842,
-      "importance": 0.842,
-      "importance_score": 0.842,
+      "score": 0.8359,
+      "importance": 0.8359,
+      "importance_score": 0.8359,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9887,
+        "recency": 0.9547,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T22:22:13.218787Z"
+        "scored_at": "2026-09-03T00:46:33.980291Z"
       }
     },
     {
@@ -131,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8404,
-      "importance": 0.8404,
-      "importance_score": 0.8404,
+      "score": 0.8349,
+      "importance": 0.8349,
+      "importance_score": 0.8349,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8913,
+        "recency": 0.8607,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T22:22:13.218787Z"
+        "scored_at": "2026-09-03T00:46:33.980291Z"
       }
     },
     {
@@ -214,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8383,
-      "importance": 0.8383,
-      "importance_score": 0.8383,
+      "score": 0.8326,
+      "importance": 0.8326,
+      "importance_score": 0.8326,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9239,
+        "recency": 0.8922,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,63 +332,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T22:22:13.218787Z"
+        "scored_at": "2026-09-03T00:46:33.980291Z"
       }
     },
     {
-      "story_id": "story_fa76f0c850c4",
-      "title": "Enterprise-managed settings support any default model",
-      "url": "https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model",
-      "primary_url": "https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model",
-      "source": "GitHub Changelog",
+      "story_id": "story_1a90c856fc66",
+      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "url": "https://openai.com/index/atv-big-air-tour",
+      "primary_url": "https://openai.com/index/atv-big-air-tour",
+      "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "568de570ec0e2b50fb98f313a460557d380af1d4",
-          "title": "Enterprise-managed settings support any default model",
+          "id": "16f498096a95b114de9ff4a9d3b4a452c37314db",
+          "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
           "title_zh": null,
-          "title_en": "Enterprise-managed settings support any default model",
-          "title_original": "Enterprise-managed settings support any default model",
+          "title_en": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+          "title_original": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model",
-          "source": "GitHub Changelog",
+          "url": "https://openai.com/index/atv-big-air-tour",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-02T18:51:12Z"
+          "published_at": "2026-09-02T12:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "568de570ec0e2b50fb98f313a460557d380af1d4",
-          "title": "Enterprise-managed settings support any default model",
+          "id": "16f498096a95b114de9ff4a9d3b4a452c37314db",
+          "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
           "title_zh": null,
-          "title_en": "Enterprise-managed settings support any default model",
-          "title_original": "Enterprise-managed settings support any default model",
+          "title_en": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+          "title_original": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model",
-          "source": "GitHub Changelog",
+          "url": "https://openai.com/index/atv-big-air-tour",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-02T18:51:12Z"
+          "published_at": "2026-09-02T12:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8365,
-      "importance": 0.8365,
-      "importance_score": 0.8365,
+      "score": 0.8309,
+      "importance": 0.8309,
+      "importance_score": 0.8309,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9585,
+        "ai_relevance": 0.95,
+        "recency": 0.8384,
         "story_heat": 0.0
       },
       "category": "official",
@@ -314,25 +397,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-02T18:51:12Z",
-      "latest_at": "2026-09-02T18:51:12Z",
+      "earliest_at": "2026-09-02T12:00:00Z",
+      "latest_at": "2026-09-02T12:00:00Z",
       "primary_item": {
-        "id": "568de570ec0e2b50fb98f313a460557d380af1d4",
-        "title": "Enterprise-managed settings support any default model",
+        "id": "16f498096a95b114de9ff4a9d3b4a452c37314db",
+        "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
         "title_zh": null,
-        "title_en": "Enterprise-managed settings support any default model",
-        "title_original": "Enterprise-managed settings support any default model",
+        "title_en": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+        "title_original": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model",
-        "source": "GitHub Changelog",
+        "url": "https://openai.com/index/atv-big-air-tour",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T22:22:13.218787Z"
+        "scored_at": "2026-09-03T00:46:33.980291Z"
       }
     },
     {
@@ -380,15 +463,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8288,
-      "importance": 0.8288,
-      "importance_score": 0.8288,
+      "score": 0.8231,
+      "importance": 0.8231,
+      "importance_score": 0.8231,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9154,
+        "recency": 0.884,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,7 +498,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T22:22:13.218787Z"
+        "scored_at": "2026-09-03T00:46:33.980291Z"
       }
     },
     {
@@ -463,15 +546,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8193,
-      "importance": 0.8193,
-      "importance_score": 0.8193,
+      "score": 0.8146,
+      "importance": 0.8146,
+      "importance_score": 0.8146,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7686,
+        "recency": 0.7422,
         "story_heat": 0.0
       },
       "category": "official",
@@ -497,7 +580,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T22:22:13.218787Z"
+        "scored_at": "2026-09-03T00:46:33.980291Z"
+      }
+    },
+    {
+      "story_id": "story_fa76f0c850c4",
+      "title": "Enterprise-managed settings support any default model",
+      "url": "https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model",
+      "primary_url": "https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "568de570ec0e2b50fb98f313a460557d380af1d4",
+          "title": "Enterprise-managed settings support any default model",
+          "title_zh": null,
+          "title_en": "Enterprise-managed settings support any default model",
+          "title_original": "Enterprise-managed settings support any default model",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-02T18:51:12Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "568de570ec0e2b50fb98f313a460557d380af1d4",
+          "title": "Enterprise-managed settings support any default model",
+          "title_zh": null,
+          "title_en": "Enterprise-managed settings support any default model",
+          "title_original": "Enterprise-managed settings support any default model",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-02T18:51:12Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8306,
+      "importance": 0.8306,
+      "importance_score": 0.8306,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9256,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-02T18:51:12Z",
+      "latest_at": "2026-09-02T18:51:12Z",
+      "primary_item": {
+        "id": "568de570ec0e2b50fb98f313a460557d380af1d4",
+        "title": "Enterprise-managed settings support any default model",
+        "title_zh": null,
+        "title_en": "Enterprise-managed settings support any default model",
+        "title_original": "Enterprise-managed settings support any default model",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-03T00:46:33.980291Z"
       }
     },
     {
@@ -545,15 +711,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8344,
-      "importance": 0.8344,
-      "importance_score": 0.8344,
+      "score": 0.8286,
+      "importance": 0.8286,
+      "importance_score": 0.8286,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9467,
+        "recency": 0.9143,
         "story_heat": 0.0
       },
       "category": "official",
@@ -580,7 +746,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T22:22:13.218787Z"
+        "scored_at": "2026-09-03T00:46:33.980291Z"
       }
     },
     {
@@ -628,15 +794,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7853,
-      "importance": 0.7853,
-      "importance_score": 0.7853,
+      "score": 0.7791,
+      "importance": 0.7791,
+      "importance_score": 0.7791,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9982,
+        "recency": 0.9639,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -662,7 +828,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T22:22:13.218787Z"
+        "scored_at": "2026-09-03T00:46:33.980291Z"
       }
     },
     {
@@ -710,15 +876,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.774,
-      "importance": 0.774,
-      "importance_score": 0.774,
+      "score": 0.7682,
+      "importance": 0.7682,
+      "importance_score": 0.7682,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9355,
+        "recency": 0.9034,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -744,7 +910,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T22:22:13.218787Z"
+        "scored_at": "2026-09-03T00:46:33.980291Z"
       }
     },
     {
@@ -792,15 +958,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7698,
-      "importance": 0.7698,
-      "importance_score": 0.7698,
+      "score": 0.764,
+      "importance": 0.764,
+      "importance_score": 0.764,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9264,
+        "recency": 0.8946,
         "story_heat": 0.0
       },
       "category": "official",
@@ -826,7 +992,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T22:22:13.218787Z"
+        "scored_at": "2026-09-03T00:46:33.980291Z"
       }
     },
     {
@@ -874,15 +1040,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7615,
+      "importance": 0.7615,
+      "importance_score": 0.7615,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9833,
+        "recency": 0.9495,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -908,7 +1074,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T22:22:13.218787Z"
+        "scored_at": "2026-09-03T00:46:33.980291Z"
       }
     },
     {
@@ -956,15 +1122,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7648,
-      "importance": 0.7648,
-      "importance_score": 0.7648,
+      "score": 0.7592,
+      "importance": 0.7592,
+      "importance_score": 0.7592,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9012,
+        "recency": 0.8703,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -990,90 +1156,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T22:22:13.218787Z"
-      }
-    },
-    {
-      "story_id": "story_842216100d96",
-      "title": "Enterprise Live Migrations from GHES to ghe.com generally available",
-      "url": "https://github.blog/changelog/2026-09-01-enterprise-live-migrations-from-ghes-to-ghe-com-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-09-01-enterprise-live-migrations-from-ghes-to-ghe-com-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d4b637ff3e090a5f1708d7d65d68680df846162b",
-          "title": "Enterprise Live Migrations from GHES to ghe.com generally available",
-          "title_zh": null,
-          "title_en": "Enterprise Live Migrations from GHES to ghe.com generally available",
-          "title_original": "Enterprise Live Migrations from GHES to ghe.com generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-01-enterprise-live-migrations-from-ghes-to-ghe-com-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-01T22:24:27Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "d4b637ff3e090a5f1708d7d65d68680df846162b",
-          "title": "Enterprise Live Migrations from GHES to ghe.com generally available",
-          "title_zh": null,
-          "title_en": "Enterprise Live Migrations from GHES to ghe.com generally available",
-          "title_original": "Enterprise Live Migrations from GHES to ghe.com generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-01-enterprise-live-migrations-from-ghes-to-ghe-com-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-01T22:24:27Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7924,
-      "importance": 0.7924,
-      "importance_score": 0.7924,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7134,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-01T22:24:27Z",
-      "latest_at": "2026-09-01T22:24:27Z",
-      "primary_item": {
-        "id": "d4b637ff3e090a5f1708d7d65d68680df846162b",
-        "title": "Enterprise Live Migrations from GHES to ghe.com generally available",
-        "title_zh": null,
-        "title_en": "Enterprise Live Migrations from GHES to ghe.com generally available",
-        "title_original": "Enterprise Live Migrations from GHES to ghe.com generally available",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-01-enterprise-live-migrations-from-ghes-to-ghe-com-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-02T22:22:13.218787Z"
+        "scored_at": "2026-09-03T00:46:33.980291Z"
       }
     },
     {
@@ -1121,15 +1204,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7541,
+      "importance": 0.7541,
+      "importance_score": 0.7541,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9247,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1155,7 +1238,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T22:22:13.218787Z"
+        "scored_at": "2026-09-03T00:46:33.980291Z"
       }
     },
     {
@@ -1203,15 +1286,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7578,
-      "importance": 0.7578,
-      "importance_score": 0.7578,
+      "score": 0.7518,
+      "importance": 0.7518,
+      "importance_score": 0.7518,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.962,
+        "recency": 0.929,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1237,7 +1320,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T22:22:13.218787Z"
+        "scored_at": "2026-09-03T00:46:33.980291Z"
       }
     },
     {
@@ -1285,15 +1368,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7429,
-      "importance": 0.7429,
-      "importance_score": 0.7429,
+      "score": 0.7373,
+      "importance": 0.7373,
+      "importance_score": 0.7373,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9128,
+        "recency": 0.8814,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1318,7 +1401,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T22:22:13.218787Z"
+        "scored_at": "2026-09-03T00:46:33.980291Z"
       }
     },
     {
@@ -1366,15 +1449,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7289,
-      "importance": 0.7289,
-      "importance_score": 0.7289,
+      "score": 0.7235,
+      "importance": 0.7235,
+      "importance_score": 0.7235,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8682,
+        "recency": 0.8384,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1399,7 +1482,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T22:22:13.218787Z"
+        "scored_at": "2026-09-03T00:46:33.980291Z"
       }
     },
     {
@@ -1447,15 +1530,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7286,
-      "importance": 0.7286,
-      "importance_score": 0.7286,
+      "score": 0.7229,
+      "importance": 0.7229,
+      "importance_score": 0.7229,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9335,
+        "recency": 0.9015,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1480,7 +1563,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T22:22:13.218787Z"
+        "scored_at": "2026-09-03T00:46:33.980291Z"
       }
     },
     {
@@ -1528,15 +1611,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.7517,
+      "importance": 0.7517,
+      "importance_score": 0.7517,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9439,
+        "recency": 0.9115,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1562,89 +1645,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T22:22:13.218787Z"
-      }
-    },
-    {
-      "story_id": "story_d86cdd886cee",
-      "title": "Nvidia 接近以 129 亿美元收购 Hugging Face / Bloomberg： Nvidia is nearing a $12.9B Hugging Face acquisition. At this price， its about 2.9x Hugg…",
-      "url": "https://x.com/rohanpaul_ai/status/2094975190468010368",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2094975190468010368",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "51993ab8eed7967ab126592d4b53090b364c16cf",
-          "title": "Nvidia 接近以 129 亿美元收购 Hugging Face / Bloomberg： Nvidia is nearing a $12.9B Hugging Face acquisition. At this price， its about 2.9x Hugg…",
-          "title_zh": "Nvidia 接近以 129 亿美元收购 Hugging Face",
-          "title_en": "Bloomberg： Nvidia is nearing a $12.9B Hugging Face acquisition. At this price， its about 2.9x Hugg…",
-          "title_original": "Bloomberg： Nvidia is nearing a $12.9B Hugging Face acquisition. At this price， its about 2.9x Hugg…",
-          "summary": "Bloomberg 报道 Nvidia 正接近以约 129 亿美元收购 Hugging Face，交易总额可能达约 140 亿美元，双方尚未达成最终协议，时间与细节仍可能变动。该价格约为 Hugging Face 2023 年融资轮 45 亿美元估值的 2.9 倍，按年化收入约 1.5 亿美元计算相当于 86 倍，Nvidia 还谈及在交易中加入 10 亿美元的员工留任方案。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2094975190468010368",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T02:26:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "51993ab8eed7967ab126592d4b53090b364c16cf",
-          "title": "Nvidia 接近以 129 亿美元收购 Hugging Face / Bloomberg： Nvidia is nearing a $12.9B Hugging Face acquisition. At this price， its about 2.9x Hugg…",
-          "title_zh": "Nvidia 接近以 129 亿美元收购 Hugging Face",
-          "title_en": "Bloomberg： Nvidia is nearing a $12.9B Hugging Face acquisition. At this price， its about 2.9x Hugg…",
-          "title_original": "Bloomberg： Nvidia is nearing a $12.9B Hugging Face acquisition. At this price， its about 2.9x Hugg…",
-          "summary": "Bloomberg 报道 Nvidia 正接近以约 129 亿美元收购 Hugging Face，交易总额可能达约 140 亿美元，双方尚未达成最终协议，时间与细节仍可能变动。该价格约为 Hugging Face 2023 年融资轮 45 亿美元估值的 2.9 倍，按年化收入约 1.5 亿美元计算相当于 86 倍，Nvidia 还谈及在交易中加入 10 亿美元的员工留任方案。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2094975190468010368",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T02:26:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7537,
-      "importance": 0.7537,
-      "importance_score": 0.7537,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7562,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-02T02:26:22Z",
-      "latest_at": "2026-09-02T02:26:22Z",
-      "primary_item": {
-        "id": "51993ab8eed7967ab126592d4b53090b364c16cf",
-        "title": "Nvidia 接近以 129 亿美元收购 Hugging Face / Bloomberg： Nvidia is nearing a $12.9B Hugging Face acquisition. At this price， its about 2.9x Hugg…",
-        "title_zh": "Nvidia 接近以 129 亿美元收购 Hugging Face",
-        "title_en": "Bloomberg： Nvidia is nearing a $12.9B Hugging Face acquisition. At this price， its about 2.9x Hugg…",
-        "title_original": "Bloomberg： Nvidia is nearing a $12.9B Hugging Face acquisition. At this price， its about 2.9x Hugg…",
-        "summary": "Bloomberg 报道 Nvidia 正接近以约 129 亿美元收购 Hugging Face，交易总额可能达约 140 亿美元，双方尚未达成最终协议，时间与细节仍可能变动。该价格约为 Hugging Face 2023 年融资轮 45 亿美元估值的 2.9 倍，按年化收入约 1.5 亿美元计算相当于 86 倍，Nvidia 还谈及在交易中加入 10 亿美元的员工留任方案。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/rohanpaul_ai/status/2094975190468010368",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-02T22:22:13.218787Z"
+        "scored_at": "2026-09-03T00:46:33.980291Z"
       }
     }
   ]
