@@ -1,121 +1,8 @@
 {
-  "generated_at": "2026-09-17T06:07:05.772759Z",
+  "generated_at": "2026-09-17T11:36:31.424135Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_524b99f2deb6",
-      "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
-      "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
-      "primary_url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a576196c89c601051dc98e2b0ab6cdc406aef131",
-          "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
-          "title_zh": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
-          "title_en": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-          "title_original": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-17T00:26:43Z"
-        },
-        {
-          "id": "ca4dffffcb00c23f888bfd34c6a8e082a9dc14c3",
-          "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust， using Copilot",
-          "title_zh": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
-          "title_en": "Migrating the GitHub Copilot runtime to Rust， using Copilot",
-          "title_original": "Migrating the GitHub Copilot runtime to Rust， using Copilot",
-          "summary": "GitHub 工程师 Stephen Toub 复盘用 Copilot 智能体在约 14.5 周内将 Copilot agent runtime 从 TypeScript/Node.js 全量重写为 832，378 行生产 Rust，AI 智能体完成大部分代码，共 128 个 PR 增量合入 main 并持续发布。",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T00:26:43Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub AI & ML",
-        "GitHub Blog"
-      ],
-      "items": [
-        {
-          "id": "a576196c89c601051dc98e2b0ab6cdc406aef131",
-          "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
-          "title_zh": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
-          "title_en": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-          "title_original": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-17T00:26:43Z"
-        },
-        {
-          "id": "ca4dffffcb00c23f888bfd34c6a8e082a9dc14c3",
-          "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust， using Copilot",
-          "title_zh": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
-          "title_en": "Migrating the GitHub Copilot runtime to Rust， using Copilot",
-          "title_original": "Migrating the GitHub Copilot runtime to Rust， using Copilot",
-          "summary": "GitHub 工程师 Stephen Toub 复盘用 Copilot 智能体在约 14.5 周内将 Copilot agent runtime 从 TypeScript/Node.js 全量重写为 832，378 行生产 Rust，AI 智能体完成大部分代码，共 128 个 PR 增量合入 main 并持续发布。",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T00:26:43Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8628,
-      "importance": 0.8628,
-      "importance_score": 0.8628,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9213,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-17T00:26:43Z",
-      "latest_at": "2026-09-17T00:26:43Z",
-      "primary_item": {
-        "id": "a576196c89c601051dc98e2b0ab6cdc406aef131",
-        "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
-        "title_zh": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
-        "title_en": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-        "title_original": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-17T06:30:05.400924Z"
-      }
-    },
     {
       "story_id": "story_2b45947d7367",
       "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / Reimagining advertising with AI",
@@ -219,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8626,
-      "importance": 0.8626,
-      "importance_score": 0.8626,
+      "score": 0.8519,
+      "importance": 0.8519,
+      "importance_score": 0.8519,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.781,
+        "recency": 0.7215,
         "story_heat": 0.5
       },
       "category": "official",
@@ -255,7 +142,120 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T06:30:05.400924Z"
+        "scored_at": "2026-09-17T12:10:24.266821Z"
+      }
+    },
+    {
+      "story_id": "story_524b99f2deb6",
+      "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
+      "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+      "primary_url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a576196c89c601051dc98e2b0ab6cdc406aef131",
+          "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
+          "title_zh": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
+          "title_en": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+          "title_original": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-17T00:26:43Z"
+        },
+        {
+          "id": "ca4dffffcb00c23f888bfd34c6a8e082a9dc14c3",
+          "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust， using Copilot",
+          "title_zh": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
+          "title_en": "Migrating the GitHub Copilot runtime to Rust， using Copilot",
+          "title_original": "Migrating the GitHub Copilot runtime to Rust， using Copilot",
+          "summary": "GitHub 工程师 Stephen Toub 复盘用 Copilot 智能体在约 14.5 周内将 Copilot agent runtime 从 TypeScript/Node.js 全量重写为 832，378 行生产 Rust，AI 智能体完成大部分代码，共 128 个 PR 增量合入 main 并持续发布。",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T00:26:43Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub AI & ML",
+        "GitHub Blog"
+      ],
+      "items": [
+        {
+          "id": "a576196c89c601051dc98e2b0ab6cdc406aef131",
+          "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
+          "title_zh": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
+          "title_en": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+          "title_original": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-17T00:26:43Z"
+        },
+        {
+          "id": "ca4dffffcb00c23f888bfd34c6a8e082a9dc14c3",
+          "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust， using Copilot",
+          "title_zh": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
+          "title_en": "Migrating the GitHub Copilot runtime to Rust， using Copilot",
+          "title_original": "Migrating the GitHub Copilot runtime to Rust， using Copilot",
+          "summary": "GitHub 工程师 Stephen Toub 复盘用 Copilot 智能体在约 14.5 周内将 Copilot agent runtime 从 TypeScript/Node.js 全量重写为 832，378 行生产 Rust，AI 智能体完成大部分代码，共 128 个 PR 增量合入 main 并持续发布。",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T00:26:43Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8502,
+      "importance": 0.8502,
+      "importance_score": 0.8502,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8511,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T00:26:43Z",
+      "latest_at": "2026-09-17T00:26:43Z",
+      "primary_item": {
+        "id": "a576196c89c601051dc98e2b0ab6cdc406aef131",
+        "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
+        "title_zh": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
+        "title_en": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+        "title_original": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-17T12:10:24.266821Z"
       }
     },
     {
@@ -303,15 +303,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8282,
-      "importance": 0.8282,
-      "importance_score": 0.8282,
+      "score": 0.8163,
+      "importance": 0.8163,
+      "importance_score": 0.8163,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8677,
+        "recency": 0.8015,
         "story_heat": 0.0
       },
       "category": "official",
@@ -338,7 +338,120 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T06:30:05.400924Z"
+        "scored_at": "2026-09-17T12:10:24.266821Z"
+      }
+    },
+    {
+      "story_id": "story_76db13fd8fea",
+      "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / Our framework for reporting model misalignment",
+      "url": "https://openai.com/index/model-misalignment-reporting-framework",
+      "primary_url": "https://openai.com/index/model-misalignment-reporting-framework",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9bd9c39f2ea2df15db99f22e470944b351e04a12",
+          "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / Our framework for reporting model misalignment",
+          "title_zh": "OpenAI 发布模型失准披露框架并公开六份失准报告",
+          "title_en": "Our framework for reporting model misalignment",
+          "title_original": "Our framework for reporting model misalignment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/model-misalignment-reporting-framework",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T17:00:00Z"
+        },
+        {
+          "id": "ddf487534f86392e80ce691138ba49ca5e365c0b",
+          "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / OpenAI Model Misalignment Report",
+          "title_zh": "OpenAI 发布模型失准披露框架并公开六份失准报告",
+          "title_en": "OpenAI Model Misalignment Report",
+          "title_original": "OpenAI Model Misalignment Report",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/model-misalignment-reporting-framework",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-17T07:21:19Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "9bd9c39f2ea2df15db99f22e470944b351e04a12",
+          "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / Our framework for reporting model misalignment",
+          "title_zh": "OpenAI 发布模型失准披露框架并公开六份失准报告",
+          "title_en": "Our framework for reporting model misalignment",
+          "title_original": "Our framework for reporting model misalignment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/model-misalignment-reporting-framework",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T17:00:00Z"
+        },
+        {
+          "id": "ddf487534f86392e80ce691138ba49ca5e365c0b",
+          "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / OpenAI Model Misalignment Report",
+          "title_zh": "OpenAI 发布模型失准披露框架并公开六份失准报告",
+          "title_en": "OpenAI Model Misalignment Report",
+          "title_original": "OpenAI Model Misalignment Report",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/model-misalignment-reporting-framework",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-17T07:21:19Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8346,
+      "importance": 0.8346,
+      "importance_score": 0.8346,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7644,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T17:00:00Z",
+      "latest_at": "2026-09-17T07:21:19Z",
+      "primary_item": {
+        "id": "9bd9c39f2ea2df15db99f22e470944b351e04a12",
+        "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / Our framework for reporting model misalignment",
+        "title_zh": "OpenAI 发布模型失准披露框架并公开六份失准报告",
+        "title_en": "Our framework for reporting model misalignment",
+        "title_original": "Our framework for reporting model misalignment",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/model-misalignment-reporting-framework",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-17T12:10:24.266821Z"
       }
     },
     {
@@ -444,15 +557,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8012,
-      "importance": 0.8012,
-      "importance_score": 0.8012,
+      "score": 0.7899,
+      "importance": 0.7899,
+      "importance_score": 0.7899,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8258,
+        "recency": 0.7628,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -479,90 +592,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T06:30:05.400924Z"
-      }
-    },
-    {
-      "story_id": "story_76db13fd8fea",
-      "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / Our framework for reporting model misalignment",
-      "url": "https://openai.com/index/model-misalignment-reporting-framework",
-      "primary_url": "https://openai.com/index/model-misalignment-reporting-framework",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9bd9c39f2ea2df15db99f22e470944b351e04a12",
-          "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / Our framework for reporting model misalignment",
-          "title_zh": "OpenAI 发布模型失准披露框架并公开六份失准报告",
-          "title_en": "Our framework for reporting model misalignment",
-          "title_original": "Our framework for reporting model misalignment",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/model-misalignment-reporting-framework",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T17:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "9bd9c39f2ea2df15db99f22e470944b351e04a12",
-          "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / Our framework for reporting model misalignment",
-          "title_zh": "OpenAI 发布模型失准披露框架并公开六份失准报告",
-          "title_en": "Our framework for reporting model misalignment",
-          "title_original": "Our framework for reporting model misalignment",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/model-misalignment-reporting-framework",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T17:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8209,
-      "importance": 0.8209,
-      "importance_score": 0.8209,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8274,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T17:00:00Z",
-      "latest_at": "2026-09-16T17:00:00Z",
-      "primary_item": {
-        "id": "9bd9c39f2ea2df15db99f22e470944b351e04a12",
-        "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / Our framework for reporting model misalignment",
-        "title_zh": "OpenAI 发布模型失准披露框架并公开六份失准报告",
-        "title_en": "Our framework for reporting model misalignment",
-        "title_original": "Our framework for reporting model misalignment",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/model-misalignment-reporting-framework",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-17T06:30:05.400924Z"
+        "scored_at": "2026-09-17T12:10:24.266821Z"
       }
     },
     {
@@ -610,15 +640,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8203,
-      "importance": 0.8203,
-      "importance_score": 0.8203,
+      "score": 0.8084,
+      "importance": 0.8084,
+      "importance_score": 0.8084,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8683,
+        "recency": 0.8021,
         "story_heat": 0.0
       },
       "category": "official",
@@ -645,7 +675,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T06:30:05.400924Z"
+        "scored_at": "2026-09-17T12:10:24.266821Z"
       }
     },
     {
@@ -693,15 +723,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.783,
-      "importance": 0.783,
-      "importance_score": 0.783,
+      "score": 0.7706,
+      "importance": 0.7706,
+      "importance_score": 0.7706,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9021,
+        "recency": 0.8333,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -727,30 +757,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T06:30:05.400924Z"
+        "scored_at": "2026-09-17T12:10:24.266821Z"
       }
     },
     {
-      "story_id": "story_df20ed226138",
-      "title": "AI 智能体离奇“越界”：私自劫持程序员维基搭建“地下论坛”，国家安全部发布紧急安全提醒",
-      "url": "https://www.aibase.com/news/31112",
-      "primary_url": "https://www.aibase.com/news/31112",
+      "story_id": "story_c1ae6ddc6337",
+      "title": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
+      "url": "https://www.aibase.com/news/31125",
+      "primary_url": "https://www.aibase.com/news/31125",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "51644ab185eff477428d344a31bf2cc3f6d395cf",
-          "title": "AI 智能体离奇“越界”：私自劫持程序员维基搭建“地下论坛”，国家安全部发布紧急安全提醒",
-          "title_zh": "AI 智能体离奇“越界”：私自劫持程序员维基搭建“地下论坛”，国家安全部发布紧急安全提醒",
+          "id": "bd2df3ff800c7b60f55cd5b79780943be7f2d28f",
+          "title": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
+          "title_zh": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
           "title_en": null,
-          "title_original": "AI 智能体离奇“越界”：私自劫持程序员维基搭建“地下论坛”，国家安全部发布紧急安全提醒",
+          "title_original": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31112",
+          "url": "https://www.aibase.com/news/31125",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-17T06:07:05.772759Z"
+          "published_at": "2026-09-17T11:36:31.424135Z"
         }
       ],
       "source_count": 1,
@@ -759,18 +789,18 @@
       ],
       "items": [
         {
-          "id": "51644ab185eff477428d344a31bf2cc3f6d395cf",
-          "title": "AI 智能体离奇“越界”：私自劫持程序员维基搭建“地下论坛”，国家安全部发布紧急安全提醒",
-          "title_zh": "AI 智能体离奇“越界”：私自劫持程序员维基搭建“地下论坛”，国家安全部发布紧急安全提醒",
+          "id": "bd2df3ff800c7b60f55cd5b79780943be7f2d28f",
+          "title": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
+          "title_zh": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
           "title_en": null,
-          "title_original": "AI 智能体离奇“越界”：私自劫持程序员维基搭建“地下论坛”，国家安全部发布紧急安全提醒",
+          "title_original": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31112",
+          "url": "https://www.aibase.com/news/31125",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-17T06:07:05.772759Z"
+          "published_at": "2026-09-17T11:36:31.424135Z"
         }
       ],
       "item_count": 1,
@@ -791,17 +821,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-17T06:07:05.772759Z",
-      "latest_at": "2026-09-17T06:07:05.772759Z",
+      "earliest_at": "2026-09-17T11:36:31.424135Z",
+      "latest_at": "2026-09-17T11:36:31.424135Z",
       "primary_item": {
-        "id": "51644ab185eff477428d344a31bf2cc3f6d395cf",
-        "title": "AI 智能体离奇“越界”：私自劫持程序员维基搭建“地下论坛”，国家安全部发布紧急安全提醒",
-        "title_zh": "AI 智能体离奇“越界”：私自劫持程序员维基搭建“地下论坛”，国家安全部发布紧急安全提醒",
+        "id": "bd2df3ff800c7b60f55cd5b79780943be7f2d28f",
+        "title": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
+        "title_zh": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
         "title_en": null,
-        "title_original": "AI 智能体离奇“越界”：私自劫持程序员维基搭建“地下论坛”，国家安全部发布紧急安全提醒",
+        "title_original": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31112",
+        "url": "https://www.aibase.com/news/31125",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -809,7 +839,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T06:30:05.400924Z"
+        "scored_at": "2026-09-17T12:10:24.266821Z"
       }
     },
     {
@@ -857,15 +887,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8203,
-      "importance": 0.8203,
-      "importance_score": 0.8203,
+      "score": 0.8084,
+      "importance": 0.8084,
+      "importance_score": 0.8084,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8682,
+        "recency": 0.802,
         "story_heat": 0.0
       },
       "category": "official",
@@ -892,7 +922,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T06:30:05.400924Z"
+        "scored_at": "2026-09-17T12:10:24.266821Z"
       }
     },
     {
@@ -940,15 +970,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8188,
-      "importance": 0.8188,
-      "importance_score": 0.8188,
+      "score": 0.8076,
+      "importance": 0.8076,
+      "importance_score": 0.8076,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8156,
+        "recency": 0.7534,
         "story_heat": 0.0
       },
       "category": "official",
@@ -975,251 +1005,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T06:30:05.400924Z"
-      }
-    },
-    {
-      "story_id": "story_b8d37f3b3430",
-      "title": "Anthropic CEO想给 AI 安“银行式监管”，专家泼冷水：你既当运动员又当裁判",
-      "url": "https://www.aibase.com/news/31110",
-      "primary_url": "https://www.aibase.com/news/31110",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "60f31c15cc39fee5b3e883af733eeb9d9d69e817",
-          "title": "Anthropic CEO想给 AI 安“银行式监管”，专家泼冷水：你既当运动员又当裁判",
-          "title_zh": "Anthropic CEO想给 AI 安“银行式监管”，专家泼冷水：你既当运动员又当裁判",
-          "title_en": null,
-          "title_original": "Anthropic CEO想给 AI 安“银行式监管”，专家泼冷水：你既当运动员又当裁判",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31110",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-17T06:07:05.772759Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "60f31c15cc39fee5b3e883af733eeb9d9d69e817",
-          "title": "Anthropic CEO想给 AI 安“银行式监管”，专家泼冷水：你既当运动员又当裁判",
-          "title_zh": "Anthropic CEO想给 AI 安“银行式监管”，专家泼冷水：你既当运动员又当裁判",
-          "title_en": null,
-          "title_original": "Anthropic CEO想给 AI 安“银行式监管”，专家泼冷水：你既当运动员又当裁判",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31110",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-17T06:07:05.772759Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-17T06:07:05.772759Z",
-      "latest_at": "2026-09-17T06:07:05.772759Z",
-      "primary_item": {
-        "id": "60f31c15cc39fee5b3e883af733eeb9d9d69e817",
-        "title": "Anthropic CEO想给 AI 安“银行式监管”，专家泼冷水：你既当运动员又当裁判",
-        "title_zh": "Anthropic CEO想给 AI 安“银行式监管”，专家泼冷水：你既当运动员又当裁判",
-        "title_en": null,
-        "title_original": "Anthropic CEO想给 AI 安“银行式监管”，专家泼冷水：你既当运动员又当裁判",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31110",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-17T06:30:05.400924Z"
-      }
-    },
-    {
-      "story_id": "story_bb49b6e3b62b",
-      "title": "用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686431&idx=1&sn=c1bfba7e0b5b7cf995e444daf79861a4",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686431&idx=1&sn=c1bfba7e0b5b7cf995e444daf79861a4",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "dee18d72420c66afd72b48c6263be57b51fcd9bb",
-          "title": "用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度",
-          "title_zh": "用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度",
-          "title_en": null,
-          "title_original": "用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度",
-          "summary": "自媒体作者分享一套节省 Codex 额度的工作流：让 Codex 把自己的服务器封装成只读、最小权限、飞书 OAuth 鉴权的 MCP Server，作为插件供 ChatGPT 网页版的 GPT-6 Pro 调用，读取真实生产数据和 GitHub PR 记录做分析与规划。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686431&idx=1&sn=c1bfba7e0b5b7cf995e444daf79861a4",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T00:09:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "dee18d72420c66afd72b48c6263be57b51fcd9bb",
-          "title": "用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度",
-          "title_zh": "用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度",
-          "title_en": null,
-          "title_original": "用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度",
-          "summary": "自媒体作者分享一套节省 Codex 额度的工作流：让 Codex 把自己的服务器封装成只读、最小权限、飞书 OAuth 鉴权的 MCP Server，作为插件供 ChatGPT 网页版的 GPT-6 Pro 调用，读取真实生产数据和 GitHub PR 记录做分析与规划。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686431&idx=1&sn=c1bfba7e0b5b7cf995e444daf79861a4",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T00:09:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7317,
-      "importance": 0.7317,
-      "importance_score": 0.7317,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9174,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-17T00:09:06Z",
-      "latest_at": "2026-09-17T00:09:06Z",
-      "primary_item": {
-        "id": "dee18d72420c66afd72b48c6263be57b51fcd9bb",
-        "title": "用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度",
-        "title_zh": "用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度",
-        "title_en": null,
-        "title_original": "用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度",
-        "summary": "自媒体作者分享一套节省 Codex 额度的工作流：让 Codex 把自己的服务器封装成只读、最小权限、飞书 OAuth 鉴权的 MCP Server，作为插件供 ChatGPT 网页版的 GPT-6 Pro 调用，读取真实生产数据和 GitHub PR 记录做分析与规划。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686431&idx=1&sn=c1bfba7e0b5b7cf995e444daf79861a4",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-17T06:30:05.400924Z"
-      }
-    },
-    {
-      "story_id": "story_1615464a9e77",
-      "title": "何夕2077 AI 深度信号周报 2026 W37",
-      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
-      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
-      "source": "Daily Digest",
-      "source_name": "AI HubToday",
-      "sources": [
-        {
-          "id": "3703ae8214f1c05ff68fa1cfae5f845d4f7db147",
-          "title": "何夕2077 AI 深度信号周报 2026 W37",
-          "title_zh": "何夕2077 AI 深度信号周报 2026 W37",
-          "title_en": null,
-          "title_original": "何夕2077 AI 深度信号周报 2026 W37",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-09-16T13:29:54Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Daily Digest"
-      ],
-      "items": [
-        {
-          "id": "3703ae8214f1c05ff68fa1cfae5f845d4f7db147",
-          "title": "何夕2077 AI 深度信号周报 2026 W37",
-          "title_zh": "何夕2077 AI 深度信号周报 2026 W37",
-          "title_en": null,
-          "title_original": "何夕2077 AI 深度信号周报 2026 W37",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-09-16T13:29:54Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7292,
-      "importance": 0.7292,
-      "importance_score": 0.7292,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7866,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-16T13:29:54Z",
-      "latest_at": "2026-09-16T13:29:54Z",
-      "primary_item": {
-        "id": "3703ae8214f1c05ff68fa1cfae5f845d4f7db147",
-        "title": "何夕2077 AI 深度信号周报 2026 W37",
-        "title_zh": "何夕2077 AI 深度信号周报 2026 W37",
-        "title_en": null,
-        "title_original": "何夕2077 AI 深度信号周报 2026 W37",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
-        "source": "Daily Digest",
-        "source_name": "AI HubToday"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-17T06:30:05.400924Z"
+        "scored_at": "2026-09-17T12:10:24.266821Z"
       }
     },
     {
@@ -1243,10 +1029,25 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-09-16T16:28:29Z"
+        },
+        {
+          "id": "0e82863fe919b0ee19bf19d13b77633fc7d44b1c",
+          "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation. Ask Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design....",
+          "title_zh": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
+          "title_en": "Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation. Ask Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design....",
+          "title_original": "Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation. Ask Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design....",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://x.com/bcherny/status/2100260544087535639",
+          "source": "Follow Builders · X · Boris Cherny",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-09-16T16:28:29Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
+        "Follow Builders · X · Boris Cherny",
         "X：Boris Cherny (@bcherny)"
       ],
       "items": [
@@ -1263,23 +1064,38 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-09-16T16:28:29Z"
+        },
+        {
+          "id": "0e82863fe919b0ee19bf19d13b77633fc7d44b1c",
+          "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation. Ask Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design....",
+          "title_zh": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
+          "title_en": "Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation. Ask Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design....",
+          "title_original": "Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation. Ask Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design....",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://x.com/bcherny/status/2100260544087535639",
+          "source": "Follow Builders · X · Boris Cherny",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-09-16T16:28:29Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7264,
-      "importance": 0.7264,
-      "importance_score": 0.7264,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7401,
+      "importance": 0.7401,
+      "importance_score": 0.7401,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8212,
-        "story_heat": 0.0
+        "recency": 0.7586,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance"
       ],
       "earliest_at": "2026-09-16T16:28:29Z",
@@ -1300,7 +1116,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T06:30:05.400924Z"
+        "scored_at": "2026-09-17T12:10:24.266821Z"
+      }
+    },
+    {
+      "story_id": "story_8bf736325a82",
+      "title": "Kimi 发布金融行业 AI 解决方案：10 余个数据源一站式接入，资料处理从天级压到小时级",
+      "url": "https://www.aibase.com/news/31132",
+      "primary_url": "https://www.aibase.com/news/31132",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "4f989f66b4ba45a00a82c5521365b3c808ab00a0",
+          "title": "Kimi 发布金融行业 AI 解决方案：10 余个数据源一站式接入，资料处理从天级压到小时级",
+          "title_zh": "Kimi 发布金融行业 AI 解决方案：10 余个数据源一站式接入，资料处理从天级压到小时级",
+          "title_en": null,
+          "title_original": "Kimi 发布金融行业 AI 解决方案：10 余个数据源一站式接入，资料处理从天级压到小时级",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31132",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T11:36:31.424135Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "4f989f66b4ba45a00a82c5521365b3c808ab00a0",
+          "title": "Kimi 发布金融行业 AI 解决方案：10 余个数据源一站式接入，资料处理从天级压到小时级",
+          "title_zh": "Kimi 发布金融行业 AI 解决方案：10 余个数据源一站式接入，资料处理从天级压到小时级",
+          "title_en": null,
+          "title_original": "Kimi 发布金融行业 AI 解决方案：10 余个数据源一站式接入，资料处理从天级压到小时级",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31132",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T11:36:31.424135Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T11:36:31.424135Z",
+      "latest_at": "2026-09-17T11:36:31.424135Z",
+      "primary_item": {
+        "id": "4f989f66b4ba45a00a82c5521365b3c808ab00a0",
+        "title": "Kimi 发布金融行业 AI 解决方案：10 余个数据源一站式接入，资料处理从天级压到小时级",
+        "title_zh": "Kimi 发布金融行业 AI 解决方案：10 余个数据源一站式接入，资料处理从天级压到小时级",
+        "title_en": null,
+        "title_original": "Kimi 发布金融行业 AI 解决方案：10 余个数据源一站式接入，资料处理从天级压到小时级",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31132",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-17T12:10:24.266821Z"
       }
     },
     {
@@ -1348,15 +1246,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8106,
-      "importance": 0.8106,
-      "importance_score": 0.8106,
+      "score": 0.8,
+      "importance": 0.8,
+      "importance_score": 0.8,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7698,
+        "recency": 0.7111,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1383,7 +1281,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T06:30:05.400924Z"
+        "scored_at": "2026-09-17T12:10:24.266821Z"
+      }
+    },
+    {
+      "story_id": "story_7b5be1e6de80",
+      "title": "iOS 27.2 测试版首曝大批新功能：健康应用彻底重构，Siri 扩展至五种新语言",
+      "url": "https://www.aibase.com/news/31123",
+      "primary_url": "https://www.aibase.com/news/31123",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "44e5ed43767b72bac685170d2e11cfb0352f1f46",
+          "title": "iOS 27.2 测试版首曝大批新功能：健康应用彻底重构，Siri 扩展至五种新语言",
+          "title_zh": "iOS 27.2 测试版首曝大批新功能：健康应用彻底重构，Siri 扩展至五种新语言",
+          "title_en": null,
+          "title_original": "iOS 27.2 测试版首曝大批新功能：健康应用彻底重构，Siri 扩展至五种新语言",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31123",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T11:36:31.424135Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "44e5ed43767b72bac685170d2e11cfb0352f1f46",
+          "title": "iOS 27.2 测试版首曝大批新功能：健康应用彻底重构，Siri 扩展至五种新语言",
+          "title_zh": "iOS 27.2 测试版首曝大批新功能：健康应用彻底重构，Siri 扩展至五种新语言",
+          "title_en": null,
+          "title_original": "iOS 27.2 测试版首曝大批新功能：健康应用彻底重构，Siri 扩展至五种新语言",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31123",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T11:36:31.424135Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T11:36:31.424135Z",
+      "latest_at": "2026-09-17T11:36:31.424135Z",
+      "primary_item": {
+        "id": "44e5ed43767b72bac685170d2e11cfb0352f1f46",
+        "title": "iOS 27.2 测试版首曝大批新功能：健康应用彻底重构，Siri 扩展至五种新语言",
+        "title_zh": "iOS 27.2 测试版首曝大批新功能：健康应用彻底重构，Siri 扩展至五种新语言",
+        "title_en": null,
+        "title_original": "iOS 27.2 测试版首曝大批新功能：健康应用彻底重构，Siri 扩展至五种新语言",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31123",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-17T12:10:24.266821Z"
       }
     },
     {
@@ -1431,15 +1411,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8055,
-      "importance": 0.8055,
-      "importance_score": 0.8055,
+      "score": 0.7947,
+      "importance": 0.7947,
+      "importance_score": 0.7947,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7859,
+        "recency": 0.726,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1466,30 +1446,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T06:30:05.400924Z"
+        "scored_at": "2026-09-17T12:10:24.266821Z"
       }
     },
     {
-      "story_id": "story_93ada1416ace",
-      "title": "Anthropic 算力首次落子澳大利亚：租赁 2.16GW 数据中心园区",
-      "url": "https://www.aibase.com/news/31116",
-      "primary_url": "https://www.aibase.com/news/31116",
+      "story_id": "story_52a7858a1b06",
+      "title": "​Anthropic大动作：将Chat与Cowork合并，推出Docs与Slides全新功能",
+      "url": "https://www.aibase.com/news/31134",
+      "primary_url": "https://www.aibase.com/news/31134",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "9e0ec7f79bce9a0ec739c65261307d2a3aaee25f",
-          "title": "Anthropic 算力首次落子澳大利亚：租赁 2.16GW 数据中心园区",
-          "title_zh": "Anthropic 算力首次落子澳大利亚：租赁 2.16GW 数据中心园区",
+          "id": "3f1aca2baf650fb511f98091068f781cf2822fbe",
+          "title": "​Anthropic大动作：将Chat与Cowork合并，推出Docs与Slides全新功能",
+          "title_zh": "​Anthropic大动作：将Chat与Cowork合并，推出Docs与Slides全新功能",
           "title_en": null,
-          "title_original": "Anthropic 算力首次落子澳大利亚：租赁 2.16GW 数据中心园区",
+          "title_original": "​Anthropic大动作：将Chat与Cowork合并，推出Docs与Slides全新功能",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31116",
+          "url": "https://www.aibase.com/news/31134",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-17T06:07:05.772759Z"
+          "published_at": "2026-09-17T11:36:31.424135Z"
         }
       ],
       "source_count": 1,
@@ -1498,18 +1478,18 @@
       ],
       "items": [
         {
-          "id": "9e0ec7f79bce9a0ec739c65261307d2a3aaee25f",
-          "title": "Anthropic 算力首次落子澳大利亚：租赁 2.16GW 数据中心园区",
-          "title_zh": "Anthropic 算力首次落子澳大利亚：租赁 2.16GW 数据中心园区",
+          "id": "3f1aca2baf650fb511f98091068f781cf2822fbe",
+          "title": "​Anthropic大动作：将Chat与Cowork合并，推出Docs与Slides全新功能",
+          "title_zh": "​Anthropic大动作：将Chat与Cowork合并，推出Docs与Slides全新功能",
           "title_en": null,
-          "title_original": "Anthropic 算力首次落子澳大利亚：租赁 2.16GW 数据中心园区",
+          "title_original": "​Anthropic大动作：将Chat与Cowork合并，推出Docs与Slides全新功能",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31116",
+          "url": "https://www.aibase.com/news/31134",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-17T06:07:05.772759Z"
+          "published_at": "2026-09-17T11:36:31.424135Z"
         }
       ],
       "item_count": 1,
@@ -1530,17 +1510,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-17T06:07:05.772759Z",
-      "latest_at": "2026-09-17T06:07:05.772759Z",
+      "earliest_at": "2026-09-17T11:36:31.424135Z",
+      "latest_at": "2026-09-17T11:36:31.424135Z",
       "primary_item": {
-        "id": "9e0ec7f79bce9a0ec739c65261307d2a3aaee25f",
-        "title": "Anthropic 算力首次落子澳大利亚：租赁 2.16GW 数据中心园区",
-        "title_zh": "Anthropic 算力首次落子澳大利亚：租赁 2.16GW 数据中心园区",
+        "id": "3f1aca2baf650fb511f98091068f781cf2822fbe",
+        "title": "​Anthropic大动作：将Chat与Cowork合并，推出Docs与Slides全新功能",
+        "title_zh": "​Anthropic大动作：将Chat与Cowork合并，推出Docs与Slides全新功能",
         "title_en": null,
-        "title_original": "Anthropic 算力首次落子澳大利亚：租赁 2.16GW 数据中心园区",
+        "title_original": "​Anthropic大动作：将Chat与Cowork合并，推出Docs与Slides全新功能",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31116",
+        "url": "https://www.aibase.com/news/31134",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1548,113 +1528,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T06:30:05.400924Z"
+        "scored_at": "2026-09-17T12:10:24.266821Z"
       }
     },
     {
-      "story_id": "story_20d27da6a9f4",
-      "title": "工人如何开启新的工作方式 / How workers are unlocking new ways of working",
-      "url": "https://openai.com/index/unlocking-new-ways-of-working",
-      "primary_url": "https://openai.com/index/unlocking-new-ways-of-working",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f8d3a08c3fc26b24d1b8bfacd22d569ddb26f73a",
-          "title": "工人如何开启新的工作方式 / How workers are unlocking new ways of working",
-          "title_zh": "工人如何开启新的工作方式",
-          "title_en": "How workers are unlocking new ways of working",
-          "title_original": "How workers are unlocking new ways of working",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/unlocking-new-ways-of-working",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T09:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "f8d3a08c3fc26b24d1b8bfacd22d569ddb26f73a",
-          "title": "工人如何开启新的工作方式 / How workers are unlocking new ways of working",
-          "title_zh": "工人如何开启新的工作方式",
-          "title_en": "How workers are unlocking new ways of working",
-          "title_original": "How workers are unlocking new ways of working",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/unlocking-new-ways-of-working",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T09:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8047,
-      "importance": 0.8047,
-      "importance_score": 0.8047,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7372,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T09:00:00Z",
-      "latest_at": "2026-09-16T09:00:00Z",
-      "primary_item": {
-        "id": "f8d3a08c3fc26b24d1b8bfacd22d569ddb26f73a",
-        "title": "工人如何开启新的工作方式 / How workers are unlocking new ways of working",
-        "title_zh": "工人如何开启新的工作方式",
-        "title_en": "How workers are unlocking new ways of working",
-        "title_original": "How workers are unlocking new ways of working",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/unlocking-new-ways-of-working",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-17T06:30:05.400924Z"
-      }
-    },
-    {
-      "story_id": "story_fe2e25c6840c",
-      "title": "Anthropic合并Claude Cowork与Chat，统一AI任务工作空间",
-      "url": "https://www.aibase.com/news/31106",
-      "primary_url": "https://www.aibase.com/news/31106",
+      "story_id": "story_c6c98746d529",
+      "title": "​MiniMax 旗下三款核心产品正式纳入新加坡国家级 AI 培训计划",
+      "url": "https://www.aibase.com/news/31124",
+      "primary_url": "https://www.aibase.com/news/31124",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e427042515a287d551be8dd06efd671d331d825e",
-          "title": "Anthropic合并Claude Cowork与Chat，统一AI任务工作空间",
-          "title_zh": "Anthropic合并Claude Cowork与Chat，统一AI任务工作空间",
+          "id": "e9750827e3c49f22e35abfa37442f55e015ca247",
+          "title": "​MiniMax 旗下三款核心产品正式纳入新加坡国家级 AI 培训计划",
+          "title_zh": "​MiniMax 旗下三款核心产品正式纳入新加坡国家级 AI 培训计划",
           "title_en": null,
-          "title_original": "Anthropic合并Claude Cowork与Chat，统一AI任务工作空间",
+          "title_original": "​MiniMax 旗下三款核心产品正式纳入新加坡国家级 AI 培训计划",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31106",
+          "url": "https://www.aibase.com/news/31124",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-17T06:07:05.772759Z"
+          "published_at": "2026-09-17T11:36:31.424135Z"
         }
       ],
       "source_count": 1,
@@ -1663,18 +1560,18 @@
       ],
       "items": [
         {
-          "id": "e427042515a287d551be8dd06efd671d331d825e",
-          "title": "Anthropic合并Claude Cowork与Chat，统一AI任务工作空间",
-          "title_zh": "Anthropic合并Claude Cowork与Chat，统一AI任务工作空间",
+          "id": "e9750827e3c49f22e35abfa37442f55e015ca247",
+          "title": "​MiniMax 旗下三款核心产品正式纳入新加坡国家级 AI 培训计划",
+          "title_zh": "​MiniMax 旗下三款核心产品正式纳入新加坡国家级 AI 培训计划",
           "title_en": null,
-          "title_original": "Anthropic合并Claude Cowork与Chat，统一AI任务工作空间",
+          "title_original": "​MiniMax 旗下三款核心产品正式纳入新加坡国家级 AI 培训计划",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31106",
+          "url": "https://www.aibase.com/news/31124",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-17T06:07:05.772759Z"
+          "published_at": "2026-09-17T11:36:31.424135Z"
         }
       ],
       "item_count": 1,
@@ -1695,17 +1592,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-17T06:07:05.772759Z",
-      "latest_at": "2026-09-17T06:07:05.772759Z",
+      "earliest_at": "2026-09-17T11:36:31.424135Z",
+      "latest_at": "2026-09-17T11:36:31.424135Z",
       "primary_item": {
-        "id": "e427042515a287d551be8dd06efd671d331d825e",
-        "title": "Anthropic合并Claude Cowork与Chat，统一AI任务工作空间",
-        "title_zh": "Anthropic合并Claude Cowork与Chat，统一AI任务工作空间",
+        "id": "e9750827e3c49f22e35abfa37442f55e015ca247",
+        "title": "​MiniMax 旗下三款核心产品正式纳入新加坡国家级 AI 培训计划",
+        "title_zh": "​MiniMax 旗下三款核心产品正式纳入新加坡国家级 AI 培训计划",
         "title_en": null,
-        "title_original": "Anthropic合并Claude Cowork与Chat，统一AI任务工作空间",
+        "title_original": "​MiniMax 旗下三款核心产品正式纳入新加坡国家级 AI 培训计划",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31106",
+        "url": "https://www.aibase.com/news/31124",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1713,30 +1610,140 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T06:30:05.400924Z"
+        "scored_at": "2026-09-17T12:10:24.266821Z"
       }
     },
     {
-      "story_id": "story_e356524096ff",
-      "title": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
-      "url": "https://www.aibase.com/news/31121",
-      "primary_url": "https://www.aibase.com/news/31121",
+      "story_id": "story_95328d431ac8",
+      "title": "Al Gore says the real AI risk isn’t data centers",
+      "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash",
+      "primary_url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "e2205118655d631738ba15442ea29f3f1b26e044",
+          "title": "Al Gore says the real AI risk isn’t data centers",
+          "title_zh": null,
+          "title_en": "Al Gore says the real AI risk isn’t data centers",
+          "title_original": "Al Gore says the real AI risk isn’t data centers",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-16T23:43:09Z"
+        },
+        {
+          "id": "a0cdba227f6a242c580f26a9dbc6d4142d3964b8",
+          "title": "Al Gore has a surprisingly calm take on the AI data center backlash",
+          "title_zh": null,
+          "title_en": "Al Gore has a surprisingly calm take on the AI data center backlash",
+          "title_original": "Al Gore has a surprisingly calm take on the AI data center backlash",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-16T23:43:09Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch",
+        "TechCrunch AI"
+      ],
+      "items": [
+        {
+          "id": "e2205118655d631738ba15442ea29f3f1b26e044",
+          "title": "Al Gore says the real AI risk isn’t data centers",
+          "title_zh": null,
+          "title_en": "Al Gore says the real AI risk isn’t data centers",
+          "title_original": "Al Gore says the real AI risk isn’t data centers",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-16T23:43:09Z"
+        },
+        {
+          "id": "a0cdba227f6a242c580f26a9dbc6d4142d3964b8",
+          "title": "Al Gore has a surprisingly calm take on the AI data center backlash",
+          "title_zh": null,
+          "title_en": "Al Gore has a surprisingly calm take on the AI data center backlash",
+          "title_original": "Al Gore has a surprisingly calm take on the AI data center backlash",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-16T23:43:09Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6204,
+      "importance": 0.6204,
+      "importance_score": 0.6204,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5472,
+        "source_tier": 0.58,
+        "ai_relevance": 0.76,
+        "recency": 0.8422,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-16T23:43:09Z",
+      "latest_at": "2026-09-16T23:43:09Z",
+      "primary_item": {
+        "id": "e2205118655d631738ba15442ea29f3f1b26e044",
+        "title": "Al Gore says the real AI risk isn’t data centers",
+        "title_zh": null,
+        "title_en": "Al Gore says the real AI risk isn’t data centers",
+        "title_original": "Al Gore says the real AI risk isn’t data centers",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-17T12:10:24.266821Z"
+      }
+    },
+    {
+      "story_id": "story_f02090a46c9c",
+      "title": "冰岛初创公司 Treble 斩获 1800 万美元 A 轮扩展融资",
+      "url": "https://www.aibase.com/news/31133",
+      "primary_url": "https://www.aibase.com/news/31133",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "6385b186684e3bd8987ed87649e02d588768933a",
-          "title": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
-          "title_zh": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
+          "id": "ed0dc5b6bd8a3ccfa031bdf778b4aa5888641505",
+          "title": "冰岛初创公司 Treble 斩获 1800 万美元 A 轮扩展融资",
+          "title_zh": "冰岛初创公司 Treble 斩获 1800 万美元 A 轮扩展融资",
           "title_en": null,
-          "title_original": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
+          "title_original": "冰岛初创公司 Treble 斩获 1800 万美元 A 轮扩展融资",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31121",
+          "url": "https://www.aibase.com/news/31133",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-17T06:07:05.772759Z"
+          "published_at": "2026-09-17T11:36:31.424135Z"
         }
       ],
       "source_count": 1,
@@ -1745,18 +1752,18 @@
       ],
       "items": [
         {
-          "id": "6385b186684e3bd8987ed87649e02d588768933a",
-          "title": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
-          "title_zh": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
+          "id": "ed0dc5b6bd8a3ccfa031bdf778b4aa5888641505",
+          "title": "冰岛初创公司 Treble 斩获 1800 万美元 A 轮扩展融资",
+          "title_zh": "冰岛初创公司 Treble 斩获 1800 万美元 A 轮扩展融资",
           "title_en": null,
-          "title_original": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
+          "title_original": "冰岛初创公司 Treble 斩获 1800 万美元 A 轮扩展融资",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31121",
+          "url": "https://www.aibase.com/news/31133",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-17T06:07:05.772759Z"
+          "published_at": "2026-09-17T11:36:31.424135Z"
         }
       ],
       "item_count": 1,
@@ -1777,17 +1784,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-17T06:07:05.772759Z",
-      "latest_at": "2026-09-17T06:07:05.772759Z",
+      "earliest_at": "2026-09-17T11:36:31.424135Z",
+      "latest_at": "2026-09-17T11:36:31.424135Z",
       "primary_item": {
-        "id": "6385b186684e3bd8987ed87649e02d588768933a",
-        "title": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
-        "title_zh": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
+        "id": "ed0dc5b6bd8a3ccfa031bdf778b4aa5888641505",
+        "title": "冰岛初创公司 Treble 斩获 1800 万美元 A 轮扩展融资",
+        "title_zh": "冰岛初创公司 Treble 斩获 1800 万美元 A 轮扩展融资",
         "title_en": null,
-        "title_original": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
+        "title_original": "冰岛初创公司 Treble 斩获 1800 万美元 A 轮扩展融资",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31121",
+        "url": "https://www.aibase.com/news/31133",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1795,7 +1802,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T06:30:05.400924Z"
+        "scored_at": "2026-09-17T12:10:24.266821Z"
+      }
+    },
+    {
+      "story_id": "story_a366f16e4864",
+      "title": "千问APP升级未成年人保护模式，让青少年安全地用好AI",
+      "url": "https://www.aibase.com/news/31139",
+      "primary_url": "https://www.aibase.com/news/31139",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a5296ab9106f703c143754e3d28afe4ee121a77f",
+          "title": "千问APP升级未成年人保护模式，让青少年安全地用好AI",
+          "title_zh": "千问APP升级未成年人保护模式，让青少年安全地用好AI",
+          "title_en": null,
+          "title_original": "千问APP升级未成年人保护模式，让青少年安全地用好AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31139",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T11:36:31.424135Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "a5296ab9106f703c143754e3d28afe4ee121a77f",
+          "title": "千问APP升级未成年人保护模式，让青少年安全地用好AI",
+          "title_zh": "千问APP升级未成年人保护模式，让青少年安全地用好AI",
+          "title_en": null,
+          "title_original": "千问APP升级未成年人保护模式，让青少年安全地用好AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31139",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T11:36:31.424135Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T11:36:31.424135Z",
+      "latest_at": "2026-09-17T11:36:31.424135Z",
+      "primary_item": {
+        "id": "a5296ab9106f703c143754e3d28afe4ee121a77f",
+        "title": "千问APP升级未成年人保护模式，让青少年安全地用好AI",
+        "title_zh": "千问APP升级未成年人保护模式，让青少年安全地用好AI",
+        "title_en": null,
+        "title_original": "千问APP升级未成年人保护模式，让青少年安全地用好AI",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31139",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-17T12:10:24.266821Z"
       }
     }
   ]
