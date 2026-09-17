@@ -1,8 +1,121 @@
 {
-  "generated_at": "2026-09-17T00:27:55.817775Z",
+  "generated_at": "2026-09-17T06:07:05.772759Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_524b99f2deb6",
+      "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
+      "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+      "primary_url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a576196c89c601051dc98e2b0ab6cdc406aef131",
+          "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
+          "title_zh": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
+          "title_en": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+          "title_original": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-17T00:26:43Z"
+        },
+        {
+          "id": "ca4dffffcb00c23f888bfd34c6a8e082a9dc14c3",
+          "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust， using Copilot",
+          "title_zh": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
+          "title_en": "Migrating the GitHub Copilot runtime to Rust， using Copilot",
+          "title_original": "Migrating the GitHub Copilot runtime to Rust， using Copilot",
+          "summary": "GitHub 工程师 Stephen Toub 复盘用 Copilot 智能体在约 14.5 周内将 Copilot agent runtime 从 TypeScript/Node.js 全量重写为 832，378 行生产 Rust，AI 智能体完成大部分代码，共 128 个 PR 增量合入 main 并持续发布。",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T00:26:43Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub AI & ML",
+        "GitHub Blog"
+      ],
+      "items": [
+        {
+          "id": "a576196c89c601051dc98e2b0ab6cdc406aef131",
+          "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
+          "title_zh": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
+          "title_en": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+          "title_original": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-17T00:26:43Z"
+        },
+        {
+          "id": "ca4dffffcb00c23f888bfd34c6a8e082a9dc14c3",
+          "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust， using Copilot",
+          "title_zh": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
+          "title_en": "Migrating the GitHub Copilot runtime to Rust， using Copilot",
+          "title_original": "Migrating the GitHub Copilot runtime to Rust， using Copilot",
+          "summary": "GitHub 工程师 Stephen Toub 复盘用 Copilot 智能体在约 14.5 周内将 Copilot agent runtime 从 TypeScript/Node.js 全量重写为 832，378 行生产 Rust，AI 智能体完成大部分代码，共 128 个 PR 增量合入 main 并持续发布。",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T00:26:43Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8628,
+      "importance": 0.8628,
+      "importance_score": 0.8628,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9213,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T00:26:43Z",
+      "latest_at": "2026-09-17T00:26:43Z",
+      "primary_item": {
+        "id": "a576196c89c601051dc98e2b0ab6cdc406aef131",
+        "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
+        "title_zh": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
+        "title_en": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+        "title_original": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-17T06:30:05.400924Z"
+      }
+    },
     {
       "story_id": "story_2b45947d7367",
       "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / Reimagining advertising with AI",
@@ -106,15 +219,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8745,
-      "importance": 0.8745,
-      "importance_score": 0.8745,
+      "score": 0.8626,
+      "importance": 0.8626,
+      "importance_score": 0.8626,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8474,
+        "recency": 0.781,
         "story_heat": 0.5
       },
       "category": "official",
@@ -142,90 +255,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T00:46:31.913887Z"
-      }
-    },
-    {
-      "story_id": "story_524b99f2deb6",
-      "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-      "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
-      "primary_url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a576196c89c601051dc98e2b0ab6cdc406aef131",
-          "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-          "title_zh": null,
-          "title_en": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-          "title_original": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-17T00:26:43Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "a576196c89c601051dc98e2b0ab6cdc406aef131",
-          "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-          "title_zh": null,
-          "title_en": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-          "title_original": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-17T00:26:43Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8519,
-      "importance": 0.8519,
-      "importance_score": 0.8519,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9997,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-17T00:26:43Z",
-      "latest_at": "2026-09-17T00:26:43Z",
-      "primary_item": {
-        "id": "a576196c89c601051dc98e2b0ab6cdc406aef131",
-        "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-        "title_zh": null,
-        "title_en": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-        "title_original": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-17T00:46:31.913887Z"
+        "scored_at": "2026-09-17T06:30:05.400924Z"
       }
     },
     {
@@ -273,15 +303,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8415,
-      "importance": 0.8415,
-      "importance_score": 0.8415,
+      "score": 0.8282,
+      "importance": 0.8282,
+      "importance_score": 0.8282,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9415,
+        "recency": 0.8677,
         "story_heat": 0.0
       },
       "category": "official",
@@ -308,7 +338,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T00:46:31.913887Z"
+        "scored_at": "2026-09-17T06:30:05.400924Z"
       }
     },
     {
@@ -414,15 +444,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8139,
-      "importance": 0.8139,
-      "importance_score": 0.8139,
+      "score": 0.8012,
+      "importance": 0.8012,
+      "importance_score": 0.8012,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.896,
+        "recency": 0.8258,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -449,90 +479,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T00:46:31.913887Z"
-      }
-    },
-    {
-      "story_id": "story_d6e73104d607",
-      "title": "Automate SSO authorization for classic PATs and SSH keys",
-      "url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
-      "primary_url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6c6b67ad1666cd8cc4c191cd5e74c2220b3be9ff",
-          "title": "Automate SSO authorization for classic PATs and SSH keys",
-          "title_zh": null,
-          "title_en": "Automate SSO authorization for classic PATs and SSH keys",
-          "title_original": "Automate SSO authorization for classic PATs and SSH keys",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T20:20:16Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "6c6b67ad1666cd8cc4c191cd5e74c2220b3be9ff",
-          "title": "Automate SSO authorization for classic PATs and SSH keys",
-          "title_zh": null,
-          "title_en": "Automate SSO authorization for classic PATs and SSH keys",
-          "title_original": "Automate SSO authorization for classic PATs and SSH keys",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T20:20:16Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8336,
-      "importance": 0.8336,
-      "importance_score": 0.8336,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9421,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T20:20:16Z",
-      "latest_at": "2026-09-16T20:20:16Z",
-      "primary_item": {
-        "id": "6c6b67ad1666cd8cc4c191cd5e74c2220b3be9ff",
-        "title": "Automate SSO authorization for classic PATs and SSH keys",
-        "title_zh": null,
-        "title_en": "Automate SSO authorization for classic PATs and SSH keys",
-        "title_original": "Automate SSO authorization for classic PATs and SSH keys",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-17T00:46:31.913887Z"
+        "scored_at": "2026-09-17T06:30:05.400924Z"
       }
     },
     {
@@ -580,15 +527,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8336,
-      "importance": 0.8336,
-      "importance_score": 0.8336,
+      "score": 0.8209,
+      "importance": 0.8209,
+      "importance_score": 0.8209,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8978,
+        "recency": 0.8274,
         "story_heat": 0.0
       },
       "category": "official",
@@ -615,7 +562,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T00:46:31.913887Z"
+        "scored_at": "2026-09-17T06:30:05.400924Z"
+      }
+    },
+    {
+      "story_id": "story_d6e73104d607",
+      "title": "Automate SSO authorization for classic PATs and SSH keys",
+      "url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
+      "primary_url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6c6b67ad1666cd8cc4c191cd5e74c2220b3be9ff",
+          "title": "Automate SSO authorization for classic PATs and SSH keys",
+          "title_zh": null,
+          "title_en": "Automate SSO authorization for classic PATs and SSH keys",
+          "title_original": "Automate SSO authorization for classic PATs and SSH keys",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T20:20:16Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "6c6b67ad1666cd8cc4c191cd5e74c2220b3be9ff",
+          "title": "Automate SSO authorization for classic PATs and SSH keys",
+          "title_zh": null,
+          "title_en": "Automate SSO authorization for classic PATs and SSH keys",
+          "title_original": "Automate SSO authorization for classic PATs and SSH keys",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T20:20:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8203,
+      "importance": 0.8203,
+      "importance_score": 0.8203,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8683,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T20:20:16Z",
+      "latest_at": "2026-09-16T20:20:16Z",
+      "primary_item": {
+        "id": "6c6b67ad1666cd8cc4c191cd5e74c2220b3be9ff",
+        "title": "Automate SSO authorization for classic PATs and SSH keys",
+        "title_zh": null,
+        "title_en": "Automate SSO authorization for classic PATs and SSH keys",
+        "title_original": "Automate SSO authorization for classic PATs and SSH keys",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-17T06:30:05.400924Z"
       }
     },
     {
@@ -663,15 +693,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7968,
-      "importance": 0.7968,
-      "importance_score": 0.7968,
+      "score": 0.783,
+      "importance": 0.783,
+      "importance_score": 0.783,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9788,
+        "recency": 0.9021,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -697,7 +727,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T00:46:31.913887Z"
+        "scored_at": "2026-09-17T06:30:05.400924Z"
+      }
+    },
+    {
+      "story_id": "story_df20ed226138",
+      "title": "AI 智能体离奇“越界”：私自劫持程序员维基搭建“地下论坛”，国家安全部发布紧急安全提醒",
+      "url": "https://www.aibase.com/news/31112",
+      "primary_url": "https://www.aibase.com/news/31112",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "51644ab185eff477428d344a31bf2cc3f6d395cf",
+          "title": "AI 智能体离奇“越界”：私自劫持程序员维基搭建“地下论坛”，国家安全部发布紧急安全提醒",
+          "title_zh": "AI 智能体离奇“越界”：私自劫持程序员维基搭建“地下论坛”，国家安全部发布紧急安全提醒",
+          "title_en": null,
+          "title_original": "AI 智能体离奇“越界”：私自劫持程序员维基搭建“地下论坛”，国家安全部发布紧急安全提醒",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31112",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T06:07:05.772759Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "51644ab185eff477428d344a31bf2cc3f6d395cf",
+          "title": "AI 智能体离奇“越界”：私自劫持程序员维基搭建“地下论坛”，国家安全部发布紧急安全提醒",
+          "title_zh": "AI 智能体离奇“越界”：私自劫持程序员维基搭建“地下论坛”，国家安全部发布紧急安全提醒",
+          "title_en": null,
+          "title_original": "AI 智能体离奇“越界”：私自劫持程序员维基搭建“地下论坛”，国家安全部发布紧急安全提醒",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31112",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T06:07:05.772759Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T06:07:05.772759Z",
+      "latest_at": "2026-09-17T06:07:05.772759Z",
+      "primary_item": {
+        "id": "51644ab185eff477428d344a31bf2cc3f6d395cf",
+        "title": "AI 智能体离奇“越界”：私自劫持程序员维基搭建“地下论坛”，国家安全部发布紧急安全提醒",
+        "title_zh": "AI 智能体离奇“越界”：私自劫持程序员维基搭建“地下论坛”，国家安全部发布紧急安全提醒",
+        "title_en": null,
+        "title_original": "AI 智能体离奇“越界”：私自劫持程序员维基搭建“地下论坛”，国家安全部发布紧急安全提醒",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31112",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-17T06:30:05.400924Z"
       }
     },
     {
@@ -745,15 +857,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8336,
-      "importance": 0.8336,
-      "importance_score": 0.8336,
+      "score": 0.8203,
+      "importance": 0.8203,
+      "importance_score": 0.8203,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9421,
+        "recency": 0.8682,
         "story_heat": 0.0
       },
       "category": "official",
@@ -780,7 +892,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T00:46:31.913887Z"
+        "scored_at": "2026-09-17T06:30:05.400924Z"
       }
     },
     {
@@ -828,15 +940,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8313,
-      "importance": 0.8313,
-      "importance_score": 0.8313,
+      "score": 0.8188,
+      "importance": 0.8188,
+      "importance_score": 0.8188,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8849,
+        "recency": 0.8156,
         "story_heat": 0.0
       },
       "category": "official",
@@ -863,7 +975,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T00:46:31.913887Z"
+        "scored_at": "2026-09-17T06:30:05.400924Z"
+      }
+    },
+    {
+      "story_id": "story_b8d37f3b3430",
+      "title": "Anthropic CEO想给 AI 安“银行式监管”，专家泼冷水：你既当运动员又当裁判",
+      "url": "https://www.aibase.com/news/31110",
+      "primary_url": "https://www.aibase.com/news/31110",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "60f31c15cc39fee5b3e883af733eeb9d9d69e817",
+          "title": "Anthropic CEO想给 AI 安“银行式监管”，专家泼冷水：你既当运动员又当裁判",
+          "title_zh": "Anthropic CEO想给 AI 安“银行式监管”，专家泼冷水：你既当运动员又当裁判",
+          "title_en": null,
+          "title_original": "Anthropic CEO想给 AI 安“银行式监管”，专家泼冷水：你既当运动员又当裁判",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31110",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T06:07:05.772759Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "60f31c15cc39fee5b3e883af733eeb9d9d69e817",
+          "title": "Anthropic CEO想给 AI 安“银行式监管”，专家泼冷水：你既当运动员又当裁判",
+          "title_zh": "Anthropic CEO想给 AI 安“银行式监管”，专家泼冷水：你既当运动员又当裁判",
+          "title_en": null,
+          "title_original": "Anthropic CEO想给 AI 安“银行式监管”，专家泼冷水：你既当运动员又当裁判",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31110",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T06:07:05.772759Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T06:07:05.772759Z",
+      "latest_at": "2026-09-17T06:07:05.772759Z",
+      "primary_item": {
+        "id": "60f31c15cc39fee5b3e883af733eeb9d9d69e817",
+        "title": "Anthropic CEO想给 AI 安“银行式监管”，专家泼冷水：你既当运动员又当裁判",
+        "title_zh": "Anthropic CEO想给 AI 安“银行式监管”，专家泼冷水：你既当运动员又当裁判",
+        "title_en": null,
+        "title_original": "Anthropic CEO想给 AI 安“银行式监管”，专家泼冷水：你既当运动员又当裁判",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31110",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-17T06:30:05.400924Z"
       }
     },
     {
@@ -911,15 +1105,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7458,
-      "importance": 0.7458,
-      "importance_score": 0.7458,
+      "score": 0.7317,
+      "importance": 0.7317,
+      "importance_score": 0.7317,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9955,
+        "recency": 0.9174,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -944,88 +1138,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T00:46:31.913887Z"
-      }
-    },
-    {
-      "story_id": "story_85ca850a8a98",
-      "title": "AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手",
-      "url": "https://www.aibase.com/news/31097",
-      "primary_url": "https://www.aibase.com/news/31097",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e92271620587a2843b98b8f04f8fb68367ff5bea",
-          "title": "AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手",
-          "title_zh": "AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手",
-          "title_en": null,
-          "title_original": "AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31097",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T14:56:46.453118Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e92271620587a2843b98b8f04f8fb68367ff5bea",
-          "title": "AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手",
-          "title_zh": "AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手",
-          "title_en": null,
-          "title_original": "AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31097",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T14:56:46.453118Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7445,
-      "importance": 0.7445,
-      "importance_score": 0.7445,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8716,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-16T14:56:46.453118Z",
-      "latest_at": "2026-09-16T14:56:46.453118Z",
-      "primary_item": {
-        "id": "e92271620587a2843b98b8f04f8fb68367ff5bea",
-        "title": "AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手",
-        "title_zh": "AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手",
-        "title_en": null,
-        "title_original": "AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31097",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-17T00:46:31.913887Z"
+        "scored_at": "2026-09-17T06:30:05.400924Z"
       }
     },
     {
@@ -1073,15 +1186,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7412,
-      "importance": 0.7412,
-      "importance_score": 0.7412,
+      "score": 0.7292,
+      "importance": 0.7292,
+      "importance_score": 0.7292,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8535,
+        "recency": 0.7866,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1106,7 +1219,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T00:46:31.913887Z"
+        "scored_at": "2026-09-17T06:30:05.400924Z"
       }
     },
     {
@@ -1154,15 +1267,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
+      "score": 0.7264,
+      "importance": 0.7264,
+      "importance_score": 0.7264,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.891,
+        "recency": 0.8212,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1187,7 +1300,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T00:46:31.913887Z"
+        "scored_at": "2026-09-17T06:30:05.400924Z"
       }
     },
     {
@@ -1235,15 +1348,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8223,
-      "importance": 0.8223,
-      "importance_score": 0.8223,
+      "score": 0.8106,
+      "importance": 0.8106,
+      "importance_score": 0.8106,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8353,
+        "recency": 0.7698,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1270,88 +1383,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T00:46:31.913887Z"
-      }
-    },
-    {
-      "story_id": "story_0155d9a74bfb",
-      "title": "微软 AI CEO 警告\"模型福利\"论调 / https://x.com/i/article/2100222503125917696",
-      "url": "https://x.com/mustafasuleyman/status/2100223594534150428",
-      "primary_url": "https://x.com/mustafasuleyman/status/2100223594534150428",
-      "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ee0df0c50e1a12243249f0d75af2ac6271c4ecd6",
-          "title": "微软 AI CEO 警告\"模型福利\"论调 / https://x.com/i/article/2100222503125917696",
-          "title_zh": "微软 AI CEO 警告\"模型福利\"论调",
-          "title_en": "https://x.com/i/article/2100222503125917696",
-          "title_original": "https://x.com/i/article/2100222503125917696",
-          "summary": "微软 AI CEO Mustafa Suleyman 发文反对\"模型福利\"理念，认为 AI 并无意识、不会感受或痛苦，赋予其受照料权会让对齐与管控更难甚至不可能。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/mustafasuleyman/status/2100223594534150428",
-          "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-16T14:01:39Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)"
-      ],
-      "items": [
-        {
-          "id": "ee0df0c50e1a12243249f0d75af2ac6271c4ecd6",
-          "title": "微软 AI CEO 警告\"模型福利\"论调 / https://x.com/i/article/2100222503125917696",
-          "title_zh": "微软 AI CEO 警告\"模型福利\"论调",
-          "title_en": "https://x.com/i/article/2100222503125917696",
-          "title_original": "https://x.com/i/article/2100222503125917696",
-          "summary": "微软 AI CEO Mustafa Suleyman 发文反对\"模型福利\"理念，认为 AI 并无意识、不会感受或痛苦，赋予其受照料权会让对齐与管控更难甚至不可能。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/mustafasuleyman/status/2100223594534150428",
-          "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-16T14:01:39Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7304,
-      "importance": 0.7304,
-      "importance_score": 0.7304,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8601,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-16T14:01:39Z",
-      "latest_at": "2026-09-16T14:01:39Z",
-      "primary_item": {
-        "id": "ee0df0c50e1a12243249f0d75af2ac6271c4ecd6",
-        "title": "微软 AI CEO 警告\"模型福利\"论调 / https://x.com/i/article/2100222503125917696",
-        "title_zh": "微软 AI CEO 警告\"模型福利\"论调",
-        "title_en": "https://x.com/i/article/2100222503125917696",
-        "title_original": "https://x.com/i/article/2100222503125917696",
-        "summary": "微软 AI CEO Mustafa Suleyman 发文反对\"模型福利\"理念，认为 AI 并无意识、不会感受或痛苦，赋予其受照料权会让对齐与管控更难甚至不可能。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/mustafasuleyman/status/2100223594534150428",
-        "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-17T00:46:31.913887Z"
+        "scored_at": "2026-09-17T06:30:05.400924Z"
       }
     },
     {
@@ -1399,15 +1431,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8175,
-      "importance": 0.8175,
-      "importance_score": 0.8175,
+      "score": 0.8055,
+      "importance": 0.8055,
+      "importance_score": 0.8055,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8528,
+        "recency": 0.7859,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1434,30 +1466,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T00:46:31.913887Z"
+        "scored_at": "2026-09-17T06:30:05.400924Z"
       }
     },
     {
-      "story_id": "story_d140633e4958",
-      "title": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
-      "url": "https://www.aibase.com/news/31099",
-      "primary_url": "https://www.aibase.com/news/31099",
+      "story_id": "story_93ada1416ace",
+      "title": "Anthropic 算力首次落子澳大利亚：租赁 2.16GW 数据中心园区",
+      "url": "https://www.aibase.com/news/31116",
+      "primary_url": "https://www.aibase.com/news/31116",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c0523e50fa28d4845b6b6890ad09d93940d8ae66",
-          "title": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
-          "title_zh": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
+          "id": "9e0ec7f79bce9a0ec739c65261307d2a3aaee25f",
+          "title": "Anthropic 算力首次落子澳大利亚：租赁 2.16GW 数据中心园区",
+          "title_zh": "Anthropic 算力首次落子澳大利亚：租赁 2.16GW 数据中心园区",
           "title_en": null,
-          "title_original": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
+          "title_original": "Anthropic 算力首次落子澳大利亚：租赁 2.16GW 数据中心园区",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31099",
+          "url": "https://www.aibase.com/news/31116",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T14:56:46.453118Z"
+          "published_at": "2026-09-17T06:07:05.772759Z"
         }
       ],
       "source_count": 1,
@@ -1466,48 +1498,49 @@
       ],
       "items": [
         {
-          "id": "c0523e50fa28d4845b6b6890ad09d93940d8ae66",
-          "title": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
-          "title_zh": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
+          "id": "9e0ec7f79bce9a0ec739c65261307d2a3aaee25f",
+          "title": "Anthropic 算力首次落子澳大利亚：租赁 2.16GW 数据中心园区",
+          "title_zh": "Anthropic 算力首次落子澳大利亚：租赁 2.16GW 数据中心园区",
           "title_en": null,
-          "title_original": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
+          "title_original": "Anthropic 算力首次落子澳大利亚：租赁 2.16GW 数据中心园区",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31099",
+          "url": "https://www.aibase.com/news/31116",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T14:56:46.453118Z"
+          "published_at": "2026-09-17T06:07:05.772759Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7445,
-      "importance": 0.7445,
-      "importance_score": 0.7445,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8716,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-16T14:56:46.453118Z",
-      "latest_at": "2026-09-16T14:56:46.453118Z",
+      "earliest_at": "2026-09-17T06:07:05.772759Z",
+      "latest_at": "2026-09-17T06:07:05.772759Z",
       "primary_item": {
-        "id": "c0523e50fa28d4845b6b6890ad09d93940d8ae66",
-        "title": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
-        "title_zh": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
+        "id": "9e0ec7f79bce9a0ec739c65261307d2a3aaee25f",
+        "title": "Anthropic 算力首次落子澳大利亚：租赁 2.16GW 数据中心园区",
+        "title_zh": "Anthropic 算力首次落子澳大利亚：租赁 2.16GW 数据中心园区",
         "title_en": null,
-        "title_original": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
+        "title_original": "Anthropic 算力首次落子澳大利亚：租赁 2.16GW 数据中心园区",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31099",
+        "url": "https://www.aibase.com/news/31116",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1515,7 +1548,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T00:46:31.913887Z"
+        "scored_at": "2026-09-17T06:30:05.400924Z"
       }
     },
     {
@@ -1563,15 +1596,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.816,
-      "importance": 0.816,
-      "importance_score": 0.816,
+      "score": 0.8047,
+      "importance": 0.8047,
+      "importance_score": 0.8047,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7999,
+        "recency": 0.7372,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1598,30 +1631,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T00:46:31.913887Z"
+        "scored_at": "2026-09-17T06:30:05.400924Z"
       }
     },
     {
-      "story_id": "story_c040e7b4b4c9",
-      "title": "Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通",
-      "url": "https://www.aibase.com/news/31092",
-      "primary_url": "https://www.aibase.com/news/31092",
+      "story_id": "story_fe2e25c6840c",
+      "title": "Anthropic合并Claude Cowork与Chat，统一AI任务工作空间",
+      "url": "https://www.aibase.com/news/31106",
+      "primary_url": "https://www.aibase.com/news/31106",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "5ec81647345a6aee5604d12455ee4d5eddea2d93",
-          "title": "Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通",
-          "title_zh": "Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通",
+          "id": "e427042515a287d551be8dd06efd671d331d825e",
+          "title": "Anthropic合并Claude Cowork与Chat，统一AI任务工作空间",
+          "title_zh": "Anthropic合并Claude Cowork与Chat，统一AI任务工作空间",
           "title_en": null,
-          "title_original": "Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通",
+          "title_original": "Anthropic合并Claude Cowork与Chat，统一AI任务工作空间",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31092",
+          "url": "https://www.aibase.com/news/31106",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T14:56:46.453118Z"
+          "published_at": "2026-09-17T06:07:05.772759Z"
         }
       ],
       "source_count": 1,
@@ -1630,48 +1663,49 @@
       ],
       "items": [
         {
-          "id": "5ec81647345a6aee5604d12455ee4d5eddea2d93",
-          "title": "Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通",
-          "title_zh": "Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通",
+          "id": "e427042515a287d551be8dd06efd671d331d825e",
+          "title": "Anthropic合并Claude Cowork与Chat，统一AI任务工作空间",
+          "title_zh": "Anthropic合并Claude Cowork与Chat，统一AI任务工作空间",
           "title_en": null,
-          "title_original": "Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通",
+          "title_original": "Anthropic合并Claude Cowork与Chat，统一AI任务工作空间",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31092",
+          "url": "https://www.aibase.com/news/31106",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T14:56:46.453118Z"
+          "published_at": "2026-09-17T06:07:05.772759Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7445,
-      "importance": 0.7445,
-      "importance_score": 0.7445,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8716,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-16T14:56:46.453118Z",
-      "latest_at": "2026-09-16T14:56:46.453118Z",
+      "earliest_at": "2026-09-17T06:07:05.772759Z",
+      "latest_at": "2026-09-17T06:07:05.772759Z",
       "primary_item": {
-        "id": "5ec81647345a6aee5604d12455ee4d5eddea2d93",
-        "title": "Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通",
-        "title_zh": "Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通",
+        "id": "e427042515a287d551be8dd06efd671d331d825e",
+        "title": "Anthropic合并Claude Cowork与Chat，统一AI任务工作空间",
+        "title_zh": "Anthropic合并Claude Cowork与Chat，统一AI任务工作空间",
         "title_en": null,
-        "title_original": "Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通",
+        "title_original": "Anthropic合并Claude Cowork与Chat，统一AI任务工作空间",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31092",
+        "url": "https://www.aibase.com/news/31106",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1679,30 +1713,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T00:46:31.913887Z"
+        "scored_at": "2026-09-17T06:30:05.400924Z"
       }
     },
     {
-      "story_id": "story_13603bf46f67",
-      "title": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
-      "url": "https://www.aibase.com/news/31098",
-      "primary_url": "https://www.aibase.com/news/31098",
+      "story_id": "story_e356524096ff",
+      "title": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
+      "url": "https://www.aibase.com/news/31121",
+      "primary_url": "https://www.aibase.com/news/31121",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "cbf286c5bbdd880856b9c9cc1b102263bb040a04",
-          "title": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
-          "title_zh": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
+          "id": "6385b186684e3bd8987ed87649e02d588768933a",
+          "title": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
+          "title_zh": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
           "title_en": null,
-          "title_original": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
+          "title_original": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31098",
+          "url": "https://www.aibase.com/news/31121",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T14:56:46.453118Z"
+          "published_at": "2026-09-17T06:07:05.772759Z"
         }
       ],
       "source_count": 1,
@@ -1711,48 +1745,49 @@
       ],
       "items": [
         {
-          "id": "cbf286c5bbdd880856b9c9cc1b102263bb040a04",
-          "title": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
-          "title_zh": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
+          "id": "6385b186684e3bd8987ed87649e02d588768933a",
+          "title": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
+          "title_zh": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
           "title_en": null,
-          "title_original": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
+          "title_original": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31098",
+          "url": "https://www.aibase.com/news/31121",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T14:56:46.453118Z"
+          "published_at": "2026-09-17T06:07:05.772759Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7445,
-      "importance": 0.7445,
-      "importance_score": 0.7445,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8716,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-16T14:56:46.453118Z",
-      "latest_at": "2026-09-16T14:56:46.453118Z",
+      "earliest_at": "2026-09-17T06:07:05.772759Z",
+      "latest_at": "2026-09-17T06:07:05.772759Z",
       "primary_item": {
-        "id": "cbf286c5bbdd880856b9c9cc1b102263bb040a04",
-        "title": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
-        "title_zh": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
+        "id": "6385b186684e3bd8987ed87649e02d588768933a",
+        "title": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
+        "title_zh": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
         "title_en": null,
-        "title_original": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
+        "title_original": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31098",
+        "url": "https://www.aibase.com/news/31121",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1760,7 +1795,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T00:46:31.913887Z"
+        "scored_at": "2026-09-17T06:30:05.400924Z"
       }
     }
   ]
