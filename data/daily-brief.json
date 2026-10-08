@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T19:20:48.094811Z",
+  "generated_at": "2026-10-08T00:10:12.679506Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -8,22 +8,22 @@
       "title": "OpenAI 向全部 ChatGPT 用户推出 GPT-6 与 Intelligent UI / GPT-6 and Intelligent UI for everyone",
       "url": "https://openai.com/index/gpt-6-for-everyone",
       "primary_url": "https://openai.com/index/gpt-6-for-everyone",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "aa1be73cdc1c440199f2a700f12559fa44e39511",
+          "id": "9812f46d2f4c0f9eb3380207ba7624fcdde2ad1a",
           "title": "OpenAI 向全部 ChatGPT 用户推出 GPT-6 与 Intelligent UI / GPT-6 and Intelligent UI for everyone",
           "title_zh": "OpenAI 向全部 ChatGPT 用户推出 GPT-6 与 Intelligent UI",
           "title_en": "GPT-6 and Intelligent UI for everyone",
           "title_original": "GPT-6 and Intelligent UI for everyone",
-          "summary": null,
+          "summary": "OpenAI 发布面向更广泛用户的 GPT-6，并随 GPT-6 在 ChatGPT 中引入 Intelligent UI，可生成图形、按钮、表单、图表和可交互组件来回答问题。",
           "recommend_reason_zh": null,
           "url": "https://openai.com/index/gpt-6-for-everyone",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T00:00:00Z"
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-07T18:00:58Z"
         },
         {
           "id": "12c87bc5bf4a3ee5f3ffd78d4021b63b3b9f029f",
@@ -52,28 +52,43 @@
           "source_name": "Info Flow",
           "site_id": "iris",
           "published_at": "2026-10-07T18:00:58Z"
+        },
+        {
+          "id": "5842253de62f62cf023b1038efea3e8c56cfc399",
+          "title": "适合所有人的 GPT‑6 和智能 UI / GPT‑6 and Intelligent UI for everyone",
+          "title_zh": "适合所有人的 GPT‑6 和智能 UI",
+          "title_en": "GPT‑6 and Intelligent UI for everyone",
+          "title_original": "GPT‑6 and Intelligent UI for everyone",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49996425",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-07T18:00:58Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "source_names": [
         "Hacker News (黑客新闻)",
-        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "hackernews",
         "openai.com"
       ],
       "items": [
         {
-          "id": "aa1be73cdc1c440199f2a700f12559fa44e39511",
+          "id": "9812f46d2f4c0f9eb3380207ba7624fcdde2ad1a",
           "title": "OpenAI 向全部 ChatGPT 用户推出 GPT-6 与 Intelligent UI / GPT-6 and Intelligent UI for everyone",
           "title_zh": "OpenAI 向全部 ChatGPT 用户推出 GPT-6 与 Intelligent UI",
           "title_en": "GPT-6 and Intelligent UI for everyone",
           "title_original": "GPT-6 and Intelligent UI for everyone",
-          "summary": null,
+          "summary": "OpenAI 发布面向更广泛用户的 GPT-6，并随 GPT-6 在 ChatGPT 中引入 Intelligent UI，可生成图形、按钮、表单、图表和可交互组件来回答问题。",
           "recommend_reason_zh": null,
           "url": "https://openai.com/index/gpt-6-for-everyone",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T00:00:00Z"
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-07T18:00:58Z"
         },
         {
           "id": "12c87bc5bf4a3ee5f3ffd78d4021b63b3b9f029f",
@@ -102,47 +117,143 @@
           "source_name": "Info Flow",
           "site_id": "iris",
           "published_at": "2026-10-07T18:00:58Z"
+        },
+        {
+          "id": "5842253de62f62cf023b1038efea3e8c56cfc399",
+          "title": "适合所有人的 GPT‑6 和智能 UI / GPT‑6 and Intelligent UI for everyone",
+          "title_zh": "适合所有人的 GPT‑6 和智能 UI",
+          "title_en": "GPT‑6 and Intelligent UI for everyone",
+          "title_original": "GPT‑6 and Intelligent UI for everyone",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49996425",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-07T18:00:58Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8661,
-      "importance": 0.8661,
-      "importance_score": 0.8661,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.9207,
+      "importance": 0.9207,
+      "importance_score": 0.9207,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.87,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.915,
+        "story_heat": 0.75
+      },
+      "category": "official",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-07T18:00:58Z",
+      "latest_at": "2026-10-07T19:00:15.099000Z",
+      "primary_item": {
+        "id": "9812f46d2f4c0f9eb3380207ba7624fcdde2ad1a",
+        "title": "OpenAI 向全部 ChatGPT 用户推出 GPT-6 与 Intelligent UI / GPT-6 and Intelligent UI for everyone",
+        "title_zh": "OpenAI 向全部 ChatGPT 用户推出 GPT-6 与 Intelligent UI",
+        "title_en": "GPT-6 and Intelligent UI for everyone",
+        "title_original": "GPT-6 and Intelligent UI for everyone",
+        "summary": "OpenAI 发布面向更广泛用户的 GPT-6，并随 GPT-6 在 ChatGPT 中引入 Intelligent UI，可生成图形、按钮、表单、图表和可交互组件来回答问题。",
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/gpt-6-for-everyone",
+        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-08T00:11:29.785834Z"
+      }
+    },
+    {
+      "story_id": "story_7656d3b30e51",
+      "title": "GitHub Copilot 中的Claude俳句 5.5 / Claude Haiku 5.5 in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "19ce53b7b96cdf6c23e65be8f3d837c42dc378a3",
+          "title": "GitHub Copilot 中的Claude俳句 5.5 / Claude Haiku 5.5 in GitHub Copilot",
+          "title_zh": "GitHub Copilot 中的Claude俳句 5.5",
+          "title_en": "Claude Haiku 5.5 in GitHub Copilot",
+          "title_original": "Claude Haiku 5.5 in GitHub Copilot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-07T20:12:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "19ce53b7b96cdf6c23e65be8f3d837c42dc378a3",
+          "title": "GitHub Copilot 中的Claude俳句 5.5 / Claude Haiku 5.5 in GitHub Copilot",
+          "title_zh": "GitHub Copilot 中的Claude俳句 5.5",
+          "title_en": "Claude Haiku 5.5 in GitHub Copilot",
+          "title_original": "Claude Haiku 5.5 in GitHub Copilot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-07T20:12:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.85,
+      "importance": 0.85,
+      "importance_score": 0.85,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7563,
-        "story_heat": 0.5
+        "recency": 0.9443,
+        "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-07T00:00:00Z",
-      "latest_at": "2026-10-07T19:00:15.099000Z",
+      "earliest_at": "2026-10-07T20:12:18Z",
+      "latest_at": "2026-10-07T20:12:18Z",
       "primary_item": {
-        "id": "aa1be73cdc1c440199f2a700f12559fa44e39511",
-        "title": "OpenAI 向全部 ChatGPT 用户推出 GPT-6 与 Intelligent UI / GPT-6 and Intelligent UI for everyone",
-        "title_zh": "OpenAI 向全部 ChatGPT 用户推出 GPT-6 与 Intelligent UI",
-        "title_en": "GPT-6 and Intelligent UI for everyone",
-        "title_original": "GPT-6 and Intelligent UI for everyone",
+        "id": "19ce53b7b96cdf6c23e65be8f3d837c42dc378a3",
+        "title": "GitHub Copilot 中的Claude俳句 5.5 / Claude Haiku 5.5 in GitHub Copilot",
+        "title_zh": "GitHub Copilot 中的Claude俳句 5.5",
+        "title_en": "Claude Haiku 5.5 in GitHub Copilot",
+        "title_original": "Claude Haiku 5.5 in GitHub Copilot",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/gpt-6-for-everyone",
-        "source": "OpenAI News",
+        "url": "https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T19:21:45.219522Z"
+        "scored_at": "2026-10-08T00:11:29.785834Z"
       }
     },
     {
@@ -190,15 +301,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8538,
-      "importance": 0.8538,
-      "importance_score": 0.8538,
+      "score": 0.8421,
+      "importance": 0.8421,
+      "importance_score": 0.8421,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9654,
+        "recency": 0.9005,
         "story_heat": 0.0
       },
       "category": "official",
@@ -225,90 +336,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T19:21:45.219522Z"
-      }
-    },
-    {
-      "story_id": "story_b9d295c686cc",
-      "title": "GitHub Copilot 的本地沙箱现已普遍可用 / Local sandboxing for GitHub Copilot now generally available",
-      "url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4b00cda75f5bf858a654f796a769ab4bacf81797",
-          "title": "GitHub Copilot 的本地沙箱现已普遍可用 / Local sandboxing for GitHub Copilot now generally available",
-          "title_zh": "GitHub Copilot 的本地沙箱现已普遍可用",
-          "title_en": "Local sandboxing for GitHub Copilot now generally available",
-          "title_original": "Local sandboxing for GitHub Copilot now generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T15:46:17Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "4b00cda75f5bf858a654f796a769ab4bacf81797",
-          "title": "GitHub Copilot 的本地沙箱现已普遍可用 / Local sandboxing for GitHub Copilot now generally available",
-          "title_zh": "GitHub Copilot 的本地沙箱现已普遍可用",
-          "title_en": "Local sandboxing for GitHub Copilot now generally available",
-          "title_original": "Local sandboxing for GitHub Copilot now generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T15:46:17Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8489,
-      "importance": 0.8489,
-      "importance_score": 0.8489,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.9497,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-07T15:46:17Z",
-      "latest_at": "2026-10-07T15:46:17Z",
-      "primary_item": {
-        "id": "4b00cda75f5bf858a654f796a769ab4bacf81797",
-        "title": "GitHub Copilot 的本地沙箱现已普遍可用 / Local sandboxing for GitHub Copilot now generally available",
-        "title_zh": "GitHub Copilot 的本地沙箱现已普遍可用",
-        "title_en": "Local sandboxing for GitHub Copilot now generally available",
-        "title_original": "Local sandboxing for GitHub Copilot now generally available",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-07T19:21:45.219522Z"
+        "scored_at": "2026-10-08T00:11:29.785834Z"
       }
     },
     {
@@ -356,15 +384,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8399,
-      "importance": 0.8399,
-      "importance_score": 0.8399,
+      "score": 0.8281,
+      "importance": 0.8281,
+      "importance_score": 0.8281,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9773,
+        "recency": 0.9116,
         "story_heat": 0.0
       },
       "category": "official",
@@ -391,562 +419,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T19:21:45.219522Z"
-      }
-    },
-    {
-      "story_id": "story_b297de01ee31",
-      "title": "适用于 iOS 的 ChatGPT 1.2026.272 / ChatGPT for iOS 1.2026.272",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "970507defeb4fc629819eea2649547e925fc190b",
-          "title": "适用于 iOS 的 ChatGPT 1.2026.272 / ChatGPT for iOS 1.2026.272",
-          "title_zh": "适用于 iOS 的 ChatGPT 1.2026.272",
-          "title_en": "ChatGPT for iOS 1.2026.272",
-          "title_original": "ChatGPT for iOS 1.2026.272",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "970507defeb4fc629819eea2649547e925fc190b",
-          "title": "适用于 iOS 的 ChatGPT 1.2026.272 / ChatGPT for iOS 1.2026.272",
-          "title_zh": "适用于 iOS 的 ChatGPT 1.2026.272",
-          "title_en": "ChatGPT for iOS 1.2026.272",
-          "title_original": "ChatGPT for iOS 1.2026.272",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8261,
-      "importance": 0.8261,
-      "importance_score": 0.8261,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7563,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-07T00:00:00Z",
-      "latest_at": "2026-10-07T00:00:00Z",
-      "primary_item": {
-        "id": "970507defeb4fc629819eea2649547e925fc190b",
-        "title": "适用于 iOS 的 ChatGPT 1.2026.272 / ChatGPT for iOS 1.2026.272",
-        "title_zh": "适用于 iOS 的 ChatGPT 1.2026.272",
-        "title_en": "ChatGPT for iOS 1.2026.272",
-        "title_original": "ChatGPT for iOS 1.2026.272",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-07T19:21:45.219522Z"
-      }
-    },
-    {
-      "story_id": "story_3d2baa621386",
-      "title": "Playground 简介：创建和玩自定义游戏 / Introducing Playground: Create and play custom games",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "848420b61bf519d454e6d7b9a53b94e0eef7dfc1",
-          "title": "Playground 简介：创建和玩自定义游戏 / Introducing Playground: Create and play custom games",
-          "title_zh": "Playground 简介：创建和玩自定义游戏",
-          "title_en": "Introducing Playground: Create and play custom games",
-          "title_original": "Introducing Playground: Create and play custom games",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "848420b61bf519d454e6d7b9a53b94e0eef7dfc1",
-          "title": "Playground 简介：创建和玩自定义游戏 / Introducing Playground: Create and play custom games",
-          "title_zh": "Playground 简介：创建和玩自定义游戏",
-          "title_en": "Introducing Playground: Create and play custom games",
-          "title_original": "Introducing Playground: Create and play custom games",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8259,
-      "importance": 0.8259,
-      "importance_score": 0.8259,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8993,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-07T12:00:00Z",
-      "latest_at": "2026-10-07T12:00:00Z",
-      "primary_item": {
-        "id": "848420b61bf519d454e6d7b9a53b94e0eef7dfc1",
-        "title": "Playground 简介：创建和玩自定义游戏 / Introducing Playground: Create and play custom games",
-        "title_zh": "Playground 简介：创建和玩自定义游戏",
-        "title_en": "Introducing Playground: Create and play custom games",
-        "title_original": "Introducing Playground: Create and play custom games",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-07T19:21:45.219522Z"
-      }
-    },
-    {
-      "story_id": "story_e1332c8f3158",
-      "title": "OpenAI 发布内部前沿模型产出的数学研究成果 / Sharing AI progress in mathematics",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-      "primary_url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "02b12876fb3eb437aec169fe451761ddd907d8ac",
-          "title": "OpenAI 发布内部前沿模型产出的数学研究成果 / Sharing AI progress in mathematics",
-          "title_zh": "OpenAI 发布内部前沿模型产出的数学研究成果",
-          "title_en": "Sharing AI progress in mathematics",
-          "title_original": "Sharing AI progress in mathematics",
-          "summary": "OpenAI 发布一批由内部前沿模型产出的新数学成果，成果以 GitHub 仓库形式公开，并附论文修订与引用协议，其中许多证明已用 Lean 形式化以便计算机验证。",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T23:01:09.228000Z"
-        },
-        {
-          "id": "6868abd919243a6ee9a41be56fbf208804417bfb",
-          "title": "分享人工智能在数学领域的进展",
-          "title_zh": "分享人工智能在数学领域的进展",
-          "title_en": null,
-          "title_original": "分享人工智能在数学领域的进展",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-06T23:01:09.228000Z"
-        },
-        {
-          "id": "53a495f0f2edcface64504f1b85e9813ae6ed7af",
-          "title": "分享AI数学进展 / Sharing AI progress in mathematics",
-          "title_zh": "分享AI数学进展",
-          "title_en": "Sharing AI progress in mathematics",
-          "title_original": "Sharing AI progress in mathematics",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49984923",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-06T22:17:21Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "hackernews",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "02b12876fb3eb437aec169fe451761ddd907d8ac",
-          "title": "OpenAI 发布内部前沿模型产出的数学研究成果 / Sharing AI progress in mathematics",
-          "title_zh": "OpenAI 发布内部前沿模型产出的数学研究成果",
-          "title_en": "Sharing AI progress in mathematics",
-          "title_original": "Sharing AI progress in mathematics",
-          "summary": "OpenAI 发布一批由内部前沿模型产出的新数学成果，成果以 GitHub 仓库形式公开，并附论文修订与引用协议，其中许多证明已用 Lean 形式化以便计算机验证。",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T23:01:09.228000Z"
-        },
-        {
-          "id": "6868abd919243a6ee9a41be56fbf208804417bfb",
-          "title": "分享人工智能在数学领域的进展",
-          "title_zh": "分享人工智能在数学领域的进展",
-          "title_en": null,
-          "title_original": "分享人工智能在数学领域的进展",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-06T23:01:09.228000Z"
-        },
-        {
-          "id": "53a495f0f2edcface64504f1b85e9813ae6ed7af",
-          "title": "分享AI数学进展 / Sharing AI progress in mathematics",
-          "title_zh": "分享AI数学进展",
-          "title_en": "Sharing AI progress in mathematics",
-          "title_original": "Sharing AI progress in mathematics",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49984923",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-06T22:17:21Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8172,
-      "importance": 0.8172,
-      "importance_score": 0.8172,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7456,
-        "story_heat": 0.5
-      },
-      "category": "official",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-06T22:17:21Z",
-      "latest_at": "2026-10-06T23:01:09.228000Z",
-      "primary_item": {
-        "id": "02b12876fb3eb437aec169fe451761ddd907d8ac",
-        "title": "OpenAI 发布内部前沿模型产出的数学研究成果 / Sharing AI progress in mathematics",
-        "title_zh": "OpenAI 发布内部前沿模型产出的数学研究成果",
-        "title_en": "Sharing AI progress in mathematics",
-        "title_original": "Sharing AI progress in mathematics",
-        "summary": "OpenAI 发布一批由内部前沿模型产出的新数学成果，成果以 GitHub 仓库形式公开，并附论文修订与引用协议，其中许多证明已用 Lean 形式化以便计算机验证。",
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-07T19:21:45.219522Z"
-      }
-    },
-    {
-      "story_id": "story_856527284047",
-      "title": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平 / One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-      "primary_url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d9cda66c440e460d39f69205bed1c9ae08d814f0",
-          "title": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平 / One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-          "title_zh": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平",
-          "title_en": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-          "title_original": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T12:45:31Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "d9cda66c440e460d39f69205bed1c9ae08d814f0",
-          "title": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平 / One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-          "title_zh": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平",
-          "title_en": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-          "title_original": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T12:45:31Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8437,
-      "importance": 0.8437,
-      "importance_score": 0.8437,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.9092,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-07T12:45:31Z",
-      "latest_at": "2026-10-07T12:45:31Z",
-      "primary_item": {
-        "id": "d9cda66c440e460d39f69205bed1c9ae08d814f0",
-        "title": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平 / One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-        "title_zh": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平",
-        "title_en": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-        "title_original": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-07T19:21:45.219522Z"
-      }
-    },
-    {
-      "story_id": "story_58aa148af326",
-      "title": "在 GitHub Copilot CLI 中发现本地模型 / Discover local models in GitHub Copilot CLI",
-      "url": "https://github.blog/changelog/2026-10-07-discover-local-models-in-github-copilot-cli",
-      "primary_url": "https://github.blog/changelog/2026-10-07-discover-local-models-in-github-copilot-cli",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b2ee605dc8cba7b47fafb515839143263ce95ea9",
-          "title": "在 GitHub Copilot CLI 中发现本地模型 / Discover local models in GitHub Copilot CLI",
-          "title_zh": "在 GitHub Copilot CLI 中发现本地模型",
-          "title_en": "Discover local models in GitHub Copilot CLI",
-          "title_original": "Discover local models in GitHub Copilot CLI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-07-discover-local-models-in-github-copilot-cli",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T15:46:13Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b2ee605dc8cba7b47fafb515839143263ce95ea9",
-          "title": "在 GitHub Copilot CLI 中发现本地模型 / Discover local models in GitHub Copilot CLI",
-          "title_zh": "在 GitHub Copilot CLI 中发现本地模型",
-          "title_en": "Discover local models in GitHub Copilot CLI",
-          "title_original": "Discover local models in GitHub Copilot CLI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-07-discover-local-models-in-github-copilot-cli",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T15:46:13Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8429,
-      "importance": 0.8429,
-      "importance_score": 0.8429,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9497,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-07T15:46:13Z",
-      "latest_at": "2026-10-07T15:46:13Z",
-      "primary_item": {
-        "id": "b2ee605dc8cba7b47fafb515839143263ce95ea9",
-        "title": "在 GitHub Copilot CLI 中发现本地模型 / Discover local models in GitHub Copilot CLI",
-        "title_zh": "在 GitHub Copilot CLI 中发现本地模型",
-        "title_en": "Discover local models in GitHub Copilot CLI",
-        "title_original": "Discover local models in GitHub Copilot CLI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-07-discover-local-models-in-github-copilot-cli",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-07T19:21:45.219522Z"
-      }
-    },
-    {
-      "story_id": "story_d018af5dc3ed",
-      "title": "Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度 / We’re rolling out monthly Claude Platform API credits for Max and Team plans:",
-      "url": "https://x.com/ClaudeDevs/status/2107895957933408429",
-      "primary_url": "https://x.com/ClaudeDevs/status/2107895957933408429",
-      "source": "X：Claude Devs (@ClaudeDevs)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e61ba62b2c702585858363c034d3d4f396b2775a",
-          "title": "Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度 / We’re rolling out monthly Claude Platform API credits for Max and Team plans:",
-          "title_zh": "Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度",
-          "title_en": "We’re rolling out monthly Claude Platform API credits for Max and Team plans:",
-          "title_original": "We’re rolling out monthly Claude Platform API credits for Max and Team plans:",
-          "summary": "Anthropic 正在为 Claude Max 和 Team 套餐推出月度 Claude Platform API 额度：Max 5x 为 $100，Max 20x 为 $200，Team 最多 $500 且可共享。额度适用于任何模型，包括 Haiku 5.5，可在自己的代码或第三方 harness 中使用。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/ClaudeDevs/status/2107895957933408429",
-          "source": "X：Claude Devs (@ClaudeDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T18:08:53Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Claude Devs (@ClaudeDevs)"
-      ],
-      "items": [
-        {
-          "id": "e61ba62b2c702585858363c034d3d4f396b2775a",
-          "title": "Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度 / We’re rolling out monthly Claude Platform API credits for Max and Team plans:",
-          "title_zh": "Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度",
-          "title_en": "We’re rolling out monthly Claude Platform API credits for Max and Team plans:",
-          "title_original": "We’re rolling out monthly Claude Platform API credits for Max and Team plans:",
-          "summary": "Anthropic 正在为 Claude Max 和 Team 套餐推出月度 Claude Platform API 额度：Max 5x 为 $100，Max 20x 为 $200，Team 最多 $500 且可共享。额度适用于任何模型，包括 Haiku 5.5，可在自己的代码或第三方 harness 中使用。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/ClaudeDevs/status/2107895957933408429",
-          "source": "X：Claude Devs (@ClaudeDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T18:08:53Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8069,
-      "importance": 0.8069,
-      "importance_score": 0.8069,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.9828,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-07T18:08:53Z",
-      "latest_at": "2026-10-07T18:08:53Z",
-      "primary_item": {
-        "id": "e61ba62b2c702585858363c034d3d4f396b2775a",
-        "title": "Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度 / We’re rolling out monthly Claude Platform API credits for Max and Team plans:",
-        "title_zh": "Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度",
-        "title_en": "We’re rolling out monthly Claude Platform API credits for Max and Team plans:",
-        "title_original": "We’re rolling out monthly Claude Platform API credits for Max and Team plans:",
-        "summary": "Anthropic 正在为 Claude Max 和 Team 套餐推出月度 Claude Platform API 额度：Max 5x 为 $100，Max 20x 为 $200，Team 最多 $500 且可共享。额度适用于任何模型，包括 Haiku 5.5，可在自己的代码或第三方 harness 中使用。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/ClaudeDevs/status/2107895957933408429",
-        "source": "X：Claude Devs (@ClaudeDevs)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-07T19:21:45.219522Z"
+        "scored_at": "2026-10-08T00:11:29.785834Z"
       }
     },
     {
@@ -994,15 +467,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8339,
-      "importance": 0.8339,
-      "importance_score": 0.8339,
+      "score": 0.823,
+      "importance": 0.823,
+      "importance_score": 0.823,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8993,
+        "recency": 0.8388,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1029,7 +502,421 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T19:21:45.219522Z"
+        "scored_at": "2026-10-08T00:11:29.785834Z"
+      }
+    },
+    {
+      "story_id": "story_3d2baa621386",
+      "title": "Playground 简介：创建和玩自定义游戏 / Introducing Playground: Create and play custom games",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "848420b61bf519d454e6d7b9a53b94e0eef7dfc1",
+          "title": "Playground 简介：创建和玩自定义游戏 / Introducing Playground: Create and play custom games",
+          "title_zh": "Playground 简介：创建和玩自定义游戏",
+          "title_en": "Introducing Playground: Create and play custom games",
+          "title_original": "Introducing Playground: Create and play custom games",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-07T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "848420b61bf519d454e6d7b9a53b94e0eef7dfc1",
+          "title": "Playground 简介：创建和玩自定义游戏 / Introducing Playground: Create and play custom games",
+          "title_zh": "Playground 简介：创建和玩自定义游戏",
+          "title_en": "Introducing Playground: Create and play custom games",
+          "title_original": "Introducing Playground: Create and play custom games",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-07T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.815,
+      "importance": 0.815,
+      "importance_score": 0.815,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8388,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-07T12:00:00Z",
+      "latest_at": "2026-10-07T12:00:00Z",
+      "primary_item": {
+        "id": "848420b61bf519d454e6d7b9a53b94e0eef7dfc1",
+        "title": "Playground 简介：创建和玩自定义游戏 / Introducing Playground: Create and play custom games",
+        "title_zh": "Playground 简介：创建和玩自定义游戏",
+        "title_en": "Introducing Playground: Create and play custom games",
+        "title_original": "Introducing Playground: Create and play custom games",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-08T00:11:29.785834Z"
+      }
+    },
+    {
+      "story_id": "story_b9d295c686cc",
+      "title": "GitHub Copilot 的本地沙箱现已普遍可用 / Local sandboxing for GitHub Copilot now generally available",
+      "url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4b00cda75f5bf858a654f796a769ab4bacf81797",
+          "title": "GitHub Copilot 的本地沙箱现已普遍可用 / Local sandboxing for GitHub Copilot now generally available",
+          "title_zh": "GitHub Copilot 的本地沙箱现已普遍可用",
+          "title_en": "Local sandboxing for GitHub Copilot now generally available",
+          "title_original": "Local sandboxing for GitHub Copilot now generally available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-07T15:46:17Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "4b00cda75f5bf858a654f796a769ab4bacf81797",
+          "title": "GitHub Copilot 的本地沙箱现已普遍可用 / Local sandboxing for GitHub Copilot now generally available",
+          "title_zh": "GitHub Copilot 的本地沙箱现已普遍可用",
+          "title_en": "Local sandboxing for GitHub Copilot now generally available",
+          "title_original": "Local sandboxing for GitHub Copilot now generally available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-07T15:46:17Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8374,
+      "importance": 0.8374,
+      "importance_score": 0.8374,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.8858,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-07T15:46:17Z",
+      "latest_at": "2026-10-07T15:46:17Z",
+      "primary_item": {
+        "id": "4b00cda75f5bf858a654f796a769ab4bacf81797",
+        "title": "GitHub Copilot 的本地沙箱现已普遍可用 / Local sandboxing for GitHub Copilot now generally available",
+        "title_zh": "GitHub Copilot 的本地沙箱现已普遍可用",
+        "title_en": "Local sandboxing for GitHub Copilot now generally available",
+        "title_original": "Local sandboxing for GitHub Copilot now generally available",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-08T00:11:29.785834Z"
+      }
+    },
+    {
+      "story_id": "story_856527284047",
+      "title": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平 / One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "primary_url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d9cda66c440e460d39f69205bed1c9ae08d814f0",
+          "title": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平 / One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+          "title_zh": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平",
+          "title_en": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+          "title_original": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-07T12:45:31Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "d9cda66c440e460d39f69205bed1c9ae08d814f0",
+          "title": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平 / One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+          "title_zh": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平",
+          "title_en": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+          "title_original": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-07T12:45:31Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8327,
+      "importance": 0.8327,
+      "importance_score": 0.8327,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8481,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-07T12:45:31Z",
+      "latest_at": "2026-10-07T12:45:31Z",
+      "primary_item": {
+        "id": "d9cda66c440e460d39f69205bed1c9ae08d814f0",
+        "title": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平 / One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+        "title_zh": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平",
+        "title_en": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+        "title_original": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-08T00:11:29.785834Z"
+      }
+    },
+    {
+      "story_id": "story_d018af5dc3ed",
+      "title": "Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度 / We’re rolling out monthly Claude Platform API credits for Max and Team plans:",
+      "url": "https://x.com/ClaudeDevs/status/2107895957933408429",
+      "primary_url": "https://x.com/ClaudeDevs/status/2107895957933408429",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e61ba62b2c702585858363c034d3d4f396b2775a",
+          "title": "Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度 / We’re rolling out monthly Claude Platform API credits for Max and Team plans:",
+          "title_zh": "Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度",
+          "title_en": "We’re rolling out monthly Claude Platform API credits for Max and Team plans:",
+          "title_original": "We’re rolling out monthly Claude Platform API credits for Max and Team plans:",
+          "summary": "Anthropic 正在为 Claude Max 和 Team 套餐推出月度 Claude Platform API 额度：Max 5x 为 $100，Max 20x 为 $200，Team 最多 $500 且可共享。额度适用于任何模型，包括 Haiku 5.5，可在自己的代码或第三方 harness 中使用。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/ClaudeDevs/status/2107895957933408429",
+          "source": "X：Claude Devs (@ClaudeDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-07T18:08:53Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Claude Devs (@ClaudeDevs)"
+      ],
+      "items": [
+        {
+          "id": "e61ba62b2c702585858363c034d3d4f396b2775a",
+          "title": "Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度 / We’re rolling out monthly Claude Platform API credits for Max and Team plans:",
+          "title_zh": "Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度",
+          "title_en": "We’re rolling out monthly Claude Platform API credits for Max and Team plans:",
+          "title_original": "We’re rolling out monthly Claude Platform API credits for Max and Team plans:",
+          "summary": "Anthropic 正在为 Claude Max 和 Team 套餐推出月度 Claude Platform API 额度：Max 5x 为 $100，Max 20x 为 $200，Team 最多 $500 且可共享。额度适用于任何模型，包括 Haiku 5.5，可在自己的代码或第三方 harness 中使用。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/ClaudeDevs/status/2107895957933408429",
+          "source": "X：Claude Devs (@ClaudeDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-07T18:08:53Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.795,
+      "importance": 0.795,
+      "importance_score": 0.795,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.9167,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-07T18:08:53Z",
+      "latest_at": "2026-10-07T18:08:53Z",
+      "primary_item": {
+        "id": "e61ba62b2c702585858363c034d3d4f396b2775a",
+        "title": "Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度 / We’re rolling out monthly Claude Platform API credits for Max and Team plans:",
+        "title_zh": "Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度",
+        "title_en": "We’re rolling out monthly Claude Platform API credits for Max and Team plans:",
+        "title_original": "We’re rolling out monthly Claude Platform API credits for Max and Team plans:",
+        "summary": "Anthropic 正在为 Claude Max 和 Team 套餐推出月度 Claude Platform API 额度：Max 5x 为 $100，Max 20x 为 $200，Team 最多 $500 且可共享。额度适用于任何模型，包括 Haiku 5.5，可在自己的代码或第三方 harness 中使用。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/ClaudeDevs/status/2107895957933408429",
+        "source": "X：Claude Devs (@ClaudeDevs)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-08T00:11:29.785834Z"
+      }
+    },
+    {
+      "story_id": "story_e7c1dfa5362c",
+      "title": "丽笙酒店集团将酒店发现带入 ChatGPT / Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "url": "https://openai.com/index/radisson",
+      "primary_url": "https://openai.com/index/radisson",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c578cd61b355d43d82030df84d48a64b5415b5a3",
+          "title": "丽笙酒店集团将酒店发现带入 ChatGPT / Radisson Hotel Group brings hotel discovery into ChatGPT",
+          "title_zh": "丽笙酒店集团将酒店发现带入 ChatGPT",
+          "title_en": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+          "title_original": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/radisson",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-07T07:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "c578cd61b355d43d82030df84d48a64b5415b5a3",
+          "title": "丽笙酒店集团将酒店发现带入 ChatGPT / Radisson Hotel Group brings hotel discovery into ChatGPT",
+          "title_zh": "丽笙酒店集团将酒店发现带入 ChatGPT",
+          "title_en": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+          "title_original": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/radisson",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-07T07:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8205,
+      "importance": 0.8205,
+      "importance_score": 0.8205,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7804,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-07T07:00:00Z",
+      "latest_at": "2026-10-07T07:00:00Z",
+      "primary_item": {
+        "id": "c578cd61b355d43d82030df84d48a64b5415b5a3",
+        "title": "丽笙酒店集团将酒店发现带入 ChatGPT / Radisson Hotel Group brings hotel discovery into ChatGPT",
+        "title_zh": "丽笙酒店集团将酒店发现带入 ChatGPT",
+        "title_en": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+        "title_original": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/radisson",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-08T00:11:29.785834Z"
       }
     },
     {
@@ -1106,15 +993,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.802,
-      "importance": 0.802,
-      "importance_score": 0.802,
+      "score": 0.7901,
+      "importance": 0.7901,
+      "importance_score": 0.7901,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.6,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9832,
+        "recency": 0.917,
         "story_heat": 0.25
       },
       "category": "official",
@@ -1141,196 +1028,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T19:21:45.219522Z"
+        "scored_at": "2026-10-08T00:11:29.785834Z"
       }
     },
     {
-      "story_id": "story_c1863a515d19",
-      "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2 / EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
-      "primary_url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "1c38c2104dab1c15d85e04f1a3bde29427bf6695",
-          "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2 / EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-          "title_zh": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2",
-          "title_en": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-          "title_original": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T19:57:04Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "1c38c2104dab1c15d85e04f1a3bde29427bf6695",
-          "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2 / EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-          "title_zh": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2",
-          "title_en": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-          "title_original": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T19:57:04Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7924,
-      "importance": 0.7924,
-      "importance_score": 0.7924,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7133,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-06T19:57:04Z",
-      "latest_at": "2026-10-06T19:57:04Z",
-      "primary_item": {
-        "id": "1c38c2104dab1c15d85e04f1a3bde29427bf6695",
-        "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2 / EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-        "title_zh": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2",
-        "title_en": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-        "title_original": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-07T19:21:45.219522Z"
-      }
-    },
-    {
-      "story_id": "story_5ae21ce49023",
-      "title": "Codex CLI 0.161.0",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "00bae69e5124297b2dbc3de160b8f39638600310",
-          "title": "Codex CLI 0.161.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.161.0",
-          "title_original": "Codex CLI 0.161.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "00bae69e5124297b2dbc3de160b8f39638600310",
-          "title": "Codex CLI 0.161.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.161.0",
-          "title_original": "Codex CLI 0.161.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8221,
-      "importance": 0.8221,
-      "importance_score": 0.8221,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7563,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-07T00:00:00Z",
-      "latest_at": "2026-10-07T00:00:00Z",
-      "primary_item": {
-        "id": "00bae69e5124297b2dbc3de160b8f39638600310",
-        "title": "Codex CLI 0.161.0",
-        "title_zh": null,
-        "title_en": "Codex CLI 0.161.0",
-        "title_original": "Codex CLI 0.161.0",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-07T19:21:45.219522Z"
-      }
-    },
-    {
-      "story_id": "story_a5dc5a4d2dcb",
-      "title": "用于泄露秘密检测的专用模型 / Purpose-built model for leaked secret detection",
-      "url": "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection",
-      "primary_url": "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection",
+      "story_id": "story_58aa148af326",
+      "title": "在 GitHub Copilot CLI 中发现本地模型 / Discover local models in GitHub Copilot CLI",
+      "url": "https://github.blog/changelog/2026-10-07-discover-local-models-in-github-copilot-cli",
+      "primary_url": "https://github.blog/changelog/2026-10-07-discover-local-models-in-github-copilot-cli",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "6ee63ce2297e3b1235a0088ed54c15b30891ac18",
-          "title": "用于泄露秘密检测的专用模型 / Purpose-built model for leaked secret detection",
-          "title_zh": "用于泄露秘密检测的专用模型",
-          "title_en": "Purpose-built model for leaked secret detection",
-          "title_original": "Purpose-built model for leaked secret detection",
+          "id": "b2ee605dc8cba7b47fafb515839143263ce95ea9",
+          "title": "在 GitHub Copilot CLI 中发现本地模型 / Discover local models in GitHub Copilot CLI",
+          "title_zh": "在 GitHub Copilot CLI 中发现本地模型",
+          "title_en": "Discover local models in GitHub Copilot CLI",
+          "title_original": "Discover local models in GitHub Copilot CLI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection",
+          "url": "https://github.blog/changelog/2026-10-07-discover-local-models-in-github-copilot-cli",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-07T16:13:56Z"
+          "published_at": "2026-10-07T15:46:13Z"
         }
       ],
       "source_count": 1,
@@ -1339,31 +1060,31 @@
       ],
       "items": [
         {
-          "id": "6ee63ce2297e3b1235a0088ed54c15b30891ac18",
-          "title": "用于泄露秘密检测的专用模型 / Purpose-built model for leaked secret detection",
-          "title_zh": "用于泄露秘密检测的专用模型",
-          "title_en": "Purpose-built model for leaked secret detection",
-          "title_original": "Purpose-built model for leaked secret detection",
+          "id": "b2ee605dc8cba7b47fafb515839143263ce95ea9",
+          "title": "在 GitHub Copilot CLI 中发现本地模型 / Discover local models in GitHub Copilot CLI",
+          "title_zh": "在 GitHub Copilot CLI 中发现本地模型",
+          "title_en": "Discover local models in GitHub Copilot CLI",
+          "title_original": "Discover local models in GitHub Copilot CLI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection",
+          "url": "https://github.blog/changelog/2026-10-07-discover-local-models-in-github-copilot-cli",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-07T16:13:56Z"
+          "published_at": "2026-10-07T15:46:13Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8361,
-      "importance": 0.8361,
-      "importance_score": 0.8361,
+      "score": 0.8314,
+      "importance": 0.8314,
+      "importance_score": 0.8314,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.956,
+        "ai_relevance": 0.91,
+        "recency": 0.8858,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1372,17 +1093,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-07T16:13:56Z",
-      "latest_at": "2026-10-07T16:13:56Z",
+      "earliest_at": "2026-10-07T15:46:13Z",
+      "latest_at": "2026-10-07T15:46:13Z",
       "primary_item": {
-        "id": "6ee63ce2297e3b1235a0088ed54c15b30891ac18",
-        "title": "用于泄露秘密检测的专用模型 / Purpose-built model for leaked secret detection",
-        "title_zh": "用于泄露秘密检测的专用模型",
-        "title_en": "Purpose-built model for leaked secret detection",
-        "title_original": "Purpose-built model for leaked secret detection",
+        "id": "b2ee605dc8cba7b47fafb515839143263ce95ea9",
+        "title": "在 GitHub Copilot CLI 中发现本地模型 / Discover local models in GitHub Copilot CLI",
+        "title_zh": "在 GitHub Copilot CLI 中发现本地模型",
+        "title_en": "Discover local models in GitHub Copilot CLI",
+        "title_original": "Discover local models in GitHub Copilot CLI",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection",
+        "url": "https://github.blog/changelog/2026-10-07-discover-local-models-in-github-copilot-cli",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -1390,7 +1111,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T19:21:45.219522Z"
+        "scored_at": "2026-10-08T00:11:29.785834Z"
       }
     },
     {
@@ -1438,15 +1159,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7751,
-      "importance": 0.7751,
-      "importance_score": 0.7751,
+      "score": 0.7631,
+      "importance": 0.7631,
+      "importance_score": 0.7631,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9915,
+        "recency": 0.9248,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1472,7 +1193,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T19:21:45.219522Z"
+        "scored_at": "2026-10-08T00:11:29.785834Z"
       }
     },
     {
@@ -1520,15 +1241,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7741,
-      "importance": 0.7741,
-      "importance_score": 0.7741,
+      "score": 0.7628,
+      "importance": 0.7628,
+      "importance_score": 0.7628,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9361,
+        "recency": 0.8731,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1554,7 +1275,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T19:21:45.219522Z"
+        "scored_at": "2026-10-08T00:11:29.785834Z"
       }
     },
     {
@@ -1602,15 +1323,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7732,
-      "importance": 0.7732,
-      "importance_score": 0.7732,
+      "score": 0.7611,
+      "importance": 0.7611,
+      "importance_score": 0.7611,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9979,
+        "recency": 0.9308,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1636,90 +1357,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T19:21:45.219522Z"
-      }
-    },
-    {
-      "story_id": "story_e7c1dfa5362c",
-      "title": "丽笙酒店集团将酒店发现带入 ChatGPT / Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "url": "https://openai.com/index/radisson",
-      "primary_url": "https://openai.com/index/radisson",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c578cd61b355d43d82030df84d48a64b5415b5a3",
-          "title": "丽笙酒店集团将酒店发现带入 ChatGPT / Radisson Hotel Group brings hotel discovery into ChatGPT",
-          "title_zh": "丽笙酒店集团将酒店发现带入 ChatGPT",
-          "title_en": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-          "title_original": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/radisson",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T07:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "c578cd61b355d43d82030df84d48a64b5415b5a3",
-          "title": "丽笙酒店集团将酒店发现带入 ChatGPT / Radisson Hotel Group brings hotel discovery into ChatGPT",
-          "title_zh": "丽笙酒店集团将酒店发现带入 ChatGPT",
-          "title_en": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-          "title_original": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/radisson",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T07:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8306,
-      "importance": 0.8306,
-      "importance_score": 0.8306,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8367,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-07T07:00:00Z",
-      "latest_at": "2026-10-07T07:00:00Z",
-      "primary_item": {
-        "id": "c578cd61b355d43d82030df84d48a64b5415b5a3",
-        "title": "丽笙酒店集团将酒店发现带入 ChatGPT / Radisson Hotel Group brings hotel discovery into ChatGPT",
-        "title_zh": "丽笙酒店集团将酒店发现带入 ChatGPT",
-        "title_en": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-        "title_original": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/radisson",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-07T19:21:45.219522Z"
+        "scored_at": "2026-10-08T00:11:29.785834Z"
       }
     },
     {
@@ -1767,15 +1405,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7633,
-      "importance": 0.7633,
-      "importance_score": 0.7633,
+      "score": 0.7521,
+      "importance": 0.7521,
+      "importance_score": 0.7521,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9261,
+        "recency": 0.8638,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1801,7 +1439,333 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T19:21:45.219522Z"
+        "scored_at": "2026-10-08T00:11:29.785834Z"
+      }
+    },
+    {
+      "story_id": "story_e4350e8ce423",
+      "title": "Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格 / Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.",
+      "url": "https://x.com/cursor_ai/status/2107897257651769464",
+      "primary_url": "https://x.com/cursor_ai/status/2107897257651769464",
+      "source": "X：Cursor (@cursor_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "53355e489f229621f1e8889e7bc47861aa900a2a",
+          "title": "Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格 / Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.",
+          "title_zh": "Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格",
+          "title_en": "Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.",
+          "title_original": "Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.",
+          "summary": "Cursor 公布 Claude Haiku 5.5 定价为每 M 输入 token $0.10、输出 token $0.50，输入超过 100k token 时为 $0.50/M 和 $2.50/M。Claude Sonnet 5.5 缓存读取价格也从 $0.20/M 降至 $0.10/M，用户可在 cursor.com/evals 上通过 CursorBench 对比 Haiku 5.5 的表现。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/cursor_ai/status/2107897257651769464",
+          "source": "X：Cursor (@cursor_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-07T18:14:03Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Cursor (@cursor_ai)"
+      ],
+      "items": [
+        {
+          "id": "53355e489f229621f1e8889e7bc47861aa900a2a",
+          "title": "Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格 / Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.",
+          "title_zh": "Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格",
+          "title_en": "Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.",
+          "title_original": "Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.",
+          "summary": "Cursor 公布 Claude Haiku 5.5 定价为每 M 输入 token $0.10、输出 token $0.50，输入超过 100k token 时为 $0.50/M 和 $2.50/M。Claude Sonnet 5.5 缓存读取价格也从 $0.20/M 降至 $0.10/M，用户可在 cursor.com/evals 上通过 CursorBench 对比 Haiku 5.5 的表现。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/cursor_ai/status/2107897257651769464",
+          "source": "X：Cursor (@cursor_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-07T18:14:03Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7498,
+      "importance": 0.7498,
+      "importance_score": 0.7498,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9179,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-07T18:14:03Z",
+      "latest_at": "2026-10-07T18:14:03Z",
+      "primary_item": {
+        "id": "53355e489f229621f1e8889e7bc47861aa900a2a",
+        "title": "Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格 / Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.",
+        "title_zh": "Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格",
+        "title_en": "Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.",
+        "title_original": "Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.",
+        "summary": "Cursor 公布 Claude Haiku 5.5 定价为每 M 输入 token $0.10、输出 token $0.50，输入超过 100k token 时为 $0.50/M 和 $2.50/M。Claude Sonnet 5.5 缓存读取价格也从 $0.20/M 降至 $0.10/M，用户可在 cursor.com/evals 上通过 CursorBench 对比 Haiku 5.5 的表现。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/cursor_ai/status/2107897257651769464",
+        "source": "X：Cursor (@cursor_ai)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-08T00:11:29.785834Z"
+      }
+    },
+    {
+      "story_id": "story_2ff342ef8210",
+      "title": "GPT-6 Luna Decisions 上架 OpenRouter / GPT-6 Luna Decisions is now on OpenRouter",
+      "url": "https://x.com/OpenRouter/status/2107929204142874759",
+      "primary_url": "https://x.com/OpenRouter/status/2107929204142874759",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5f6ad1411daca1cfdaa088277b17c6467c921709",
+          "title": "GPT-6 Luna Decisions 上架 OpenRouter / GPT-6 Luna Decisions is now on OpenRouter",
+          "title_zh": "GPT-6 Luna Decisions 上架 OpenRouter",
+          "title_en": "GPT-6 Luna Decisions is now on OpenRouter",
+          "title_original": "GPT-6 Luna Decisions is now on OpenRouter",
+          "summary": "OpenRouter 宣布 GPT-6 Luna Decisions 上线。OpenAI 的 Decisions API 可让应用选择合适的模型、工具或动作，支持发送文本、JSON 或图片并返回带概率的类型化答案。定价为输入 $0.10/M、输出免费，上下文 1M；引用 OpenAI 开发者账号称其决策速度比通过 Responses API 的 GPT-6 Luna 最快 10 倍。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenRouter/status/2107929204142874759",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-07T20:21:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenRouter (@OpenRouter)"
+      ],
+      "items": [
+        {
+          "id": "5f6ad1411daca1cfdaa088277b17c6467c921709",
+          "title": "GPT-6 Luna Decisions 上架 OpenRouter / GPT-6 Luna Decisions is now on OpenRouter",
+          "title_zh": "GPT-6 Luna Decisions 上架 OpenRouter",
+          "title_en": "GPT-6 Luna Decisions is now on OpenRouter",
+          "title_original": "GPT-6 Luna Decisions is now on OpenRouter",
+          "summary": "OpenRouter 宣布 GPT-6 Luna Decisions 上线。OpenAI 的 Decisions API 可让应用选择合适的模型、工具或动作，支持发送文本、JSON 或图片并返回带概率的类型化答案。定价为输入 $0.10/M、输出免费，上下文 1M；引用 OpenAI 开发者账号称其决策速度比通过 Responses API 的 GPT-6 Luna 最快 10 倍。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenRouter/status/2107929204142874759",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-07T20:21:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7399,
+      "importance": 0.7399,
+      "importance_score": 0.7399,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9463,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-07T20:21:00Z",
+      "latest_at": "2026-10-07T20:21:00Z",
+      "primary_item": {
+        "id": "5f6ad1411daca1cfdaa088277b17c6467c921709",
+        "title": "GPT-6 Luna Decisions 上架 OpenRouter / GPT-6 Luna Decisions is now on OpenRouter",
+        "title_zh": "GPT-6 Luna Decisions 上架 OpenRouter",
+        "title_en": "GPT-6 Luna Decisions is now on OpenRouter",
+        "title_original": "GPT-6 Luna Decisions is now on OpenRouter",
+        "summary": "OpenRouter 宣布 GPT-6 Luna Decisions 上线。OpenAI 的 Decisions API 可让应用选择合适的模型、工具或动作，支持发送文本、JSON 或图片并返回带概率的类型化答案。定价为输入 $0.10/M、输出免费，上下文 1M；引用 OpenAI 开发者账号称其决策速度比通过 Responses API 的 GPT-6 Luna 最快 10 倍。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/OpenRouter/status/2107929204142874759",
+        "source": "X：OpenRouter (@OpenRouter)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-08T00:11:29.785834Z"
+      }
+    },
+    {
+      "story_id": "story_63ffa7f8acf5",
+      "title": "Microsoft Research Asia 开源 Agent Lightning v1.0：3,500 行代码的真实 harness 智能体 RL 训练框架 / Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
+      "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses",
+      "primary_url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses",
+      "source": "Microsoft Research 博客（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "74ccba7acc445f10a7295fa2758bf445780c47b6",
+          "title": "Microsoft Research Asia 开源 Agent Lightning v1.0：3,500 行代码的真实 harness 智能体 RL 训练框架 / Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
+          "title_zh": "Microsoft Research Asia 开源 Agent Lightning v1.0：3,500 行代码的真实 harness 智能体 RL 训练框架",
+          "title_en": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
+          "title_original": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
+          "summary": "Microsoft Research Asia 提出 Harnessed Agentic RL 训练范式并开源重建的 Agent Lightning v1.0，让部署时使用的同一 agent harness 直接参与强化学习，无需在训练框架内重写 agent。",
+          "recommend_reason_zh": null,
+          "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses",
+          "source": "Microsoft Research 博客（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-07T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Microsoft Research 博客（RSS）"
+      ],
+      "items": [
+        {
+          "id": "74ccba7acc445f10a7295fa2758bf445780c47b6",
+          "title": "Microsoft Research Asia 开源 Agent Lightning v1.0：3,500 行代码的真实 harness 智能体 RL 训练框架 / Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
+          "title_zh": "Microsoft Research Asia 开源 Agent Lightning v1.0：3,500 行代码的真实 harness 智能体 RL 训练框架",
+          "title_en": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
+          "title_original": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
+          "summary": "Microsoft Research Asia 提出 Harnessed Agentic RL 训练范式并开源重建的 Agent Lightning v1.0，让部署时使用的同一 agent harness 直接参与强化学习，无需在训练框架内重写 agent。",
+          "recommend_reason_zh": null,
+          "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses",
+          "source": "Microsoft Research 博客（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-07T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7386,
+      "importance": 0.7386,
+      "importance_score": 0.7386,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8887,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-07T16:00:00Z",
+      "latest_at": "2026-10-07T16:00:00Z",
+      "primary_item": {
+        "id": "74ccba7acc445f10a7295fa2758bf445780c47b6",
+        "title": "Microsoft Research Asia 开源 Agent Lightning v1.0：3,500 行代码的真实 harness 智能体 RL 训练框架 / Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
+        "title_zh": "Microsoft Research Asia 开源 Agent Lightning v1.0：3,500 行代码的真实 harness 智能体 RL 训练框架",
+        "title_en": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
+        "title_original": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
+        "summary": "Microsoft Research Asia 提出 Harnessed Agentic RL 训练范式并开源重建的 Agent Lightning v1.0，让部署时使用的同一 agent harness 直接参与强化学习，无需在训练框架内重写 agent。",
+        "recommend_reason_zh": null,
+        "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses",
+        "source": "Microsoft Research 博客（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-08T00:11:29.785834Z"
+      }
+    },
+    {
+      "story_id": "story_a5dc5a4d2dcb",
+      "title": "用于泄露秘密检测的专用模型 / Purpose-built model for leaked secret detection",
+      "url": "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection",
+      "primary_url": "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6ee63ce2297e3b1235a0088ed54c15b30891ac18",
+          "title": "用于泄露秘密检测的专用模型 / Purpose-built model for leaked secret detection",
+          "title_zh": "用于泄露秘密检测的专用模型",
+          "title_en": "Purpose-built model for leaked secret detection",
+          "title_original": "Purpose-built model for leaked secret detection",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-07T16:13:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "6ee63ce2297e3b1235a0088ed54c15b30891ac18",
+          "title": "用于泄露秘密检测的专用模型 / Purpose-built model for leaked secret detection",
+          "title_zh": "用于泄露秘密检测的专用模型",
+          "title_en": "Purpose-built model for leaked secret detection",
+          "title_original": "Purpose-built model for leaked secret detection",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-07T16:13:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8245,
+      "importance": 0.8245,
+      "importance_score": 0.8245,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8917,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-07T16:13:56Z",
+      "latest_at": "2026-10-07T16:13:56Z",
+      "primary_item": {
+        "id": "6ee63ce2297e3b1235a0088ed54c15b30891ac18",
+        "title": "用于泄露秘密检测的专用模型 / Purpose-built model for leaked secret detection",
+        "title_zh": "用于泄露秘密检测的专用模型",
+        "title_en": "Purpose-built model for leaked secret detection",
+        "title_original": "Purpose-built model for leaked secret detection",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-08T00:11:29.785834Z"
       }
     }
   ]
